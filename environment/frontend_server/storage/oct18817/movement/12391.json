@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing studying, preparations for a potluck event, setting up tables and chairs, checking table decorations, and ensuring there are enough plates, utensils, and cups for the potluck guests. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's studying going for you today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going well. I'm feeling prepared for our potluck preparations later today. How about you? How's the cafe going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! The cafe is coming along nicely. I'm excited for our potluck event later today. Do you need any help with your studying?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I feel pretty good about my preparations. I appreciate your offer. I should be fine, but thank you for checking in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know if you need any help later on. I'll be here all day preparing for the potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll make sure to reach out if I need any assistance later. Good luck with the cafe preparations!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm going to check on the progress of the potluck event in a bit. Would you like to join me?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to join you and see how everything is coming along for the potluck event!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's head over to the potluck area and check on things together."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you need help with for the potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We could use some help setting up the tables and chairs for the potluck. Would you be able to assist with that?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, I'd be happy to help with setting up the tables and chairs for the potluck. Let's get started!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's grab the tablecloths and centerpieces for the tables. We can make them look really nice for the potluck guests."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also make sure we have enough plates, utensils, and cups for the potluck guests?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we should definitely make sure we have enough plates, utensils, and cups for the potluck guests. Let's go check on those supplies now."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific theme or color scheme we should follow for the table decorations?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing studying, preparations for a potluck event, setting up tables and chairs, checking table decorations, and ensuring there are enough plates, utensils, and cups for the potluck guests. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's studying going for you today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going well. I'm feeling prepared for our potluck preparations later today. How about you? How's the cafe going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! The cafe is coming along nicely. I'm excited for our potluck event later today. Do you need any help with your studying?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I feel pretty good about my preparations. I appreciate your offer. I should be fine, but thank you for checking in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know if you need any help later on. I'll be here all day preparing for the potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'll make sure to reach out if I need any assistance later. Good luck with the cafe preparations!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm going to check on the progress of the potluck event in a bit. Would you like to join me?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to join you and see how everything is coming along for the potluck event!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's head over to the potluck area and check on things together."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you need help with for the potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We could use some help setting up the tables and chairs for the potluck. Would you be able to assist with that?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, I'd be happy to help with setting up the tables and chairs for the potluck. Let's get started!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's grab the tablecloths and centerpieces for the tables. We can make them look really nice for the potluck guests."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also make sure we have enough plates, utensils, and cups for the potluck guests?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we should definitely make sure we have enough plates, utensils, and cups for the potluck guests. Let's go check on those supplies now."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific theme or color scheme we should follow for the table decorations?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his research paper at the library (reviewing his notes on gentrification) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:25:10"
+  }
+}

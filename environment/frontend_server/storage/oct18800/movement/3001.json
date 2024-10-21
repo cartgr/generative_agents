@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc86\u200d\u2640",
+      "description": "completing her morning routine (drying her hair) @ the Ville:Isabella Rodriguez's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends chatting about their sleep, plans for the day, potential video games to play, and arranging to meet up for lunch to discuss one friend's research paper on gentrification in low-income communities @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how did you sleep last night?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I slept pretty well, thanks for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I had a good night's sleep as well. I'm looking forward to streaming some games later today."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fun! What games are you planning to play?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm thinking of playing some Overwatch and then maybe some Valorant. How about you, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually working on my research paper on the effects of gentrification in low-income communities today. It's a pretty big project."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like an important topic, Klaus. I'm always interested in social issues. Let me know if you need any help with your research!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I appreciate your offer. It's a challenging topic, but I'm determined to make a difference."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab lunch together later and maybe discuss more about your research paper?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I would love to discuss my research paper over lunch."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's meet at Hobbs Cafe at 1pm. I'll finish up my streaming sessions by then."
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me, Maria! See you at Hobbs Cafe at 1pm."
+        ],
+        [
+          "Maria Lopez",
+          "Alright, see you at 1pm, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to discuss my research paper with you over lunch, Maria. It's always great to get different perspectives on such important topics."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 1pm then. Looking forward to our discussion!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm grateful for your support and interest, Maria. It means a lot to me."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends chatting about their sleep, plans for the day, potential video games to play, and arranging to meet up for lunch to discuss one friend's research paper on gentrification in low-income communities @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how did you sleep last night?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I slept pretty well, thanks for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I had a good night's sleep as well. I'm looking forward to streaming some games later today."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fun! What games are you planning to play?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm thinking of playing some Overwatch and then maybe some Valorant. How about you, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually working on my research paper on the effects of gentrification in low-income communities today. It's a pretty big project."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like an important topic, Klaus. I'm always interested in social issues. Let me know if you need any help with your research!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I appreciate your offer. It's a challenging topic, but I'm determined to make a difference."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to grab lunch together later and maybe discuss more about your research paper?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I would love to discuss my research paper over lunch."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's meet at Hobbs Cafe at 1pm. I'll finish up my streaming sessions by then."
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me, Maria! See you at Hobbs Cafe at 1pm."
+        ],
+        [
+          "Maria Lopez",
+          "Alright, see you at 1pm, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to discuss my research paper with you over lunch, Maria. It's always great to get different perspectives on such important topics."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 1pm then. Looking forward to our discussion!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm grateful for your support and interest, Maria. It means a lot to me."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:20:10"
+  }
+}

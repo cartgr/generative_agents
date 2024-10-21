@@ -9,7 +9,7 @@ Variables:
 !<INPUT 5>! -- prompt_ending
 
 <commentblockmarker>###</commentblockmarker>
-Hourly schedule format: 
+IT IS VERY IMPORTANT THAT YOU DO NOT INCLUDE ANYTHING EXTRA IN YOUR RESPONSE AND THAT YOU ONLY COMPLETE THE LINE. Hourly schedule format: 
 !<INPUT 0>!
 ===
 !<INPUT 1>!

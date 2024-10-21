@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd50",
+      "description": "serving customers at Hobbs Cafe, taking orders and preparing drinks (checking the pastry display and restocking if necessary) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        115,
+        43
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their research paper on gentrification and physics test preparation, making plans to meet for lunch at the cafeteria, discuss study notes over new coffee blends at Hobbs Cafe, try out vegan options, and improve their collaborative study approach while sharing snacks and bringing laptops to look up additional information. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the research paper on gentrification coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along well. I've outlined the structure of the paper and found some interesting case studies to include. How about you, how's your physics test preparation going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear, Klaus. I've been reviewing the key concepts from the textbook and feel pretty confident about the upcoming test. Do you want to grab lunch together later and maybe go over some study notes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure Maria, that sounds like a great idea. I could use a break from research. Let's meet at 1pm at the cafeteria."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at 1pm at the cafeteria. I'll bring my study notes with me."
+        ],
+        [
+          "Klaus Mueller",
+          "Maybe we can discuss some new coffee blends at Hobbs Cafe while we go over our study notes?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll look forward to trying out those new coffee blends with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my notebook with me too so we can jot down any important points."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to try out the new vegan options at the caf\u00e9 as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'm interested in trying out the new vegan options at the caf\u00e9 as well. See you at 1pm!"
+        ],
+        [
+          "Maria Lopez",
+          "We can also discuss our collaborative study approach and see if there are any improvements we can make."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! I'm looking forward to discussing our collaborative study approach and seeing if there are any improvements we can make. See you at 1pm!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also bring some snacks to share while we study."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to lunch and discussing our study notes and approach! See you at 1pm!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll bring my laptop as well to look up any additional information we may need."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like we have a productive lunch planned, Maria. I'll make sure to bring my laptop too, just in case we need to look up any additional information."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        42
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about their research paper on gentrification and physics test preparation, making plans to meet for lunch at the cafeteria, discuss study notes over new coffee blends at Hobbs Cafe, try out vegan options, and improve their collaborative study approach while sharing snacks and bringing laptops to look up additional information. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the research paper on gentrification coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along well. I've outlined the structure of the paper and found some interesting case studies to include. How about you, how's your physics test preparation going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear, Klaus. I've been reviewing the key concepts from the textbook and feel pretty confident about the upcoming test. Do you want to grab lunch together later and maybe go over some study notes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure Maria, that sounds like a great idea. I could use a break from research. Let's meet at 1pm at the cafeteria."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at 1pm at the cafeteria. I'll bring my study notes with me."
+        ],
+        [
+          "Klaus Mueller",
+          "Maybe we can discuss some new coffee blends at Hobbs Cafe while we go over our study notes?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll look forward to trying out those new coffee blends with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my notebook with me too so we can jot down any important points."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to try out the new vegan options at the caf\u00e9 as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'm interested in trying out the new vegan options at the caf\u00e9 as well. See you at 1pm!"
+        ],
+        [
+          "Maria Lopez",
+          "We can also discuss our collaborative study approach and see if there are any improvements we can make."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! I'm looking forward to discussing our collaborative study approach and seeing if there are any improvements we can make. See you at 1pm!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also bring some snacks to share while we study."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to lunch and discussing our study notes and approach! See you at 1pm!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll bring my laptop as well to look up any additional information we may need."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like we have a productive lunch planned, Maria. I'll make sure to bring my laptop too, just in case we need to look up any additional information."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:26:10"
+  }
+}

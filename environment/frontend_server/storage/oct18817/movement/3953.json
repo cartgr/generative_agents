@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing study snacks and beverages as Maria prepares to study physics, with Isabella offering coffee, pastries, and a quiet study spot at a cozy corner table near the window. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! It's great to see you here. Are you here to study or just stopping by for a break?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! I'm actually here to study. I have a lot of physics notes to go over."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like some coffee or tea while you study?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, a cup of coffee would be great. Thank you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll get that coffee for you right away. Anything else you need?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any pastries or snacks available? I could use a little something to eat while I study."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, we have a selection of pastries and snacks available. Let me show you the options."
+        ],
+        [
+          "Maria Lopez",
+          "I'll take a croissant and a bottle of water, please."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here is your coffee and croissant, along with a bottle of water. Enjoy your study session, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate it. Is there a quiet spot in the cafe where I can study?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we have a cozy corner table near the window that is usually quiet. You can set up there for your study session."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll head over to the cozy corner table near the window to start studying."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know if you need anything else, Maria. I'll be here if you have any questions or need more coffee or snacks."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate your help. I'll let you know if I need anything else."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to reach out if you have any questions or need anything else. Enjoy your study session, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I think I'm all set now. I'll start studying. If I need anything else, I'll be sure to let you know."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing study snacks and beverages as Maria prepares to study physics, with Isabella offering coffee, pastries, and a quiet study spot at a cozy corner table near the window. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! It's great to see you here. Are you here to study or just stopping by for a break?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! I'm actually here to study. I have a lot of physics notes to go over."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like some coffee or tea while you study?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, a cup of coffee would be great. Thank you!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll get that coffee for you right away. Anything else you need?"
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any pastries or snacks available? I could use a little something to eat while I study."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, we have a selection of pastries and snacks available. Let me show you the options."
+        ],
+        [
+          "Maria Lopez",
+          "I'll take a croissant and a bottle of water, please."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here is your coffee and croissant, along with a bottle of water. Enjoy your study session, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate it. Is there a quiet spot in the cafe where I can study?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, we have a cozy corner table near the window that is usually quiet. You can set up there for your study session."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll head over to the cozy corner table near the window to start studying."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let me know if you need anything else, Maria. I'll be here if you have any questions or need more coffee or snacks."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate your help. I'll let you know if I need anything else."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to reach out if you have any questions or need anything else. Enjoy your study session, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I think I'm all set now. I'll start studying. If I need anything else, I'll be sure to let you know."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his research paper in the library (outlining the structure of his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:58:50"
+  }
+}

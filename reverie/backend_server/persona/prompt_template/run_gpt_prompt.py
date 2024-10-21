@@ -316,9 +316,17 @@ def run_gpt_prompt_generate_hourly_schedule(
     prompt = generate_prompt(prompt_input, prompt_template)
     fail_safe = get_fail_safe()
 
+    print("CARTERDEBUG1START")
+    print(prompt)
+    print("CARTERDEBUG1END")
+
     output = safe_generate_response(
         prompt, gpt_param, 5, fail_safe, __func_validate, __func_clean_up
     )
+
+    print("CARTERDEBUG2START")
+    print(output)
+    print("CARTERDEBUG2END")
 
     if debug or verbose:
         print_run_prompts(
@@ -389,12 +397,33 @@ def run_gpt_prompt_task_decomp(persona, task, duration, test_input=None, verbose
         prompt_input += [persona.scratch.get_str_firstname()]
         return prompt_input
 
+    # def __func_clean_up(gpt_response, prompt=""):
+    #     print("TOODOOOOOO")
+    #     print(gpt_response)
+    #     print("-==- -==- -==- ")
+
+    #     # TODO SOMETHING HERE sometimes fails... See screenshot
+    #     temp = [i.strip() for i in gpt_response.split("\n")]
+    #     _cr = []
+    #     cr = []
+    #     for count, i in enumerate(temp):
+    #         if count != 0:
+    #             _cr += [" ".join([j.strip() for j in i.split(" ")][3:])]
+    #         else:
+    #             _cr += [i]
+    #     for count, i in enumerate(_cr):
+    #         k = [j.strip() for j in i.split("(duration in minutes:")]
+    #         task = k[0]
+    #         if task[-1] == ".":
+    #             task = task[:-1]
+    #         duration = int(k[1].split(",")[0].strip())
+    #         cr += [[task, duration]]
+
     def __func_clean_up(gpt_response, prompt=""):
         print("TOODOOOOOO")
         print(gpt_response)
         print("-==- -==- -==- ")
 
-        # TODO SOMETHING HERE sometimes fails... See screenshot
         temp = [i.strip() for i in gpt_response.split("\n")]
         _cr = []
         cr = []
@@ -406,8 +435,9 @@ def run_gpt_prompt_task_decomp(persona, task, duration, test_input=None, verbose
         for count, i in enumerate(_cr):
             k = [j.strip() for j in i.split("(duration in minutes:")]
             task = k[0]
-            if task[-1] == ".":
-                task = task[:-1]
+            if task:  # Add this check
+                if task[-1] == ".":
+                    task = task[:-1]
             duration = int(k[1].split(",")[0].strip())
             cr += [[task, duration]]
 

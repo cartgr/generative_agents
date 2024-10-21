@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are chatting about studying for an exam, planning for a Potluck event on February 14th at 5pm, and inviting friends to enjoy vegan dishes. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, I noticed you were studying. Are you preparing for an exam or just catching up on some reading?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! I'm actually preparing for an exam coming up next week. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck on your exam next week, Maria! If you need a quiet place to study, feel free to use our back seating area during the day."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I appreciate that offer. I might take you up on that offer for a change of scenery. How's the planning for the Potluck going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The planning for the Potluck is going well! I hope you can make it on February 14th at 5pm. It'll be a great opportunity to take a break from studying and enjoy some delicious vegan dishes with us."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fantastic! I will definitely try to make it to the Potluck on February 14th at 5pm. Thank you for inviting me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save you a seat at the Potluck! Let me know if you have any dietary restrictions so I can accommodate them."
+        ],
+        [
+          "Maria Lopez",
+          "I appreciate the invitation, Isabella! I don't have any dietary restrictions, so I'm looking forward to trying out your vegan dishes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear that you don't have any dietary restrictions, Maria! I'm sure you'll love the variety of vegan dishes we'll have at the Potluck. If you have any friends who might be interested in joining, feel free to bring them along as well."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I will definitely bring a friend along to the Potluck on February 14th at 5pm. I'm sure they'll enjoy the vegan dishes too."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're bringing a friend to the Potluck, Maria! It'll be a fun event for all of us to enjoy together. If you need any more information or have any questions about the Potluck, feel free to ask me anytime."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll definitely keep that in mind. I appreciate all your hard work in planning the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice chatting with you, Maria! Feel free to reach out if you need any study breaks or just want to chat. Good luck with your exam preparation!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella! I will definitely take you up on the offer to use the back seating area for studying. I'll see you at the Potluck on February 14th at 5pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to seeing you at the Potluck on February 14th at 5pm, Maria! Have a great day and best of luck with your exam preparation!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm glad we had this chat. I'll be sure to let my friend know about the Potluck on February 14th at 5pm. Have a great day!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are chatting about studying for an exam, planning for a Potluck event on February 14th at 5pm, and inviting friends to enjoy vegan dishes. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, I noticed you were studying. Are you preparing for an exam or just catching up on some reading?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! I'm actually preparing for an exam coming up next week. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Good luck on your exam next week, Maria! If you need a quiet place to study, feel free to use our back seating area during the day."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much, Isabella! I appreciate that offer. I might take you up on that offer for a change of scenery. How's the planning for the Potluck going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The planning for the Potluck is going well! I hope you can make it on February 14th at 5pm. It'll be a great opportunity to take a break from studying and enjoy some delicious vegan dishes with us."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fantastic! I will definitely try to make it to the Potluck on February 14th at 5pm. Thank you for inviting me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save you a seat at the Potluck! Let me know if you have any dietary restrictions so I can accommodate them."
+        ],
+        [
+          "Maria Lopez",
+          "I appreciate the invitation, Isabella! I don't have any dietary restrictions, so I'm looking forward to trying out your vegan dishes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear that you don't have any dietary restrictions, Maria! I'm sure you'll love the variety of vegan dishes we'll have at the Potluck. If you have any friends who might be interested in joining, feel free to bring them along as well."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I will definitely bring a friend along to the Potluck on February 14th at 5pm. I'm sure they'll enjoy the vegan dishes too."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're bringing a friend to the Potluck, Maria! It'll be a fun event for all of us to enjoy together. If you need any more information or have any questions about the Potluck, feel free to ask me anytime."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll definitely keep that in mind. I appreciate all your hard work in planning the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was nice chatting with you, Maria! Feel free to reach out if you need any study breaks or just want to chat. Good luck with your exam preparation!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella! I will definitely take you up on the offer to use the back seating area for studying. I'll see you at the Potluck on February 14th at 5pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to seeing you at the Potluck on February 14th at 5pm, Maria! Have a great day and best of luck with your exam preparation!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm glad we had this chat. I'll be sure to let my friend know about the Potluck on February 14th at 5pm. Have a great day!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        46
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "[Monday February 13 -- 00:00 AM] Activity: Klaus is asleep @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:44:00"
+  }
+}

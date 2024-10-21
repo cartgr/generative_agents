@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "[(ID:FP8YPi) Tuesday February 14 -- 03:00 PM] Activity: Isabella is setting up the food and decorations for the vegan potluck at Hobbs Cafe ((duration in minutes: 5, minutes left: 45)) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria are chatting about the upcoming vegan potluck, with Klaus planning to bring his famous vegan brownies and Maria offering to help set up the dessert table. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how are you today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm doing well, thank you for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited for the vegan potluck tonight! Are you bringing your famous vegan brownies?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'll definitely bring my vegan brownies! I think it's going to be a great event."
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome, I can't wait to try them! Is there anything else you need help with for the potluck?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I appreciate your offer. Maybe you could help me set up the dessert table later?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help with setting up the dessert table!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I think setting up the dessert table together will be a lot of fun."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Just let me know when you're ready to set up, and I'll be there."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll be finishing up my research paper at the library first, but I'll let you know once I'm ready to set up the dessert table. Thank you again for offering to help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Klaus! Just give me a heads up when you're ready to set up and I'll be there to help."
+        ],
+        [
+          "Klaus Mueller",
+          "I really appreciate your willingness to help, Maria. It means a lot to me."
+        ],
+        [
+          "Maria Lopez",
+          "No problem, Klaus! I'm glad to help out and can't wait for the potluck tonight. Let me know when you're ready for the dessert table setup!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring all the ingredients for the brownies, including some extras in case we need more. Thank you so much for your help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to try Isabella's vegan lasagna tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I appreciate your enthusiasm, Maria. I'm looking forward to seeing you at the potluck tonight!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria are chatting about the upcoming vegan potluck, with Klaus planning to bring his famous vegan brownies and Maria offering to help set up the dessert table. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how are you today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm doing well, thank you for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited for the vegan potluck tonight! Are you bringing your famous vegan brownies?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'll definitely bring my vegan brownies! I think it's going to be a great event."
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome, I can't wait to try them! Is there anything else you need help with for the potluck?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I appreciate your offer. Maybe you could help me set up the dessert table later?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help with setting up the dessert table!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I think setting up the dessert table together will be a lot of fun."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Just let me know when you're ready to set up, and I'll be there."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll be finishing up my research paper at the library first, but I'll let you know once I'm ready to set up the dessert table. Thank you again for offering to help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Klaus! Just give me a heads up when you're ready to set up and I'll be there to help."
+        ],
+        [
+          "Klaus Mueller",
+          "I really appreciate your willingness to help, Maria. It means a lot to me."
+        ],
+        [
+          "Maria Lopez",
+          "No problem, Klaus! I'm glad to help out and can't wait for the potluck tonight. Let me know when you're ready for the dessert table setup!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring all the ingredients for the brownies, including some extras in case we need more. Thank you so much for your help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to try Isabella's vegan lasagna tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I appreciate your enthusiasm, Maria. I'm looking forward to seeing you at the potluck tonight!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:16:40"
+  }
+}

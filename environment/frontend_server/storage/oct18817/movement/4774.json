@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "serving customers and managing the cafe (preparing for the potluck event) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing their research on gentrification and making plans to meet at the library to further explore their thoughts and ideas, with Maria offering to share her physics notes as well. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's studying going? Have you had a chance to look over my research on gentrification?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, studying is going well! I did get a chance to look over your research on gentrification, and I found it really interesting. I have some thoughts and questions I'd love to discuss with you."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I'm glad you found it interesting. I'm looking forward to discussing your thoughts and questions."
+        ],
+        [
+          "Maria Lopez",
+          "When are you free to discuss it further? I was thinking we could meet up tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Tomorrow afternoon sounds good. How about we meet at the library around 2:00 pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 2:00 pm tomorrow at the library."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our discussion tomorrow at the library. I'll make sure to bring my notes and ideas to share with you."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, before I forget, do you want to grab coffee together after our discussion tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! Coffee after our discussion tomorrow would be perfect."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to our discussion tomorrow at the library. I'll make sure to bring my notes and ideas to share with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to hear your thoughts on the physics aspect of our discussion. It's always interesting to see how different fields intersect."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our coffee date after the discussion! It will be great to continue our conversation in a more casual setting."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have the opportunity to explore multiple perspectives and insights together. It's always valuable to have these discussions."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I just remembered that I have some extra notes from my physics class that might be relevant to our discussion. Would you like to go over them as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "That would be fantastic, Maria! I would love to go over your physics notes as well. It would add another layer to our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "I can share my notes with you tomorrow before our discussion at the library."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing their research on gentrification and making plans to meet at the library to further explore their thoughts and ideas, with Maria offering to share her physics notes as well. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's studying going? Have you had a chance to look over my research on gentrification?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, studying is going well! I did get a chance to look over your research on gentrification, and I found it really interesting. I have some thoughts and questions I'd love to discuss with you."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I'm glad you found it interesting. I'm looking forward to discussing your thoughts and questions."
+        ],
+        [
+          "Maria Lopez",
+          "When are you free to discuss it further? I was thinking we could meet up tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Tomorrow afternoon sounds good. How about we meet at the library around 2:00 pm?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 2:00 pm tomorrow at the library."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our discussion tomorrow at the library. I'll make sure to bring my notes and ideas to share with you."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, before I forget, do you want to grab coffee together after our discussion tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! Coffee after our discussion tomorrow would be perfect."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to our discussion tomorrow at the library. I'll make sure to bring my notes and ideas to share with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to hear your thoughts on the physics aspect of our discussion. It's always interesting to see how different fields intersect."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our coffee date after the discussion! It will be great to continue our conversation in a more casual setting."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have the opportunity to explore multiple perspectives and insights together. It's always valuable to have these discussions."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I just remembered that I have some extra notes from my physics class that might be relevant to our discussion. Would you like to go over them as well?"
+        ],
+        [
+          "Klaus Mueller",
+          "That would be fantastic, Maria! I would love to go over your physics notes as well. It would add another layer to our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "I can share my notes with you tomorrow before our discussion at the library."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:15:40"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "Here is the completed hourly schedule for Isabella Rodriguez on Monday, February 13: ((duration in minutes: 30, minutes left: 195)) ((duration in minutes: 30, minutes left: 45)) (**Isabella is unwinding at home, enjoying a quiet evening after the busy day.** (duration: 180 minutes, minutes left: 0)) (**Isabella is preparing a light dinner for herself.** (Duration: 30 minutes, Minutes Left: 120)) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about plans for a vegan potluck, where Maria and Klaus are discussing the dishes they will bring, including Klaus's famous vegan brownies for dessert and Isabella's vegan lasagna, while expressing excitement for the event and offering help with preparation. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's it going? Have you thought about what dish you're going to bring to the vegan potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I've decided to bring my famous vegan brownies for dessert to the potluck tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds delicious! I'm looking forward to trying your brownies tomorrow. Isabella and I are planning to bring a new vegan lasagna recipe to share."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I can't wait to try Isabella's vegan lasagna. It sounds delicious. I'm looking forward to tomorrow's potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help preparing the brownies? I'd love to help out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I appreciate your offer to help, but I think I've got the brownies covered. I'll make sure to bring some extra for you to try."
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome! Looking forward to tomorrow's potluck and trying your brownies."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to try Isabella's vegan lasagna! It's always fun to share new recipes and dishes."
+        ],
+        [
+          "Maria Lopez",
+          "It's going to be a great social event tomorrow with all the delicious vegan dishes!"
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, it's always nice to gather with friends and share our love for vegan food. Can't wait for tomorrow's potluck!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're all able to come together for this potluck. It's going to be a fantastic time sharing food and good company. See you tomorrow, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited too! Looking forward to seeing you and Isabella tomorrow. Have a great rest of your day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good! I'll see you tomorrow at the potluck. Have a great rest of your day, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it! Have a great day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Alright, see you tomorrow! Have a great rest of your day, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good! See you tomorrow at the potluck. Have a great rest of your day, Maria!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about plans for a vegan potluck, where Maria and Klaus are discussing the dishes they will bring, including Klaus's famous vegan brownies for dessert and Isabella's vegan lasagna, while expressing excitement for the event and offering help with preparation. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's it going? Have you thought about what dish you're going to bring to the vegan potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I've decided to bring my famous vegan brownies for dessert to the potluck tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds delicious! I'm looking forward to trying your brownies tomorrow. Isabella and I are planning to bring a new vegan lasagna recipe to share."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I can't wait to try Isabella's vegan lasagna. It sounds delicious. I'm looking forward to tomorrow's potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help preparing the brownies? I'd love to help out!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I appreciate your offer to help, but I think I've got the brownies covered. I'll make sure to bring some extra for you to try."
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome! Looking forward to tomorrow's potluck and trying your brownies."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to try Isabella's vegan lasagna! It's always fun to share new recipes and dishes."
+        ],
+        [
+          "Maria Lopez",
+          "It's going to be a great social event tomorrow with all the delicious vegan dishes!"
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, it's always nice to gather with friends and share our love for vegan food. Can't wait for tomorrow's potluck!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're all able to come together for this potluck. It's going to be a fantastic time sharing food and good company. See you tomorrow, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited too! Looking forward to seeing you and Isabella tomorrow. Have a great rest of your day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good! I'll see you tomorrow at the potluck. Have a great rest of your day, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it! Have a great day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Alright, see you tomorrow! Have a great rest of your day, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good! See you tomorrow at the potluck. Have a great rest of your day, Maria!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:17:20"
+  }
+}

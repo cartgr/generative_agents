@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing their plans to attend a vegan potluck tomorrow, sharing vegan dishes, including Isabella's famous vegan lasagna, and expressing excitement for the gathering. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! How are you? Are you here to study for your physics degree?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Yes, I'm here to study for my physics degree. How have you been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been good, thank you for asking. Are you planning on joining the potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I would love to join the potluck tomorrow! What time is it and should I bring anything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The potluck starts at 5pm tomorrow at Hobbs Cafe. Since it's a vegan potluck, please bring a vegan dish to share with everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for letting me know! I'll make sure to prepare a delicious vegan dish to share tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're joining! I can't wait to try your dish tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I'm curious, what are you planning on sharing at the potluck?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm planning on sharing my famous vegan lasagna at the potluck tomorrow. It's always a hit with everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds delicious! I can't wait to try your vegan lasagna tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm excited for the potluck tomorrow! It's always such a great opportunity to bring everyone together."
+        ],
+        [
+          "Maria Lopez",
+          "It's great to have these potlucks to bring everyone together. I'll see you tomorrow at 5pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited for the potluck! Make sure to come hungry tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to catch up with everyone at the potluck tomorrow! It's always such a fun time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I look forward to seeing you tomorrow at the potluck! Have a great time studying for your physics degree."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to trying your famous vegan lasagna tomorrow! It sounds delicious."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing their plans to attend a vegan potluck tomorrow, sharing vegan dishes, including Isabella's famous vegan lasagna, and expressing excitement for the gathering. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! How are you? Are you here to study for your physics degree?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Yes, I'm here to study for my physics degree. How have you been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been good, thank you for asking. Are you planning on joining the potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I would love to join the potluck tomorrow! What time is it and should I bring anything?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The potluck starts at 5pm tomorrow at Hobbs Cafe. Since it's a vegan potluck, please bring a vegan dish to share with everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for letting me know! I'll make sure to prepare a delicious vegan dish to share tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're joining! I can't wait to try your dish tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I'm curious, what are you planning on sharing at the potluck?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm planning on sharing my famous vegan lasagna at the potluck tomorrow. It's always a hit with everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds delicious! I can't wait to try your vegan lasagna tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm excited for the potluck tomorrow! It's always such a great opportunity to bring everyone together."
+        ],
+        [
+          "Maria Lopez",
+          "It's great to have these potlucks to bring everyone together. I'll see you tomorrow at 5pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited for the potluck! Make sure to come hungry tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to catch up with everyone at the potluck tomorrow! It's always such a fun time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I look forward to seeing you tomorrow at the potluck! Have a great time studying for your physics degree."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to trying your famous vegan lasagna tomorrow! It sounds delicious."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "continuing his research and gathering materials for his paper at the library ((duration in minutes: 30, minutes left: 60)) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:19:00"
+  }
+}

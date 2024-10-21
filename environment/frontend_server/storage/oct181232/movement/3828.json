@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning to attend a Potluck event at Hobbs Cafe tomorrow and discussing vegan options for breakfast and study spots at the cafe. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! It's great to see you here. How have you been?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I've been good, thanks. Just heading to study and grab some breakfast. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! If you're hungry, feel free to grab something from the cafe. We're serving some delicious vegan options today."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll definitely take a look at the vegan options. How has your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy but fulfilling. I'm actually preparing for a Potluck event at the cafe tomorrow. Would you like to join us?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like fun! I'll definitely try to make it to the Potluck event tomorrow. Thanks for inviting me, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Awesome! I look forward to seeing you at the Potluck tomorrow. Let me know if you need any help with your dish."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'll let you know if I need any help with the dish. Thanks for inviting me, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll be looking forward to seeing you tomorrow at the Potluck event. Have a productive study session and enjoy your breakfast, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to grab something to eat and get started on my studying. Looking forward to the Potluck event tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "If you need a quiet place to study, feel free to stay here. We have a few spots available."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I'll find a spot to study here at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds good, Maria! Enjoy your breakfast and study session. Feel free to let me know if you need anything else. See you around!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I'll find a spot to study here at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning to attend a Potluck event at Hobbs Cafe tomorrow and discussing vegan options for breakfast and study spots at the cafe. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! It's great to see you here. How have you been?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I've been good, thanks. Just heading to study and grab some breakfast. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! If you're hungry, feel free to grab something from the cafe. We're serving some delicious vegan options today."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll definitely take a look at the vegan options. How has your day been so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy but fulfilling. I'm actually preparing for a Potluck event at the cafe tomorrow. Would you like to join us?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like fun! I'll definitely try to make it to the Potluck event tomorrow. Thanks for inviting me, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Awesome! I look forward to seeing you at the Potluck tomorrow. Let me know if you need any help with your dish."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'll let you know if I need any help with the dish. Thanks for inviting me, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll be looking forward to seeing you tomorrow at the Potluck event. Have a productive study session and enjoy your breakfast, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to grab something to eat and get started on my studying. Looking forward to the Potluck event tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "If you need a quiet place to study, feel free to stay here. We have a few spots available."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I'll find a spot to study here at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds good, Maria! Enjoy your breakfast and study session. Feel free to let me know if you need anything else. See you around!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer. I'll find a spot to study here at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing his research for his paper on gentrification (taking notes on key points from the articles) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:38:00"
+  }
+}

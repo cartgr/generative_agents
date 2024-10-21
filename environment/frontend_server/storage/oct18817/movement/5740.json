@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "preparing for the Potluck and finalizing arrangements (preparing a sign for the Potluck) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing their paper, looking for help with the introduction section, planning to meet at Hobbs Cafe at 3:00 pm to go over the introduction and methodology, and integrate physics concepts. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's the paper coming along? Need any help with the introduction section?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! Thanks for asking. I've been revising the introduction section and could use a second pair of eyes. Would you mind taking a look?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help! Let me take a look at the introduction section."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I really value your input. I'll send over the introduction section for you to review."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'll review it right away."
+        ],
+        [
+          "Klaus Mueller",
+          "After you review the introduction section, would you like to meet at Hobbs Cafe to discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! Let's meet at 3:00 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you at Hobbs Cafe at 3:00 pm then!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also bring my physics notes so we can integrate some of the concepts into the paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our discussion at Hobbs Cafe! See you at 3:00 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 3:00 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to bring my laptop so we can make any necessary changes on the spot."
+        ],
+        [
+          "Maria Lopez",
+          "Before we end, do you want to quickly go over any other sections of the paper together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's quickly go over the methodology section together."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's review the methodology section together."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's meet at Hobbs Cafe at 3:00 pm to discuss the introduction further and integrate the physics concepts."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing their paper, looking for help with the introduction section, planning to meet at Hobbs Cafe at 3:00 pm to go over the introduction and methodology, and integrate physics concepts. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's the paper coming along? Need any help with the introduction section?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! Thanks for asking. I've been revising the introduction section and could use a second pair of eyes. Would you mind taking a look?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help! Let me take a look at the introduction section."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I really value your input. I'll send over the introduction section for you to review."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'll review it right away."
+        ],
+        [
+          "Klaus Mueller",
+          "After you review the introduction section, would you like to meet at Hobbs Cafe to discuss it further?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! Let's meet at 3:00 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you at Hobbs Cafe at 3:00 pm then!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also bring my physics notes so we can integrate some of the concepts into the paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our discussion at Hobbs Cafe! See you at 3:00 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 3:00 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to bring my laptop so we can make any necessary changes on the spot."
+        ],
+        [
+          "Maria Lopez",
+          "Before we end, do you want to quickly go over any other sections of the paper together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's quickly go over the methodology section together."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's review the methodology section together."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's meet at Hobbs Cafe at 3:00 pm to discuss the introduction further and integrate the physics concepts."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:56:40"
+  }
+}

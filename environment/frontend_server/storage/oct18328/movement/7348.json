@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "Here is the completed hourly schedule for Isabella Rodriguez on Monday, February 13: ((duration in minutes: 30, minutes left: 195)) ((duration in minutes: 30, minutes left: 45)) (**Isabella is unwinding at home, enjoying a quiet evening after the busy day.** (duration: 180 minutes, minutes left: 0)) (**Isabella is enjoying some leisure time.** (Duration: 30 minutes, Minutes Left: 75)) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83e\udd66\ud83c\udf6b",
+      "description": "streaming on Twitch (conversing about plans for a vegan potluck, where Maria and Klaus are discussing the dishes they will bring, including Klaus's famous vegan brownies for dessert and Isabella's vegan lasagna, while expressing excitement for the event and offering help with preparation.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "relaxing or engaging in leisure activities, such as reading or watching a show (on the way to duration in minutes: 5, minutes left: 0)) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:24:40"
+  }
+}

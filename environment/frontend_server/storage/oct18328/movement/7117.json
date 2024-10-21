@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "Here is the completed hourly schedule for Isabella Rodriguez on Monday, February 13: ((duration in minutes: 30, minutes left: 195)) ((duration in minutes: 30, minutes left: 45)) (**Isabella is turning off the lights and ensuring everything is secure.** (duration: 10 minutes, minutes left: 0)) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        52
+      ],
+      "pronunciatio": "\u23f1\ufe0f",
+      "description": "relaxing and taking a short break ((duration in minutes: 5, minutes left: 0)) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "relaxing or engaging in leisure activities, such as reading or watching a show ((duration in minutes: 5, minutes left: 0)) ((duration in minutes: 5, minutes left: 10)) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:46:10"
+  }
+}
