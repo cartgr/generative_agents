@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "working at the counter serving customers and preparing for the Potluck (taking customer orders) (serving food and drinks to customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Maria and Klaus plan to continue their discussion on gentrification and research collaboration at the library, brainstorming ideas for solutions and incorporating sources into their collaboration @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you over there and wanted to continue our discussion on gentrification and research collaboration. Do you have some time to talk more?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I would love to continue our discussion. How about we head back to the library and dive deeper into our research collaboration?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's head to the library now. I have some ideas I want to discuss with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds great, let's grab our stuff and head to the library."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our notebooks and pens before we head to the library."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for initiating this collaboration, Maria. I'm excited to hear your ideas and work together towards finding solutions."
+        ],
+        [
+          "Maria Lopez",
+          "Let me quickly finish up my meal and then we can head to the library together."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time finishing up, Maria. We can discuss more once you're ready."
+        ],
+        [
+          "Maria Lopez",
+          "I'm all set, let's head to the library now."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we continue our discussion on potential solutions for challenges faced by low-income communities once we reach the library?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely continue our discussion on potential solutions for challenges faced by low-income communities once we reach the library."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also brainstorm some innovative ideas for our research collaboration?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great plan, Klaus. I'm excited to brainstorm innovative ideas together."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we start by reviewing the sources we have on gentrification to see how we can incorporate them into our research collaboration?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely start by reviewing the sources we have on gentrification to see how we can incorporate them into our research collaboration."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure to document all our ideas and discussions in our notebooks for reference as we work on our research collaboration."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Maria and Klaus plan to continue their discussion on gentrification and research collaboration at the library, brainstorming ideas for solutions and incorporating sources into their collaboration @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you over there and wanted to continue our discussion on gentrification and research collaboration. Do you have some time to talk more?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I would love to continue our discussion. How about we head back to the library and dive deeper into our research collaboration?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's head to the library now. I have some ideas I want to discuss with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds great, let's grab our stuff and head to the library."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our notebooks and pens before we head to the library."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for initiating this collaboration, Maria. I'm excited to hear your ideas and work together towards finding solutions."
+        ],
+        [
+          "Maria Lopez",
+          "Let me quickly finish up my meal and then we can head to the library together."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time finishing up, Maria. We can discuss more once you're ready."
+        ],
+        [
+          "Maria Lopez",
+          "I'm all set, let's head to the library now."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we continue our discussion on potential solutions for challenges faced by low-income communities once we reach the library?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely continue our discussion on potential solutions for challenges faced by low-income communities once we reach the library."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also brainstorm some innovative ideas for our research collaboration?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great plan, Klaus. I'm excited to brainstorm innovative ideas together."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we start by reviewing the sources we have on gentrification to see how we can incorporate them into our research collaboration?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely start by reviewing the sources we have on gentrification to see how we can incorporate them into our research collaboration."
+        ],
+        [
+          "Klaus Mueller",
+          "Let's make sure to document all our ideas and discussions in our notebooks for reference as we work on our research collaboration."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:03:10"
+  }
+}

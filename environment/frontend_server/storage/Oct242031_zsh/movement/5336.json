@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf31",
+      "description": "working at the counter serving customers and preparing for the Potluck (preparing a vegan dish for the potluck) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "streaming on Twitch (conversing about strategizing on potential solutions to address the negative impacts of gentrification, including discussing socioeconomic impacts, brainstorming ideas, and considering government policies' role in influencing gentrification.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        116,
+        30
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "continuing to work on his research paper on gentrification (writing the introduction section) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:49:20"
+  }
+}

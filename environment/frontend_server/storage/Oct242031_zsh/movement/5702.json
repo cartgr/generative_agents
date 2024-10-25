@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria discussing their studies, sharing gratitude for support, detailing a successful meeting with Klaus, planning for a Potluck, and deciding to bring apple crumble and vegan pasta salad respectively. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're really focused on your studies today. How's it going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I've been studying hard. I actually wanted to thank you for all the support and advice you've given me. It really helped me prepare for my meeting with Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad I could help! How did your meeting with Klaus go?"
+        ],
+        [
+          "Maria Lopez",
+          "It went really well! Klaus loved the ideas we came up with together. Thanks again for your guidance, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic news, Maria! I'm so proud of you for all your hard work and dedication. If you ever need more help or advice, don't hesitate to reach out to me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. Your continuous support means a lot to me. I'll definitely keep that in mind."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really looking forward to seeing you at the Potluck tomorrow. Are you planning on bringing anything special to share?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually thinking of making my famous apple crumble for the Potluck tomorrow. It's always a hit! Are you bringing anything special as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your apple crumble. I'll be preparing a vegan pasta salad for the Potluck, I hope you'll enjoy it!"
+        ],
+        [
+          "Maria Lopez",
+          "It's always great catching up with you, Isabella. I'll see you tomorrow at the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's always great catching up with you, Maria. I'll see you tomorrow at the Potluck!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria discussing their studies, sharing gratitude for support, detailing a successful meeting with Klaus, planning for a Potluck, and deciding to bring apple crumble and vegan pasta salad respectively. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're really focused on your studies today. How's it going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I've been studying hard. I actually wanted to thank you for all the support and advice you've given me. It really helped me prepare for my meeting with Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad I could help! How did your meeting with Klaus go?"
+        ],
+        [
+          "Maria Lopez",
+          "It went really well! Klaus loved the ideas we came up with together. Thanks again for your guidance, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic news, Maria! I'm so proud of you for all your hard work and dedication. If you ever need more help or advice, don't hesitate to reach out to me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. Your continuous support means a lot to me. I'll definitely keep that in mind."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm really looking forward to seeing you at the Potluck tomorrow. Are you planning on bringing anything special to share?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm actually thinking of making my famous apple crumble for the Potluck tomorrow. It's always a hit! Are you bringing anything special as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your apple crumble. I'll be preparing a vegan pasta salad for the Potluck, I hope you'll enjoy it!"
+        ],
+        [
+          "Maria Lopez",
+          "It's always great catching up with you, Isabella. I'll see you tomorrow at the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's always great catching up with you, Maria. I'll see you tomorrow at the Potluck!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        131,
+        46
+      ],
+      "pronunciatio": "\u270d\ufe0f",
+      "description": "continuing to work on his research paper on gentrification (writing the body paragraphs) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:50:20"
+  }
+}

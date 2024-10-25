@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83d\ude34",
+      "description": "sleeping @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        121,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "[ (conversing about Maria Lopez and Klaus Mueller are discussing a research collaboration on gentrification, including community involvement, cultural effects, government policies, and potential solutions for low-income communities while planning to meet at the library to discuss articles and podcast episodes.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "going to bed (conversing about Maria Lopez and Klaus Mueller are discussing a research collaboration on gentrification, including community involvement, cultural effects, government policies, and potential solutions for low-income communities while planning to meet at the library to discuss articles and podcast episodes.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:21:20"
+  }
+}

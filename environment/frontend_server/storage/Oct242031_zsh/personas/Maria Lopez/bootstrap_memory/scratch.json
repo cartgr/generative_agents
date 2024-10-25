@@ -1,0 +1,211 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 00:25:10",
+  "curr_tile": [
+    123,
+    57
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 9:00 am 2. Have breakfast and catch up on emails at 9:30 am 3. Head to the library to meet Klaus Mueller at 10:00 am 4. Brainstorm potential solutions to gentrification challenges with Klaus Mueller at 10:30 am 5. Review a podcast episode on community involvement and discuss related articles at 1:00 pm 6. Spend at least 3 hours on Twitch streaming or gaming starting at 2:00 pm",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas.",
+  "currently": "Status: Maria Lopez is preparing to meet Klaus Mueller at the library at 10 am to discuss their collaboration on research about gentrification and its impact on low-income communities. She has gathered her notebook, laptop, research materials, and notes for their discussion, and is ready to brainstorm potential solutions to the challenges faced by these communities. She will spend the afternoon reviewing a podcast episode and discussing articles on community involvement, the cultural effects of gentrification, and government policies related. Maria feels grateful for the opportunity to collaborate with Klaus and Isabella, and values the support and guidance they offer in her academic journey. She maintains a balance between her academic responsibilities and self-care, allowing her to effectively manage her time and priorities, and understands the importance of interdisciplinary discussions and collaborations in enriching her understanding of complex topics and enhancing her overall academic experience.",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 7,
+  "importance_ele_n": 62,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing breakfast)",
+      5
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "meeting Klaus Mueller at the library to discuss their collaboration on research about gentrification",
+      60
+    ],
+    [
+      "brainstorming potential solutions to gentrification challenges with Klaus Mueller",
+      60
+    ],
+    [
+      "reviewing a podcast episode on community involvement and discussing related articles",
+      60
+    ],
+    [
+      "reviewing a podcast episode and discussing articles on community involvement, cultural effects of gentrification, and government policies related",
+      60
+    ],
+    [
+      "spending time on Twitch streaming or gaming",
+      120
+    ],
+    [
+      "[(ID:0guSCV) Tuesday February 14 -- 04:00 PM] Activity: Maria is spending time on Twitch streaming or gaming",
+      60
+    ],
+    [
+      "[(ID:cb6vV5) Tuesday February 14 -- 05:00 PM] Activity: Maria is having dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "hanging out at Hobbs Cafe with friends",
+      60
+    ],
+    [
+      "spending time on Twitch streaming or gaming",
+      240
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "meeting Klaus Mueller at the library to discuss their collaboration on research about gentrification",
+      60
+    ],
+    [
+      "brainstorming potential solutions to gentrification challenges with Klaus Mueller",
+      60
+    ],
+    [
+      "reviewing a podcast episode on community involvement and discussing related articles",
+      60
+    ],
+    [
+      "reviewing a podcast episode and discussing articles on community involvement, cultural effects of gentrification, and government policies related",
+      60
+    ],
+    [
+      "spending time on Twitch streaming or gaming",
+      120
+    ],
+    [
+      "[(ID:0guSCV) Tuesday February 14 -- 04:00 PM] Activity: Maria is spending time on Twitch streaming or gaming",
+      60
+    ],
+    [
+      "[(ID:cb6vV5) Tuesday February 14 -- 05:00 PM] Activity: Maria is having dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "hanging out at Hobbs Cafe with friends",
+      60
+    ],
+    [
+      "spending time on Twitch streaming or gaming",
+      240
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+  "act_start_time": "February 14, 2023, 00:14:00",
+  "act_duration": 480,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Maria Lopez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 54,
+    "Isabella Rodriguez": -1326
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

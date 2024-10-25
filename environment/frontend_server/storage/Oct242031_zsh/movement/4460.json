@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella discussing the Potluck event tomorrow, with Klaus offering to bring a vegan dish and both looking forward to seeing each other at 5 pm. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus! How are you enjoying your meal?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella! I'm enjoying my meal, thank you. How are you today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your meal. Are you planning on joining us for the Potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I would love to join the Potluck tomorrow. What time is it happening?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The Potluck starts at 5pm tomorrow. I hope to see you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invitation! I'll definitely be there at 5 pm for the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I look forward to seeing you tomorrow at 5 pm for the Potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything I can bring to the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to bring something! Since the potluck is vegan, could you please bring a vegan dish to share with everyone?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I can bring a vegan dish to share with everyone. Thanks for letting me know! See you tomorrow at 5 pm for the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to trying your dish tomorrow! Enjoy the rest of your meal, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to bring a delicious vegan dish for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Enjoy the rest of your meal, Klaus. I have to go prepare for the Potluck tomorrow. See you at 5 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to bring a delicious vegan dish for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Looking forward to trying your dish tomorrow! Enjoy the rest of your meal, Klaus. See you at 5 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm really excited to join the Potluck tomorrow."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        37
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "eating lunch at Hobbs Cafe (conversing about supporting each other in discussing gentrification and research collaboration, with Isabella providing advice and assistance to Maria before and after her meeting with Klaus) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella discussing the Potluck event tomorrow, with Klaus offering to bring a vegan dish and both looking forward to seeing each other at 5 pm. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus! How are you enjoying your meal?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella! I'm enjoying my meal, thank you. How are you today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your meal. Are you planning on joining us for the Potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I would love to join the Potluck tomorrow. What time is it happening?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The Potluck starts at 5pm tomorrow. I hope to see you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invitation! I'll definitely be there at 5 pm for the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I look forward to seeing you tomorrow at 5 pm for the Potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything I can bring to the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to bring something! Since the potluck is vegan, could you please bring a vegan dish to share with everyone?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I can bring a vegan dish to share with everyone. Thanks for letting me know! See you tomorrow at 5 pm for the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to trying your dish tomorrow! Enjoy the rest of your meal, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to bring a delicious vegan dish for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Enjoy the rest of your meal, Klaus. I have to go prepare for the Potluck tomorrow. See you at 5 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to bring a delicious vegan dish for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Looking forward to trying your dish tomorrow! Enjoy the rest of your meal, Klaus. See you at 5 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm really excited to join the Potluck tomorrow."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:23:20"
+  }
+}

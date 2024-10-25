@@ -1,0 +1,200 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 00:25:10",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "1. Wake up at 6am and complete the morning routine 2. Open Hobbs Cafe at 8am and start preparing for the Valentine's Day event 3. Coordinate with team members for smooth operations throughout the day 4. Make sure decorations are set up and special menu items are ready for the event 5. Greet and interact with customers to create a welcoming and romantic atmosphere 6. Close the cafe at 8pm after the Valentine's Day event is over.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Status: Isabella Rodriguez is prepared for the Valentine's Day event at Hobbs Cafe on Tuesday February 14. She has finalized the details, set up decorations, and organized special menu items for a romantic atmosphere. Isabella is coordinating with her team to ensure smooth operations and exceptional customer service throughout the event, which begins at 7:00 pm. She is dedicated to providing a memorable experience for all guests and is grateful for the opportunity to be actively involved in event planning and community engagement. Isabella values mentorship and collaboration with her peers, striving to make a positive impact in her community.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 68,
+  "importance_ele_n": 46,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter serving customers and preparing for the Potluck until 8:00 pm",
+    "spend time organizing the final details for the Potluck event, such as setting up the seating arrangements and making sure the cafe is ready",
+    "have dinner at 8:30 pm",
+    "relax and unwind with a book or some music from 9:00 pm to 10:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (opening the cafe doors)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (setting up the cash register)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (brewing coffee)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (preparing the display case with pastries)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (checking inventory for supplies)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (organizing tables and chairs)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine (setting up decorations for Valentine's Day)",
+      10
+    ],
+    [
+      "serving customers and preparing for the Valentine's Day event",
+      60
+    ],
+    [
+      "preparing special menu items for the Valentine's Day event",
+      60
+    ],
+    [
+      "interacting with customers and finalizing decorations for the Valentine's Day event",
+      60
+    ],
+    [
+      "finalizing decorations and coordinating with her team for the Valentine's Day event",
+      60
+    ],
+    [
+      "coordinating with her team and ensuring everything is ready for the Valentine's Day event",
+      60
+    ],
+    [
+      "coordinating with her team and preparing for the Valentine's Day event",
+      300
+    ],
+    [
+      "greeting customers and ensuring a romantic atmosphere for the Valentine's Day event",
+      60
+    ],
+    [
+      "closing Hobbs Cafe after the Valentine's Day event",
+      60
+    ],
+    [
+      "relaxing and unwinding with a book or some music",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe and completing her morning routine",
+      60
+    ],
+    [
+      "serving customers and preparing for the Valentine's Day event",
+      60
+    ],
+    [
+      "preparing special menu items for the Valentine's Day event",
+      60
+    ],
+    [
+      "interacting with customers and finalizing decorations for the Valentine's Day event",
+      60
+    ],
+    [
+      "finalizing decorations and coordinating with her team for the Valentine's Day event",
+      60
+    ],
+    [
+      "coordinating with her team and ensuring everything is ready for the Valentine's Day event",
+      60
+    ],
+    [
+      "coordinating with her team and preparing for the Valentine's Day event",
+      300
+    ],
+    [
+      "greeting customers and ensuring a romantic atmosphere for the Valentine's Day event",
+      60
+    ],
+    [
+      "closing Hobbs Cafe after the Valentine's Day event",
+      60
+    ],
+    [
+      "relaxing and unwinding with a book or some music",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 00:01:00",
+  "act_duration": 480,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -1326,
+    "Klaus Mueller": -1974
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

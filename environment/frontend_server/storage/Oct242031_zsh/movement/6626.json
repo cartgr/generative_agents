@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up the dessert table for the Potluck event between Isabella Rodriguez and Maria Lopez @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're deep into studying those practice problems. How's it going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm making progress with these practice problems, thanks for asking. How are things going with the Potluck preparation?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm almost done with the final details for the Potluck. I just need to confirm the seating arrangements and dessert table setup."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with setting up the dessert table?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Maria. That would be a big help. Could you assist me with setting up the dessert table?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help with setting up the dessert table. Let's make it look fantastic!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's set up the dessert table together. I appreciate your help, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific way you'd like the desserts to be arranged on the table?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's place the apple crumble on one side and the vegan pasta salad on the other side. We can also add some decorative elements to make it more appealing. Thank you for your help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the Potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I think we've covered everything for the Potluck preparations. I appreciate your help with setting up the dessert table."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else I can do to assist with the Potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. Your assistance with setting up the dessert table is greatly appreciated. We can now focus on welcoming our guests and enjoying the Potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the Potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I think we've covered everything for the Potluck preparations. I appreciate your help with setting up the dessert table."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need assistance with for the Potluck event?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up the dessert table for the Potluck event between Isabella Rodriguez and Maria Lopez @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're deep into studying those practice problems. How's it going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm making progress with these practice problems, thanks for asking. How are things going with the Potluck preparation?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm almost done with the final details for the Potluck. I just need to confirm the seating arrangements and dessert table setup."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with setting up the dessert table?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Maria. That would be a big help. Could you assist me with setting up the dessert table?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd be happy to help with setting up the dessert table. Let's make it look fantastic!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's set up the dessert table together. I appreciate your help, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific way you'd like the desserts to be arranged on the table?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's place the apple crumble on one side and the vegan pasta salad on the other side. We can also add some decorative elements to make it more appealing. Thank you for your help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the Potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I think we've covered everything for the Potluck preparations. I appreciate your help with setting up the dessert table."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else I can do to assist with the Potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. Your assistance with setting up the dessert table is greatly appreciated. We can now focus on welcoming our guests and enjoying the Potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the Potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I think we've covered everything for the Potluck preparations. I appreciate your help with setting up the dessert table."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need assistance with for the Potluck event?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "unwinding or reading a book related to sociology (reading another chapter of the book) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:24:20"
+  }
+}

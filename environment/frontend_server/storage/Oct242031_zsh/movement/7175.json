@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "relaxing and unwinding with a book or some music (reading a book) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        82,
+        37
+      ],
+      "pronunciatio": "\ud83c\udfae",
+      "description": "hanging out with friends at Hobbs Cafe (playing a casual game with her friends) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "unwinding or reading a book related to sociology (conversing about gentrification and potential solutions for low-income communities, Maria Lopez and Klaus Mueller discuss collaborating on research, sharing insights from a podcast episode and an article on government policies, and planning to involve other students for diverse perspectives.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:55:50"
+  }
+}

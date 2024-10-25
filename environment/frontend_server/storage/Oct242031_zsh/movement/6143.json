@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "spending time organizing the final details for the Potluck event, such as setting up the seating arrangements and making sure the cafe is ready (conversing about Isabella Rodriguez and Klaus Mueller are coordinating to set up tables, chairs, and prepare food for the Potluck event happening tomorrow at 3 pm.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "eating dinner at Hobbs Cafe (eating her dinner) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "having dinner at Hobbs Cafe (paying the bill) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:03:50"
+  }
+}

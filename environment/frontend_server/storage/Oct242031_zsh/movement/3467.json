@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing practice problems and working together to understand and solve them @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How's it going with the practice problems? Need any help?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm doing alright, just trying to tackle these practice problems. Any chance you could give me a hand with them?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'd be happy to help! Let's go over them together."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, I really appreciate your help, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's grab a table and go through the problems together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really need the extra help today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's find a quiet spot to sit and work on these problems together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really need the extra help today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's sit here by the window, it's quieter there. We can work on the problems together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really need the extra help today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's start with the first problem. Do you understand the question?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I think I understand the question but I might need some clarification on a specific part."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's break down that specific part together. What do you think it's asking for?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for breaking it down with me, Isabella. I think I have a better grasp of the question now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great job on understanding the question better, Maria. Now, let's work through the solution step by step."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate your help and guidance during this study session."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez discussing practice problems and working together to understand and solve them @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How's it going with the practice problems? Need any help?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm doing alright, just trying to tackle these practice problems. Any chance you could give me a hand with them?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'd be happy to help! Let's go over them together."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, I really appreciate your help, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's grab a table and go through the problems together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really need the extra help today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's find a quiet spot to sit and work on these problems together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really need the extra help today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's sit here by the window, it's quieter there. We can work on the problems together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really need the extra help today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's start with the first problem. Do you understand the question?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I think I understand the question but I might need some clarification on a specific part."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's break down that specific part together. What do you think it's asking for?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for breaking it down with me, Isabella. I think I have a better grasp of the question now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great job on understanding the question better, Maria. Now, let's work through the solution step by step."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate your help and guidance during this study session."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        26
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "working on his research paper on gentrification (researching sources on gentrification) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:37:50"
+  }
+}

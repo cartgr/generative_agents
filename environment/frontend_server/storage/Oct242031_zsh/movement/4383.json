@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about supporting each other in discussing gentrification and research collaboration, with Isabella providing advice and assistance to Maria before and after her meeting with Klaus @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, it's great to see you here! How are you finding the lunch today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Lunch is delicious, as always. I'm excited to meet Klaus at the library tomorrow to continue our discussion on gentrification and research collaboration."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm glad you're finding the lunch delicious. I hope your discussion with Klaus goes well tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you have any advice on how to approach the topic of gentrification in our discussion tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think approaching the topic of gentrification with an open mind and empathy can lead to a fruitful discussion. Maybe we can brainstorm some solutions together to address the issues at hand."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Isabella. I appreciate your input. I'll definitely keep an open mind and focus on empathy during the discussion with Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited for the discussion with Klaus. Remember to also consider different perspectives and think critically about the solutions we come up with."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate your insights and support. I'll make sure to keep all of that in mind during our discussion tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you feel supported, Maria. If you ever need more guidance or advice, feel free to reach out to me anytime."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I will definitely keep that in mind and make sure to approach the discussion with openness and empathy. Your support means a lot to me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm always here to help, Maria. Let me know if you need anything else before your discussion with Klaus tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I also wanted to thank you for all your help with the practice problems we've been working on. Your guidance and patience have been incredibly helpful."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Maria. It's always a pleasure to work with you. Let's continue our collaboration and support each other in our studies."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I was also thinking about our study session the other day. I had a question about one of the practice problems. Are you available to help me clarify it later?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, Maria! I'd be happy to help clarify the practice problem for you later. Let's plan a time to go over it together."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I appreciate your willingness to help with clarifying the practice problem. How about we meet up at the library after my discussion with Klaus tomorrow to go over it?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about supporting each other in discussing gentrification and research collaboration, with Isabella providing advice and assistance to Maria before and after her meeting with Klaus @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, it's great to see you here! How are you finding the lunch today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Lunch is delicious, as always. I'm excited to meet Klaus at the library tomorrow to continue our discussion on gentrification and research collaboration."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I'm glad you're finding the lunch delicious. I hope your discussion with Klaus goes well tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you have any advice on how to approach the topic of gentrification in our discussion tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think approaching the topic of gentrification with an open mind and empathy can lead to a fruitful discussion. Maybe we can brainstorm some solutions together to address the issues at hand."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Isabella. I appreciate your input. I'll definitely keep an open mind and focus on empathy during the discussion with Klaus."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited for the discussion with Klaus. Remember to also consider different perspectives and think critically about the solutions we come up with."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I really appreciate your insights and support. I'll make sure to keep all of that in mind during our discussion tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you feel supported, Maria. If you ever need more guidance or advice, feel free to reach out to me anytime."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I will definitely keep that in mind and make sure to approach the discussion with openness and empathy. Your support means a lot to me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm always here to help, Maria. Let me know if you need anything else before your discussion with Klaus tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I also wanted to thank you for all your help with the practice problems we've been working on. Your guidance and patience have been incredibly helpful."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Maria. It's always a pleasure to work with you. Let's continue our collaboration and support each other in our studies."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I was also thinking about our study session the other day. I had a question about one of the practice problems. Are you available to help me clarify it later?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, Maria! I'd be happy to help clarify the practice problem for you later. Let's plan a time to go over it together."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I appreciate your willingness to help with clarifying the practice problem. How about we meet up at the library after my discussion with Klaus tomorrow to go over it?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch at Hobbs Cafe (conversing about how Maria and Klaus plan to continue their discussion on gentrification and research collaboration at the library, brainstorming ideas for solutions and incorporating sources into their collaboration) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:10:30"
+  }
+}

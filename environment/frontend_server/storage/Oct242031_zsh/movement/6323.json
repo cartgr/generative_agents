@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udccb",
+      "description": "spending time organizing the final details for the Potluck event, such as setting up the seating arrangements and making sure the cafe is ready (preparing a list of guests who are attending) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "eating dinner at Hobbs Cafe (eating her dinner) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "unwinding or reading a book related to sociology (conversing about Maria Lopez and Klaus Mueller are discussing their research collaboration on gentrification, including exploring cultural effects, government policies, comparing study insights, brainstorming potential solutions, and planning to listen to a podcast episode together.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:33:50"
+  }
+}
