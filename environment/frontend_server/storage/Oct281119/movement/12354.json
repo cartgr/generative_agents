@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing the potluck preparations, including confirming Maria bringing the vegan pasta salad, Isabella providing vegan desserts, and planning fun activities and entertainment for the potluck. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's studying going? Need a break?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going alright. I could definitely use a short break. How are you managing with the potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm managing well, thank you for asking. I appreciate your help with setting up for the potluck. Would you like to take a break and chat for a bit?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I could use a break. What's up?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I wanted to confirm if you're still able to bring the vegan pasta salad for the potluck tomorrow. It's always a hit with everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, I'll definitely bring the vegan pasta salad for the potluck tomorrow! It's one of my favorites to make."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you so much for contributing to the potluck. I'll make sure to have vegan desserts ready for everyone too."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm glad to help out with the potluck. Let me know if there's anything else I can assist with."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything specific you need help with for the potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "I think I have everything covered for now, but thank you for checking. I'm looking forward to the potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also planning to have some fun activities and entertainment for everyone at the potluck. Would you be interested in helping out with that?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'd love to help out with planning some fun activities and entertainment for the potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic! Let's brainstorm some ideas together for the activities and entertainment. How about we meet later to discuss and plan everything out?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! I'm looking forward to brainstorming ideas with you later. Let's meet after my meeting with Klaus today at 5pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's plan to meet after your meeting with Klaus at 5 pm to discuss the activities and entertainment for the potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm excited to brainstorm ideas for the activities and entertainment. See you at 5 pm after my meeting with Klaus."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing the potluck preparations, including confirming Maria bringing the vegan pasta salad, Isabella providing vegan desserts, and planning fun activities and entertainment for the potluck. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's studying going? Need a break?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, studying is going alright. I could definitely use a short break. How are you managing with the potluck preparations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm managing well, thank you for asking. I appreciate your help with setting up for the potluck. Would you like to take a break and chat for a bit?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I could use a break. What's up?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I wanted to confirm if you're still able to bring the vegan pasta salad for the potluck tomorrow. It's always a hit with everyone!"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, I'll definitely bring the vegan pasta salad for the potluck tomorrow! It's one of my favorites to make."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you so much for contributing to the potluck. I'll make sure to have vegan desserts ready for everyone too."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm glad to help out with the potluck. Let me know if there's anything else I can assist with."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything specific you need help with for the potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "I think I have everything covered for now, but thank you for checking. I'm looking forward to the potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also planning to have some fun activities and entertainment for everyone at the potluck. Would you be interested in helping out with that?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'd love to help out with planning some fun activities and entertainment for the potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic! Let's brainstorm some ideas together for the activities and entertainment. How about we meet later to discuss and plan everything out?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! I'm looking forward to brainstorming ideas with you later. Let's meet after my meeting with Klaus today at 5pm."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's plan to meet after your meeting with Klaus at 5 pm to discuss the activities and entertainment for the potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm excited to brainstorm ideas for the activities and entertainment. See you at 5 pm after my meeting with Klaus."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "conducting research on affordable housing initiatives at the library (searching for books and articles on affordable housing) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:19:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        31
+      ],
+      "pronunciatio": "\ud83d\uded2",
+      "description": "working at the counter, serving customers and preparing for the upcoming potluck (restocking supplies at the counter) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        107,
+        32
+      ],
+      "pronunciatio": "\ud83c\udfae",
+      "description": "Twitch streaming or gaming @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        57,
+        37
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "taking a short break to relax or take a walk around campus (finding a quiet spot to sit and reflect) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:48:10"
+  }
+}

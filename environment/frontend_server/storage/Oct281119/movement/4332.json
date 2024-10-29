@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "working at the counter, serving customers and preparing for the upcoming potluck (communicating with customers about the potluck) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        36
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are making plans to meet at Hobbs Cafe tomorrow at 3pm to discuss volunteering opportunities with Community Builders in relation to the impact of gentrification in different communities. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I was just thinking more about our previous conversation on gentrification and volunteering with Community Builders. Have you had a chance to look into it more?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, yes, I've done some research on it. I found some interesting data on the impact of gentrification in different communities. I think we should definitely explore volunteering opportunities with Community Builders. When are you free to sit down and go over the details?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm free tomorrow afternoon after my physics class. How about we meet at Hobbs Cafe around 3pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me. I'll see you tomorrow at 3pm at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are making plans to meet at Hobbs Cafe tomorrow at 3pm to discuss volunteering opportunities with Community Builders in relation to the impact of gentrification in different communities. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I was just thinking more about our previous conversation on gentrification and volunteering with Community Builders. Have you had a chance to look into it more?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, yes, I've done some research on it. I found some interesting data on the impact of gentrification in different communities. I think we should definitely explore volunteering opportunities with Community Builders. When are you free to sit down and go over the details?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm free tomorrow afternoon after my physics class. How about we meet at Hobbs Cafe around 3pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me. I'll see you tomorrow at 3pm at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:02:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83e\ude91",
+      "description": "working at the counter, serving customers and preparing for the upcoming potluck (organizing the seating area for the potluck) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "Twitch streaming or gaming (conversing about Maria Lopez and Klaus Mueller are discussing their plans for volunteering with Community Builders, including focusing on solutions like affordable housing initiatives, involving more people in their efforts, collaborating with student organizations, creating a social media campaign, and organizing a community event to raise awareness about gentrification and their volunteering efforts, as well as planning refreshments for the event.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner at Hobbs Cafe (eating his meal) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:29:10"
+  }
+}

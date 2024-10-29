@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\uddd1\ufe0f",
+      "description": "closing the cafe and tidying up (taking out the trash) @ the Ville:Isabella Rodriguez's apartment:main room:closet",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about volunteering opportunities with Community Builders at Hobbs Cafe at 3pm @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey, Klaus! I saw you working on your paper. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's coming along well, thank you for asking. How about you? How was your Twitch stream or game?"
+        ],
+        [
+          "Maria Lopez",
+          "It went pretty well. I had a good stream today. By the way, do you want to meet tomorrow at 3pm at Hobbs Cafe to discuss volunteering opportunities with Community Builders?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'll definitely be there at 3pm tomorrow. I'm looking forward to discussing volunteering opportunities with you."
+        ],
+        [
+          "Maria Lopez",
+          "Awesome, looking forward to it! I'll see you tomorrow at Hobbs Cafe at 3pm."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about volunteering opportunities with Community Builders at Hobbs Cafe at 3pm @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey, Klaus! I saw you working on your paper. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's coming along well, thank you for asking. How about you? How was your Twitch stream or game?"
+        ],
+        [
+          "Maria Lopez",
+          "It went pretty well. I had a good stream today. By the way, do you want to meet tomorrow at 3pm at Hobbs Cafe to discuss volunteering opportunities with Community Builders?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'll definitely be there at 3pm tomorrow. I'm looking forward to discussing volunteering opportunities with you."
+        ],
+        [
+          "Maria Lopez",
+          "Awesome, looking forward to it! I'll see you tomorrow at Hobbs Cafe at 3pm."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:16:40"
+  }
+}

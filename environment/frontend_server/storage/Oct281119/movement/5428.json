@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about the progress of writing body paragraphs and organizing a vegan potluck event, with Isabella expressing excitement for the turnout and Klaus preparing his favorite vegan dish for the event @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how's the writing going? Making good progress on those body paragraphs?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's going well actually. I've made some good progress on the body paragraphs. How about you? How's the planning for the vegan potluck event going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's coming along nicely! We have a good turnout expected for the potluck tomorrow. I'm excited for everyone to try the different vegan dishes."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I can't wait to try out all the dishes tomorrow. Thanks for organizing everything, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "By the way, have you prepared your favorite vegan dish for the potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I've already prepared my favorite vegan dish. I think everyone will enjoy it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic, Klaus! I'm glad you've got your dish ready. I'll make sure to save you a spot at one of the tables we set up for tomorrow's potluck. Looking forward to seeing you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate all the effort you've put into organizing this potluck event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'm glad to hear that. If you need any help with anything else, feel free to let me know. Looking forward to tomorrow's potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm looking forward to the potluck tomorrow. I'll see you there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'm glad to hear that. If you need any help with anything else, feel free to let me know. Looking forward to tomorrow's potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again for all your hard work, Isabella. I truly appreciate it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been great catching up with you, Klaus! I'll see you at the potluck tomorrow. Take care!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Isabella. I really appreciate all your hard work in organizing the potluck event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been great catching up with you, Klaus! I'll see you at the potluck tomorrow. Take care!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83e\udd64",
+      "description": "taking a break and relaxing (sipping on her drink) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about the progress of writing body paragraphs and organizing a vegan potluck event, with Isabella expressing excitement for the turnout and Klaus preparing his favorite vegan dish for the event @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how's the writing going? Making good progress on those body paragraphs?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella! It's going well actually. I've made some good progress on the body paragraphs. How about you? How's the planning for the vegan potluck event going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's coming along nicely! We have a good turnout expected for the potluck tomorrow. I'm excited for everyone to try the different vegan dishes."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I can't wait to try out all the dishes tomorrow. Thanks for organizing everything, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "By the way, have you prepared your favorite vegan dish for the potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I've already prepared my favorite vegan dish. I think everyone will enjoy it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic, Klaus! I'm glad you've got your dish ready. I'll make sure to save you a spot at one of the tables we set up for tomorrow's potluck. Looking forward to seeing you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate all the effort you've put into organizing this potluck event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'm glad to hear that. If you need any help with anything else, feel free to let me know. Looking forward to tomorrow's potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm looking forward to the potluck tomorrow. I'll see you there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'm glad to hear that. If you need any help with anything else, feel free to let me know. Looking forward to tomorrow's potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again for all your hard work, Isabella. I truly appreciate it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been great catching up with you, Klaus! I'll see you at the potluck tomorrow. Take care!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you so much, Isabella. I really appreciate all your hard work in organizing the potluck event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been great catching up with you, Klaus! I'll see you at the potluck tomorrow. Take care!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:04:40"
+  }
+}

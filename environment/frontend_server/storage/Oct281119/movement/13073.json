@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "interacting with customers and preparing for the potluck event (greeting new customers as they arrive) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        33
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at Hobbs Cafe (eating her lunch) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac\ud83c\udfe2",
+      "description": "having lunch at Hobbs Cafe (conversing about Maria Lopez and Klaus Mueller are discussing their plans for a community event on gentrification, brainstorming campaign ideas, considering involving student organizations, researching affordable housing initiatives, planning to gather feedback from the community, setting up a schedule for volunteering efforts with Community Builders, and creating a survey to gather feedback from the community on their thoughts and suggestions for the event.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:18:50"
+  }
+}

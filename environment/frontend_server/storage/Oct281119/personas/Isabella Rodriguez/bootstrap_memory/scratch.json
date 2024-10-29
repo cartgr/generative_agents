@@ -1,0 +1,169 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 15, 2023, 00:00:00",
+  "curr_tile": [
+    72,
+    14
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 6:00 am 2. Open Hobbs Cafe at 8:00 am 3. Meet with Maria Lopez at 5:00 pm to brainstorm ideas for activities and entertainment at the potluck event 4. Finalize plans for board games and veganism quiz, gather necessary materials, and ensure there are enough utensils and plates for the event.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves.",
+  "currently": "Status: Isabella Rodriguez is excited for her meeting with Maria Lopez at 5 pm on February 15 to brainstorm ideas for activities and entertainment at the potluck event at Hobbs Cafe. She will finalize plans for the board games and veganism quiz, gather necessary materials, and ensure there are enough utensils and plates for the event. Additionally, she will coordinate with Klaus and reach out to local businesses for sponsorships while considering potential venues for the community event on gentrification that they are organizing. Isabella remains dedicated to maintaining a balance between her work responsibilities, academic commitments, and event planning, feeling fulfilled and motivated by the positive impact these initiatives have on the community.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 102,
+  "importance_ele_n": 22,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter, serving customers and preparing for the upcoming potluck until 3:00 pm",
+    "take a short break from 3:00 pm to 3:30 pm",
+    "continue working until 8:00 pm",
+    "close the cafe and tidy up from 8:00 pm to 8:30 pm",
+    "head home and have dinner around 8:45 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      180
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "finalizing plans for board games and veganism quiz",
+      120
+    ],
+    [
+      "taking a short break before the evening shift",
+      60
+    ],
+    [
+      "finalizing plans for board games and veganism quiz",
+      60
+    ],
+    [
+      "meeting with Maria Lopez to brainstorm ideas for activities and entertainment at the potluck event",
+      60
+    ],
+    [
+      "coordinating with Klaus and reaching out to local businesses for sponsorships",
+      60
+    ],
+    [
+      "having dinner at home",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and tidying up",
+      60
+    ],
+    [
+      "having dinner at home",
+      180
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      180
+    ],
+    [
+      "taking a break and having lunch",
+      60
+    ],
+    [
+      "finalizing plans for board games and veganism quiz",
+      120
+    ],
+    [
+      "taking a short break before the evening shift",
+      60
+    ],
+    [
+      "finalizing plans for board games and veganism quiz",
+      60
+    ],
+    [
+      "meeting with Maria Lopez to brainstorm ideas for activities and entertainment at the potluck event",
+      60
+    ],
+    [
+      "coordinating with Klaus and reaching out to local businesses for sponsorships",
+      60
+    ],
+    [
+      "having dinner at home",
+      60
+    ],
+    [
+      "closing Hobbs Cafe and tidying up",
+      60
+    ],
+    [
+      "having dinner at home",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 23:58:00",
+  "act_duration": 5,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -1319,
+    "Klaus Mueller": -2189
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

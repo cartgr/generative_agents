@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf79",
+      "description": "working at the counter, serving customers and preparing for the upcoming potluck (preparing drinks for customers) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        107,
+        47
+      ],
+      "pronunciatio": "\ud83e\uddb5",
+      "description": "taking a break and relaxing until 6:00 PM (stretching her legs and moving around a bit) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        66,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf32",
+      "description": "taking a short break to relax or take a walk around campus (observing the surroundings and enjoying the scenery) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:29:10"
+  }
+}

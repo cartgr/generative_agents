@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd12",
+      "description": "closing Hobbs Cafe and tidying up (locking up the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Klaus Mueller, making plans to meet at Hobbs Cafe at 3 pm to discuss gentrification and volunteering opportunities with Community Builders, while also considering grabbing a snack or drink during their brainstorming session @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you working on your paper. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for noticing. I'm almost done with the conclusion. How are you doing today?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm preparing for our meeting at Hobbs Cafe today at 3 pm to discuss gentrification and volunteering opportunities with Community Builders. I've been brainstorming some campaign ideas and details for the community event. Are you free to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria. I would love to join you at Hobbs Cafe today. I'm excited to discuss our plans for the community event and work on addressing gentrification together."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's finalize our plans for the community event and strategize how we can make a meaningful impact on addressing gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to collaborating with you on this. Let's make a positive change in our community!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's meet at Hobbs Cafe at 3 pm then and finalize our plans together."
+        ],
+        [
+          "Klaus Mueller",
+          "See you at 3 pm at Hobbs Cafe, Maria! Looking forward to our discussion and planning the community event together."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we grab a snack or drink while we discuss our ideas at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'm up for grabbing a snack or drink while we discuss our ideas at Hobbs Cafe. It will be a nice addition to our brainstorming session."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we grab a snack or drink while we discuss our ideas at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's grab a snack or drink while we discuss our ideas at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we meet at 3 pm at Hobbs Cafe then and finalize our plans together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's meet at 3 pm at Hobbs Cafe and finalize our plans together. I'm excited to work on this project with you."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 3 pm at Hobbs Cafe then. Looking forward to our discussion and planning the community event together."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we finalize the agenda for our meeting during our discussion at Hobbs Cafe?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Klaus Mueller, making plans to meet at Hobbs Cafe at 3 pm to discuss gentrification and volunteering opportunities with Community Builders, while also considering grabbing a snack or drink during their brainstorming session @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you working on your paper. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for noticing. I'm almost done with the conclusion. How are you doing today?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm preparing for our meeting at Hobbs Cafe today at 3 pm to discuss gentrification and volunteering opportunities with Community Builders. I've been brainstorming some campaign ideas and details for the community event. Are you free to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria. I would love to join you at Hobbs Cafe today. I'm excited to discuss our plans for the community event and work on addressing gentrification together."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's finalize our plans for the community event and strategize how we can make a meaningful impact on addressing gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to collaborating with you on this. Let's make a positive change in our community!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's meet at Hobbs Cafe at 3 pm then and finalize our plans together."
+        ],
+        [
+          "Klaus Mueller",
+          "See you at 3 pm at Hobbs Cafe, Maria! Looking forward to our discussion and planning the community event together."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we grab a snack or drink while we discuss our ideas at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I'm up for grabbing a snack or drink while we discuss our ideas at Hobbs Cafe. It will be a nice addition to our brainstorming session."
+        ],
+        [
+          "Maria Lopez",
+          "Shall we grab a snack or drink while we discuss our ideas at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, let's grab a snack or drink while we discuss our ideas at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we meet at 3 pm at Hobbs Cafe then and finalize our plans together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's meet at 3 pm at Hobbs Cafe and finalize our plans together. I'm excited to work on this project with you."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 3 pm at Hobbs Cafe then. Looking forward to our discussion and planning the community event together."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we finalize the agenda for our meeting during our discussion at Hobbs Cafe?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:35:00"
+  }
+}

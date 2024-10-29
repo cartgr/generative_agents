@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are coordinating for a vegan potluck event, where Klaus will bring his favorite vegan dish and help set up tables and chairs for the attendees. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, I hope you're enjoying your meal! Are you planning on joining us for the potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, thank you! Yes, I would love to join the potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! We're all looking forward to it. Remember, it's a vegan potluck so please bring a vegan dish if you can."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like me to bring anything specific or just a vegan dish?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to bring something, Klaus! How about you surprise us with your favorite vegan dish?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'll surprise you with my favorite vegan dish! Looking forward to the potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, we can't wait to see what you bring! The potluck starts at 5pm tomorrow, so make sure to be here on time. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to be here on time tomorrow for the potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to seeing you tomorrow at the potluck! Enjoy the rest of your meal, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! Is there anything else you need help with for the potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Actually, if you don't mind helping out with setting up the tables and chairs for the potluck, that would be really helpful. We have a lot of attendees so any assistance would be appreciated."
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, I'd be happy to help set up the tables and chairs for the potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Klaus! Your help with setting up the tables and chairs will be greatly appreciated. I'll see you tomorrow for the potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm glad to help with setting up the tables and chairs for the potluck tomorrow. I'll make sure everything is ready for all the attendees."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Klaus! Your help with setting up the tables and chairs will be greatly appreciated. I'll see you tomorrow for the potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to bring my favorite vegan dish for the potluck tomorrow. I'm excited to join you all."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac\u2615",
+      "description": "having lunch at Hobbs Cafe (chatting with friends at the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are coordinating for a vegan potluck event, where Klaus will bring his favorite vegan dish and help set up tables and chairs for the attendees. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, I hope you're enjoying your meal! Are you planning on joining us for the potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, thank you! Yes, I would love to join the potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! We're all looking forward to it. Remember, it's a vegan potluck so please bring a vegan dish if you can."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like me to bring anything specific or just a vegan dish?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to bring something, Klaus! How about you surprise us with your favorite vegan dish?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'll surprise you with my favorite vegan dish! Looking forward to the potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, we can't wait to see what you bring! The potluck starts at 5pm tomorrow, so make sure to be here on time. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to be here on time tomorrow for the potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, looking forward to seeing you tomorrow at the potluck! Enjoy the rest of your meal, Klaus."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! Is there anything else you need help with for the potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Actually, if you don't mind helping out with setting up the tables and chairs for the potluck, that would be really helpful. We have a lot of attendees so any assistance would be appreciated."
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, I'd be happy to help set up the tables and chairs for the potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Klaus! Your help with setting up the tables and chairs will be greatly appreciated. I'll see you tomorrow for the potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm glad to help with setting up the tables and chairs for the potluck tomorrow. I'll make sure everything is ready for all the attendees."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Klaus! Your help with setting up the tables and chairs will be greatly appreciated. I'll see you tomorrow for the potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to bring my favorite vegan dish for the potluck tomorrow. I'm excited to join you all."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:40:50"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\u2615\ud83e\ude91",
+      "description": "opening Hobbs Cafe (setting up the cafe tables and chairs) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their plans for a community event on gentrification, including campaign ideas, involving more people, collaborating with student organizations, finalizing logistics, setting up the venue, and gathering feedback for future projects. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I noticed we're both up and about early! Are you excited for our meeting at Hobbs Cafe later today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm really looking forward to our meeting at Hobbs Cafe later today! I've been researching affordable housing initiatives this morning, and I can't wait to discuss our volunteering opportunities with Community Builders."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! I've been preparing some campaign ideas and details for the community event on gentrification. I'm excited to share them with you and see how we can collaborate."
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome, Maria! Your ideas sound fantastic. I'm excited to collaborate and make a positive impact. Let's discuss the details further at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you at 3pm at Hobbs Cafe then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my notes on the affordable housing initiatives and we can brainstorm ideas together!"
+        ],
+        [
+          "Maria Lopez",
+          "Should we also discuss how we can involve more people in our efforts and collaborate with student organizations?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, involving more people and working with student organizations can really amplify our impact. Let's brainstorm some strategies for collaboration."
+        ],
+        [
+          "Maria Lopez",
+          "We should also finalize the logistics for the social media campaign to raise awareness about our community event on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely consider the dietary restrictions or preferences for the refreshments at the community event. I'll make a note to discuss that with you at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "We should also finalize the agenda for the community event on gentrification. We need to ensure that all aspects are covered and everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, finalizing the agenda for the community event is crucial to ensure its success. Let's make sure we cover all aspects and everyone is aligned with the plan."
+        ],
+        [
+          "Maria Lopez",
+          "We should also discuss the logistics for setting up the venue for our community event on gentrification. It's important to create a welcoming and inclusive space for everyone attending."
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, setting up the venue for our community event is essential for creating a welcoming and inclusive space. Let's discuss the logistics and plan for it at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "We should also make sure to have a backup plan in case of any unforeseen circumstances for the community event on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider how we can gather feedback after the community event on gentrification to assess its impact and improve future projects."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their plans for a community event on gentrification, including campaign ideas, involving more people, collaborating with student organizations, finalizing logistics, setting up the venue, and gathering feedback for future projects. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I noticed we're both up and about early! Are you excited for our meeting at Hobbs Cafe later today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm really looking forward to our meeting at Hobbs Cafe later today! I've been researching affordable housing initiatives this morning, and I can't wait to discuss our volunteering opportunities with Community Builders."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! I've been preparing some campaign ideas and details for the community event on gentrification. I'm excited to share them with you and see how we can collaborate."
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome, Maria! Your ideas sound fantastic. I'm excited to collaborate and make a positive impact. Let's discuss the details further at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, see you at 3pm at Hobbs Cafe then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my notes on the affordable housing initiatives and we can brainstorm ideas together!"
+        ],
+        [
+          "Maria Lopez",
+          "Should we also discuss how we can involve more people in our efforts and collaborate with student organizations?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, involving more people and working with student organizations can really amplify our impact. Let's brainstorm some strategies for collaboration."
+        ],
+        [
+          "Maria Lopez",
+          "We should also finalize the logistics for the social media campaign to raise awareness about our community event on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely consider the dietary restrictions or preferences for the refreshments at the community event. I'll make a note to discuss that with you at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "We should also finalize the agenda for the community event on gentrification. We need to ensure that all aspects are covered and everyone is on the same page."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, finalizing the agenda for the community event is crucial to ensure its success. Let's make sure we cover all aspects and everyone is aligned with the plan."
+        ],
+        [
+          "Maria Lopez",
+          "We should also discuss the logistics for setting up the venue for our community event on gentrification. It's important to create a welcoming and inclusive space for everyone attending."
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, setting up the venue for our community event is essential for creating a welcoming and inclusive space. Let's discuss the logistics and plan for it at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "We should also make sure to have a backup plan in case of any unforeseen circumstances for the community event on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider how we can gather feedback after the community event on gentrification to assess its impact and improve future projects."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 08:08:40"
+  }
+}

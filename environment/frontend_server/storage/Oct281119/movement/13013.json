@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd58",
+      "description": "interacting with customers and preparing for the potluck event (checking the potluck supplies) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        33
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their plans for a community event on gentrification, brainstorming campaign ideas, considering involving student organizations, researching affordable housing initiatives, planning to gather feedback from the community, setting up a schedule for volunteering efforts with Community Builders, and creating a survey to gather feedback from the community on their thoughts and suggestions for the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I'm glad we could meet today to discuss our plans for the community event on gentrification. I've been brainstorming some campaign ideas and I'm excited to hear your thoughts. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm really looking forward to collaborating with you on this. I've also been thinking about some ideas for the social media campaign. How about we combine our ideas and create something impactful together?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Klaus! Let's combine our ideas and create a powerful social media campaign that truly engages the community."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, let's also consider reaching out to student organizations to get more people involved in our efforts."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus! I think involving student organizations will definitely amplify our impact. We can discuss the details further in our next meeting."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make a list of student organizations we can reach out to and share it with you before our next meeting."
+        ],
+        [
+          "Maria Lopez",
+          "Great idea, Klaus! I'll continue working on the campaign ideas and finalize the details for the community event. Looking forward to our next meeting!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also research affordable housing initiatives to see how we can incorporate that into our event planning."
+        ],
+        [
+          "Maria Lopez",
+          "Let's plan to meet next week to discuss the progress we've made and finalize the details for the community event."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also consider gathering feedback from the community to ensure our event is impactful and well-received?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus! We should definitely gather feedback from the community to ensure our event is impactful and well-received. Let's plan how we can incorporate that into our next steps."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also discuss setting up a schedule for our volunteering efforts with Community Builders to ensure we stay on track with our plans?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely discuss setting up a schedule for our volunteering efforts with Community Builders to ensure we stay on track with our plans."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider creating a survey to gather feedback from the community on their thoughts and suggestions for the event?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Klaus! Let's create a survey to gather feedback from the community on their thoughts and suggestions for the event."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also consider creating a survey to gather feedback from the community on their thoughts and suggestions for the event?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their plans for a community event on gentrification, brainstorming campaign ideas, considering involving student organizations, researching affordable housing initiatives, planning to gather feedback from the community, setting up a schedule for volunteering efforts with Community Builders, and creating a survey to gather feedback from the community on their thoughts and suggestions for the event. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I'm glad we could meet today to discuss our plans for the community event on gentrification. I've been brainstorming some campaign ideas and I'm excited to hear your thoughts. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm really looking forward to collaborating with you on this. I've also been thinking about some ideas for the social media campaign. How about we combine our ideas and create something impactful together?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Klaus! Let's combine our ideas and create a powerful social media campaign that truly engages the community."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, let's also consider reaching out to student organizations to get more people involved in our efforts."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus! I think involving student organizations will definitely amplify our impact. We can discuss the details further in our next meeting."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make a list of student organizations we can reach out to and share it with you before our next meeting."
+        ],
+        [
+          "Maria Lopez",
+          "Great idea, Klaus! I'll continue working on the campaign ideas and finalize the details for the community event. Looking forward to our next meeting!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also research affordable housing initiatives to see how we can incorporate that into our event planning."
+        ],
+        [
+          "Maria Lopez",
+          "Let's plan to meet next week to discuss the progress we've made and finalize the details for the community event."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also consider gathering feedback from the community to ensure our event is impactful and well-received?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Klaus! We should definitely gather feedback from the community to ensure our event is impactful and well-received. Let's plan how we can incorporate that into our next steps."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also discuss setting up a schedule for our volunteering efforts with Community Builders to ensure we stay on track with our plans?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's definitely discuss setting up a schedule for our volunteering efforts with Community Builders to ensure we stay on track with our plans."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also consider creating a survey to gather feedback from the community on their thoughts and suggestions for the event?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan, Klaus! Let's create a survey to gather feedback from the community on their thoughts and suggestions for the event."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we also consider creating a survey to gather feedback from the community on their thoughts and suggestions for the event?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:08:50"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f\ud83e\udd73",
+      "description": "taking a short break (conversing about volunteering efforts for a community event between Isabella Rodriguez and Klaus Mueller, where Isabella offers to help with scheduling and organizing, Klaus expresses gratitude and excitement for the upcoming potluck event, and they discuss being all set for the event later that day.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        116,
+        45
+      ],
+      "pronunciatio": "\u2615",
+      "description": "having lunch at Hobbs Cafe (leaving the cafe) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udde3\ufe0f",
+      "description": "scheduling volunteering efforts with Maria Lopez for the upcoming community event (discussing the goals of the community event) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 13:13:20"
+  }
+}

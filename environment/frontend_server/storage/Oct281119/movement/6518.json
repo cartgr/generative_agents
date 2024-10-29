@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing the details of the vegan-themed potluck at Hobbs Cafe, including Maria's contribution of vegan pasta salad, assistance with setting up tables and chairs, bringing extra utensils and plates, and Isabella's plan to have vegan desserts ready for everyone. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, are you excited for the potluck tomorrow at Hobbs Cafe? I hope you're planning to bring a delicious vegan dish to share!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I'm definitely excited for the potluck tomorrow! I was actually thinking of making my favorite vegan pasta salad to share."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your vegan pasta salad. Thank you for contributing to the potluck!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else I could help with for the potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Maria! Actually, if you could help me set up some tables and chairs for the potluck tomorrow, that would be fantastic."
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Isabella! I'd be happy to help set up the tables and chairs for the potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! Your help tomorrow will really make the potluck a success. I appreciate your willingness to assist with setting up. See you at 5pm tomorrow for the potluck!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to seeing everyone's dishes and having a great time together! Thanks for organizing this event, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Before I forget, could you also bring some extra utensils and plates for the potluck tomorrow, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella! I'll make sure to bring extra utensils and plates for the potluck tomorrow. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thanks again, Maria. I'll see you tomorrow at 5pm for the potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific theme for the potluck tomorrow, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The theme for the potluck tomorrow is actually vegan comfort food! It's all about sharing delicious and comforting vegan dishes with everyone."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a great theme, Isabella! I can't wait to see all the yummy vegan comfort food dishes tomorrow. Thanks for organizing everything!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll also make sure to have some vegan desserts ready for everyone tomorrow. Thank you again for all your help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate your hard work in organizing the potluck and I'm looking forward to tomorrow."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are discussing the details of the vegan-themed potluck at Hobbs Cafe, including Maria's contribution of vegan pasta salad, assistance with setting up tables and chairs, bringing extra utensils and plates, and Isabella's plan to have vegan desserts ready for everyone. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, are you excited for the potluck tomorrow at Hobbs Cafe? I hope you're planning to bring a delicious vegan dish to share!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I'm definitely excited for the potluck tomorrow! I was actually thinking of making my favorite vegan pasta salad to share."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your vegan pasta salad. Thank you for contributing to the potluck!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else I could help with for the potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Maria! Actually, if you could help me set up some tables and chairs for the potluck tomorrow, that would be fantastic."
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Isabella! I'd be happy to help set up the tables and chairs for the potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! Your help tomorrow will really make the potluck a success. I appreciate your willingness to assist with setting up. See you at 5pm tomorrow for the potluck!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to seeing everyone's dishes and having a great time together! Thanks for organizing this event, Isabella."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Before I forget, could you also bring some extra utensils and plates for the potluck tomorrow, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella! I'll make sure to bring extra utensils and plates for the potluck tomorrow. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thanks again, Maria. I'll see you tomorrow at 5pm for the potluck."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific theme for the potluck tomorrow, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The theme for the potluck tomorrow is actually vegan comfort food! It's all about sharing delicious and comforting vegan dishes with everyone."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a great theme, Isabella! I can't wait to see all the yummy vegan comfort food dishes tomorrow. Thanks for organizing everything!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll also make sure to have some vegan desserts ready for everyone tomorrow. Thank you again for all your help, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate your hard work in organizing the potluck and I'm looking forward to tomorrow."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        110,
+        31
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "returning to the library to work on his paper (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:06:20"
+  }
+}

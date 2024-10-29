@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciatio": "\ud83e\uddb7",
+      "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "completing her morning routine (conversing about Klaus and Maria are discussing gentrification in low-income communities, sharing surprising findings, potential solutions like affordable housing initiatives, and considering volunteering together with Community Builders to make a positive impact.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "completing his morning routine (conversing about Klaus and Maria are discussing gentrification in low-income communities, sharing surprising findings, potential solutions like affordable housing initiatives, and considering volunteering together with Community Builders to make a positive impact.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:12:00"
+  }
+}

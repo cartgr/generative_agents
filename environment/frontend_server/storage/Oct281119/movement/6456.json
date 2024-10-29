@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on organizing a potluck event and discussing ideas for adding entertainment and activities to make it more engaging for everyone @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I'm glad you could make it for dinner! Are you excited for the potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I'm definitely looking forward to it! I've been thinking about how we can make it a great event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I appreciate all your help and enthusiasm towards making it a success. Is there anything specific you need from me to prepare?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking of incorporating some entertainment or activities to make the potluck more engaging for everyone. Do you have any ideas?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus! How about we set up a small area for board games or maybe a music playlist for everyone to enjoy?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic idea, Isabella! Board games and music will definitely add to the atmosphere. I'll bring my favorite vegan dish and some board games for everyone to enjoy. Thank you for all your hard work in organizing this potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I'm glad you're on board with adding entertainment to the potluck. I'll make sure to set up the area for board games and get the music playlist ready. Looking forward to a fun event tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else you need help with for the potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we're all set for now, Klaus. Thank you for your help and enthusiasm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it! Let me know if you need any more help tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you again, Klaus! I'm really excited for tomorrow's potluck and I appreciate all your help in making it a success."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really glad we could collaborate on this event. It's great to see our ideas come together for a common goal."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you again, Klaus! I'm really excited for tomorrow's potluck and I appreciate all your help in making it a success."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we were able to work together on this, Isabella. I'm looking forward to seeing how everything turns out tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you again, Klaus! I'm really excited for tomorrow's potluck and I appreciate all your help in making it a success."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        100,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "having dinner at Hobbs Cafe (ordering her meal) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about collaborating on organizing a potluck event and discussing ideas for adding entertainment and activities to make it more engaging for everyone @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I'm glad you could make it for dinner! Are you excited for the potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I'm definitely looking forward to it! I've been thinking about how we can make it a great event."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I appreciate all your help and enthusiasm towards making it a success. Is there anything specific you need from me to prepare?"
+        ],
+        [
+          "Klaus Mueller",
+          "I was thinking of incorporating some entertainment or activities to make the potluck more engaging for everyone. Do you have any ideas?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus! How about we set up a small area for board games or maybe a music playlist for everyone to enjoy?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic idea, Isabella! Board games and music will definitely add to the atmosphere. I'll bring my favorite vegan dish and some board games for everyone to enjoy. Thank you for all your hard work in organizing this potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I'm glad you're on board with adding entertainment to the potluck. I'll make sure to set up the area for board games and get the music playlist ready. Looking forward to a fun event tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else you need help with for the potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think we're all set for now, Klaus. Thank you for your help and enthusiasm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to it! Let me know if you need any more help tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you again, Klaus! I'm really excited for tomorrow's potluck and I appreciate all your help in making it a success."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really glad we could collaborate on this event. It's great to see our ideas come together for a common goal."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you again, Klaus! I'm really excited for tomorrow's potluck and I appreciate all your help in making it a success."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we were able to work together on this, Isabella. I'm looking forward to seeing how everything turns out tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you again, Klaus! I'm really excited for tomorrow's potluck and I appreciate all your help in making it a success."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:56:00"
+  }
+}

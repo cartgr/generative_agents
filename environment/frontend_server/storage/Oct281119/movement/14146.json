@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a short break @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        31
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting with Klaus Mueller at Hobbs Cafe to discuss gentrification and volunteering opportunities with Community Builders (conversing about Maria Lopez and Klaus Mueller are discussing strategies to engage student organizations, host community events, plan a social media campaign, research affordable housing initiatives, involve the community through workshops and volunteer opportunities, gather feedback through surveys and focus groups, and explore partnerships with local businesses for sponsorships.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "meeting Maria Lopez at Hobbs Cafe to discuss volunteering opportunities with Community Builders (conversing about Maria Lopez and Klaus Mueller are discussing strategies to engage student organizations, host community events, plan a social media campaign, research affordable housing initiatives, involve the community through workshops and volunteer opportunities, gather feedback through surveys and focus groups, and explore partnerships with local businesses for sponsorships.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:17:40"
+  }
+}

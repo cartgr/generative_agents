@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "taking a short break @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc65",
+      "description": "meeting with Klaus Mueller at Hobbs Cafe to discuss gentrification and volunteering opportunities with Community Builders (collaborating on student organization involvement) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        47
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "meeting Maria Lopez at Hobbs Cafe to discuss volunteering opportunities with Community Builders (1) Klaus is arriving at Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:56:40"
+  }
+}
