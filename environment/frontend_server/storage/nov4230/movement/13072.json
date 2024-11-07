@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "hosting the potluck lunch, ensuring everyone brings a dish to share (checking in with guests about their dishes) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Klaus Mueller, discussing their excitement and plans to try out new vegan dishes together, including vegan lasagna, chocolate cake, and vegan sushi options at various cafes in town, as well as their interest in exploring a new vegan cafe opening the following month, and sharing perspectives on social justice. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day is going well, thanks for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "It's been pretty good! I'm excited for our plans to try out new vegan dishes next Monday. Have you thought about what you want to try?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to it too! I've heard great things about the vegan lasagna and chocolate cake here."
+        ],
+        [
+          "Maria Lopez",
+          "Those sound like fantastic choices! I can't wait to try them out with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Maybe we can also explore some vegan sushi options at other cafes in town or plan our vegan sushi date for next Friday."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'll look into the vegan sushi options in town for our date on Friday."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic idea! I'll make a note to research some vegan sushi places in town for our date on Friday."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also curious about the new vegan cafe opening next month. Would you be interested in checking it out with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to check out the new vegan cafe with you next month!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we share the same excitement! It's always great to try new vegan options and explore different culinary experiences."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have similar tastes in food! It's always fun to try new dishes together."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our vegan food adventures and exploring new dishes together. It's always exciting to try out different culinary options!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to continue our conversations about social justice and your experiences in the community. It's always inspiring to hear your perspective."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we have similar tastes in food! It's always fun to try new dishes together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we share similar values when it comes to social justice. Your perspectives always inspire me."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Maria Lopez and Klaus Mueller, discussing their excitement and plans to try out new vegan dishes together, including vegan lasagna, chocolate cake, and vegan sushi options at various cafes in town, as well as their interest in exploring a new vegan cafe opening the following month, and sharing perspectives on social justice. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day is going well, thanks for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "It's been pretty good! I'm excited for our plans to try out new vegan dishes next Monday. Have you thought about what you want to try?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to it too! I've heard great things about the vegan lasagna and chocolate cake here."
+        ],
+        [
+          "Maria Lopez",
+          "Those sound like fantastic choices! I can't wait to try them out with you."
+        ],
+        [
+          "Klaus Mueller",
+          "Maybe we can also explore some vegan sushi options at other cafes in town or plan our vegan sushi date for next Friday."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! I'll look into the vegan sushi options in town for our date on Friday."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a fantastic idea! I'll make a note to research some vegan sushi places in town for our date on Friday."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also curious about the new vegan cafe opening next month. Would you be interested in checking it out with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to check out the new vegan cafe with you next month!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we share the same excitement! It's always great to try new vegan options and explore different culinary experiences."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have similar tastes in food! It's always fun to try new dishes together."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our vegan food adventures and exploring new dishes together. It's always exciting to try out different culinary options!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to continue our conversations about social justice and your experiences in the community. It's always inspiring to hear your perspective."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we have similar tastes in food! It's always fun to try new dishes together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we share similar values when it comes to social justice. Your perspectives always inspire me."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:18:40"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "hosting the potluck dinner at Hobbs Cafe (greeting the first guests as they arrive) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are planning to try out new vegan dishes at Hobbs Cafe next Monday at 6:00 pm, with plans to also explore vegan options at other cafes in town and have a vegan sushi date the following Friday. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I remember we planned to try out those new vegan dishes at Hobbs Cafe next Monday at 6:00 pm. Are you still up for it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! Yes, I'm definitely still up for trying out those new vegan dishes at Hobbs Cafe next Monday at 6:00 pm. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you there then. Do you have any specific vegan dishes in mind that you want to try?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been really wanting to try the vegan lasagna and vegan chocolate cake, they sound delicious!"
+        ],
+        [
+          "Maria Lopez",
+          "Those sound like great choices! I'm excited to try them out with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I also heard they have a special on vegan sushi on Fridays, we should check that out next time!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! Let's make it a date for next Friday then?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll make sure to mark it on my calendar, looking forward to our vegan sushi date next Friday!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll text you the details later so we can coordinate our schedules."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for organizing our food adventures, Maria! I appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "No problem, Klaus! I enjoy planning our food adventures."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our vegan sushi date next Friday! I'll be ready to try out some of Isabella's special vegan creations."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to trying Isabella's special vegan creations with you next Friday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also curious to try the vegan tiramisu, I've heard it's amazing!"
+        ],
+        [
+          "Maria Lopez",
+          "We should also plan to explore some vegan options at other cafes in town. There are a few places I've been wanting to try out."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to explore new vegan options with you at other cafes in town."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are planning to try out new vegan dishes at Hobbs Cafe next Monday at 6:00 pm, with plans to also explore vegan options at other cafes in town and have a vegan sushi date the following Friday. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I remember we planned to try out those new vegan dishes at Hobbs Cafe next Monday at 6:00 pm. Are you still up for it?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! Yes, I'm definitely still up for trying out those new vegan dishes at Hobbs Cafe next Monday at 6:00 pm. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you there then. Do you have any specific vegan dishes in mind that you want to try?"
+        ],
+        [
+          "Klaus Mueller",
+          "I've been really wanting to try the vegan lasagna and vegan chocolate cake, they sound delicious!"
+        ],
+        [
+          "Maria Lopez",
+          "Those sound like great choices! I'm excited to try them out with you."
+        ],
+        [
+          "Klaus Mueller",
+          "I also heard they have a special on vegan sushi on Fridays, we should check that out next time!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! Let's make it a date for next Friday then?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan! I'll make sure to mark it on my calendar, looking forward to our vegan sushi date next Friday!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll text you the details later so we can coordinate our schedules."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for organizing our food adventures, Maria! I appreciate it."
+        ],
+        [
+          "Maria Lopez",
+          "No problem, Klaus! I enjoy planning our food adventures."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to our vegan sushi date next Friday! I'll be ready to try out some of Isabella's special vegan creations."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to trying Isabella's special vegan creations with you next Friday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also curious to try the vegan tiramisu, I've heard it's amazing!"
+        ],
+        [
+          "Maria Lopez",
+          "We should also plan to explore some vegan options at other cafes in town. There are a few places I've been wanting to try out."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to explore new vegan options with you at other cafes in town."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:43:10"
+  }
+}

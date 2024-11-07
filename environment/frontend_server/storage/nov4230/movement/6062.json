@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udecd\ufe0f",
+      "description": "continuing to serve customers and preparing for the potluck dinner at Hobbs Cafe (continuing to serve customers) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\ud83c\udfae",
+      "description": "Twitch streaming or gaming (playing the game) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        115,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf7f",
+      "description": "grabbing a light snack at Hobbs Cafe (unpacking his snack) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:50:20"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are discussing the upcoming Potluck event, with Klaus considering making a vegan lasagna and the two planning to meet at the library to go over research on gentrification before the Potluck. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's great to see you here having dinner! I hope you're enjoying the meal."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, thanks! The food here is always great. Are you excited about the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the food! I'm definitely looking forward to the Potluck tomorrow. Are you bringing a dish?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'm thinking of bringing a vegan dish to the Potluck. Do you have any recommendations for what I should make?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about trying a vegan lasagna? It's a crowd favorite and always a hit at the Potluck."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! I'll definitely consider making a vegan lasagna for the Potluck. Thanks for the suggestion, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also excited to discuss our research on gentrification at the library tomorrow morning. Would you like to meet up before the Potluck to go over our plans?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan. Let's meet up at the library at 9 am to go over our research before the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll see you at the library at 9 am tomorrow then. Enjoy the rest of your meal, Klaus!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        50
+      ],
+      "pronunciatio": "\u25b6\ufe0f",
+      "description": "streaming games on Twitch (resuming gameplay) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are discussing the upcoming Potluck event, with Klaus considering making a vegan lasagna and the two planning to meet at the library to go over research on gentrification before the Potluck. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, it's great to see you here having dinner! I hope you're enjoying the meal."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, thanks! The food here is always great. Are you excited about the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the food! I'm definitely looking forward to the Potluck tomorrow. Are you bringing a dish?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'm thinking of bringing a vegan dish to the Potluck. Do you have any recommendations for what I should make?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about trying a vegan lasagna? It's a crowd favorite and always a hit at the Potluck."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea! I'll definitely consider making a vegan lasagna for the Potluck. Thanks for the suggestion, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm also excited to discuss our research on gentrification at the library tomorrow morning. Would you like to meet up before the Potluck to go over our plans?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan. Let's meet up at the library at 9 am to go over our research before the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll see you at the library at 9 am tomorrow then. Enjoy the rest of your meal, Klaus!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:46:10"
+  }
+}

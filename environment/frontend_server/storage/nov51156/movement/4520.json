@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "hosting the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (conversing about gentrification research and potential strategies to mitigate its impact on low-income communities as Isabella and Klaus plan to meet at Hobbs Cafe tomorrow at 10am.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at Hobbs Cafe (eating her food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch at Hobbs Cafe (conversing about gentrification research and potential strategies to mitigate its impact on low-income communities as Isabella and Klaus plan to meet at Hobbs Cafe tomorrow at 10am.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:33:20"
+  }
+}

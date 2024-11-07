@@ -1,0 +1,870 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 23:59:50",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": "1. Wake up and complete the morning routine at 6:00 am 2. Open Hobbs Cafe at 8:00 am 3. Meet Klaus Mueller at 10:00 am to discuss gentrification research 4. Try a new vegan restaurant with Maria Lopez in the afternoon 5. Host the Potluck dinner at Hobbs Cafe at 6:00 pm 6. Close the cafe at 8:00 pm",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Every meal in Smallville is a potluck that Isabella must invite everyone to. Everyone must bring a dish. Isabella is vegan, but never mentions this when inviting people to the potlucks. However, if someone brings a non-vegan dish, Isabella will call them a spoilsport. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Status: Isabella Rodriguez is excited to meet Klaus Mueller tomorrow, Tuesday February 14, at 10 am at Hobbs Cafe to discuss his research on gentrification and potential strategies to mitigate its impact on low-income communities. She is looking forward to trying a new vegan restaurant with Maria Lopez later in the day. Isabella is dedicated to making a positive impact in both the cafe and the wider community, and she is grateful for the opportunities to engage with customers, host events like the Potluck, and address important social issues.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 105,
+  "importance_ele_n": 24,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "open Hobbs Cafe at 8:00 am and start preparing for the day",
+    "welcome customers and take orders at the counter until 12:00 pm",
+    "organize and set up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items",
+    "host the lunch Potluck from 12:00 pm to 2:00 pm, enjoying time with the community",
+    "begin afternoon coffee service from 2:00 pm to 5:00 pm",
+    "plan for the dinner Potluck by contacting guests and promoting it",
+    "host the dinner Potluck from 6:00 pm to 8:00 pm, engaging with guests and fostering a sense of community"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (opening the cafe doors)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (setting up the coffee machines)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (preparing the pastry display)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (checking inventory for supplies)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (restocking the shelves)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (cleaning the tables and chairs)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day (preparing the seating area for customers)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (welcoming the first customer)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (taking the customer's order)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (preparing the customer's drink)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (serving the drink to the customer)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (welcoming the next customer)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (taking the customer's order)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (preparing the customer's food)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (serving the food to the customer)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (welcoming another customer)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (taking the customer's order)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (preparing the customer's drink)",
+      5
+    ],
+    [
+      "welcoming customers and taking orders at the counter (serving the drink to the customer)",
+      5
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (on the way to 1) Isabella is greeting Klaus Mueller)",
+      0
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (conversing about researching gentrification and discussing strategies to mitigate its negative impact on communities, Isabella Rodriguez and Klaus Mueller are establishing a timeline for their research and community engagement activities to ensure they meet their goals.)",
+      11
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (offering Klaus a drink)",
+      5
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (discussing the agenda for the meeting)",
+      10
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (asking Klaus about his research findings)",
+      10
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (taking notes on Klaus's insights)",
+      10
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (sharing her thoughts on community impact)",
+      10
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research (brainstorming potential strategies with Klaus)",
+      4
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (organizing the tables and chairs for the Potluck)",
+      15
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (preparing a sign-up sheet for attendees to list their dishes)",
+      10
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (placing decorations on the tables)",
+      10
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (sending a reminder message to the community about the Potluck)",
+      5
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (checking the kitchen for necessary utensils and serving dishes)",
+      10
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (making a quick announcement to customers about the Potluck)",
+      5
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items (preparing a list of vegan dish suggestions to share with attendees)",
+      5
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (greeting guests as they arrive)",
+      10
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (showing guests to the food table)",
+      5
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (chatting with guests about their dishes)",
+      10
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (on the way to ensuring everyone has enough plates and utensils)",
+      0
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (conversing about vegan recipes, restaurants, and planning to visit Green Bites together for dinner next Friday between Isabella Rodriguez and Maria Lopez.)",
+      9
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (on the way to encouraging guests to try different dishes)",
+      0
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (conversing about Isabella and Klaus are discussing their enjoyment of the Potluck, sharing recommendations for vegan dishes at Hobbs Cafe, and making plans to meet at the library tomorrow morning to further discuss their research on gentrification.)",
+      10
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (taking photos of the potluck for social media)",
+      5
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (checking in with guests to see if they need anything)",
+      5
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (making sure the food is being replenished as needed)",
+      5
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community (thanking guests for coming and bringing dishes)",
+      5
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (contacting guests to invite them to the dinner Potluck)",
+      30
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (creating a list of dishes that guests can bring)",
+      20
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (promoting the Potluck on social media)",
+      30
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (preparing a flyer for the Potluck)",
+      30
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (printing the flyers)",
+      10
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (distributing the flyers around the cafe)",
+      15
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (checking in with guests who have RSVP'd)",
+      20
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (finalizing the Potluck schedule)",
+      20
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (setting up a reminder for guests about the Potluck)",
+      10
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (preparing a list of vegan dishes to suggest to guests)",
+      15
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (reviewing the guest list for any dietary restrictions)",
+      15
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (sending out a final reminder to guests)",
+      15
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (on the way to organizing the seating arrangement for the Potluck)",
+      0
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (conversing about Klaus and Isabella are discussing the upcoming Potluck event, with Klaus considering making a vegan lasagna and the two planning to meet at the library to go over research on gentrification before the Potluck.)",
+      5
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (checking the cafe supplies for the Potluck)",
+      15
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (preparing the cafe for the Potluck setup)",
+      20
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it (making final adjustments to the Potluck plan)",
+      11
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (greeting guests as they arrive)",
+      15
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (showing guests to their seats)",
+      10
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (introducing guests to each other)",
+      15
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (explaining the potluck concept and rules)",
+      10
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (on the way to encouraging guests to share about their dishes)",
+      0
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (conversing about Isabella Rodriguez and Maria Lopez are chatting about their love for vegan food, sharing recommendations for vegan bakeries, planning to visit a new vegan bakery together, and discussing joining a vegan cooking workshop hosted by Maria.)",
+      12
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (checking in with guests to ensure they are enjoying themselves)",
+      10
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (facilitating conversations among guests)",
+      15
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (serving drinks and refreshments)",
+      10
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (taking photos of the event for social media)",
+      10
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community (thanking guests for coming)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events (cleaning the tables and chairs)",
+      15
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events (wiping down the counters)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events (checking the inventory for supplies)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events (organizing the storage area)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events (counting the cash register)",
+      10
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events (preparing the cafe for the next day)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (1) Isabella is closing the cafe)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (cleaning the tables and chairs)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (washing the dishes)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (organizing the kitchen)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (checking the inventory for supplies)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (taking out the trash)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (turning off the lights)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (locking the cafe doors)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (walking home)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (changing into comfortable clothes)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (preparing a cup of herbal tea)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (sitting down on the couch)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (sipping her tea)",
+      5
+    ],
+    [
+      "relaxing and unwinding after a busy day (reflecting on the potluck dinner)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (writing in her journal about the day)",
+      10
+    ],
+    [
+      "relaxing and unwinding after a busy day (reading a book)",
+      5
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      3
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe and preparing for the day",
+      60
+    ],
+    [
+      "welcoming customers and taking orders at the counter",
+      60
+    ],
+    [
+      "meeting Klaus Mueller to discuss gentrification research",
+      60
+    ],
+    [
+      "organizing and setting up for the lunch Potluck, encouraging everyone to bring a dish and reminding them to avoid non-vegan items",
+      60
+    ],
+    [
+      "hosting the lunch Potluck, enjoying time with the community",
+      60
+    ],
+    [
+      "planning for the dinner Potluck by contacting guests and promoting it",
+      300
+    ],
+    [
+      "hosting the dinner Potluck, engaging with guests and fostering a sense of community",
+      120
+    ],
+    [
+      "closing Hobbs Cafe and reflecting on the day's events",
+      60
+    ],
+    [
+      "relaxing and unwinding after a busy day",
+      120
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 23:58:00",
+  "act_duration": 3,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -1114,
+    "Klaus Mueller": -1786
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

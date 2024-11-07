@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella recommending dishes for Klaus to try at the potluck and offering her vegan tiramisu as a personal favorite. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, I hope you're enjoying the potluck lunch so far. Have you tried any of the dishes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, I haven't tried any dishes yet, but everything looks delicious. Thank you for organizing this potluck lunch."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like me to recommend a dish for you to try first?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd love a recommendation. What do you suggest?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I recommend trying the vegan lasagna, it's one of our most popular dishes at the potluck."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the recommendation, Isabella. I'll definitely try the vegan lasagna."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're willing to try it! Let me know what you think after you've had a taste."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again for organizing this potluck lunch, Isabella. It's great to see everyone coming together to share delicious food."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the potluck, Klaus. Feel free to try any other dishes that catch your eye!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything specific you brought to the potluck that you recommend trying?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I actually made a vegan tiramisu for the potluck. It's one of my personal favorites. Would you like to try some?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to try some of your vegan tiramisu, Isabella. Thank you for sharing it with us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan tiramisu, Klaus. Feel free to have more if you'd like!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I will definitely try some of your vegan tiramisu."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the potluck, Klaus. Feel free to try any other dishes that catch your eye!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a dish you recommend I try next, Isabella?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf54",
+      "description": "having lunch at Hobbs Cafe (ordering her food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella recommending dishes for Klaus to try at the potluck and offering her vegan tiramisu as a personal favorite. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, I hope you're enjoying the potluck lunch so far. Have you tried any of the dishes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, I haven't tried any dishes yet, but everything looks delicious. Thank you for organizing this potluck lunch."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Would you like me to recommend a dish for you to try first?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd love a recommendation. What do you suggest?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I recommend trying the vegan lasagna, it's one of our most popular dishes at the potluck."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the recommendation, Isabella. I'll definitely try the vegan lasagna."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're willing to try it! Let me know what you think after you've had a taste."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again for organizing this potluck lunch, Isabella. It's great to see everyone coming together to share delicious food."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the potluck, Klaus. Feel free to try any other dishes that catch your eye!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything specific you brought to the potluck that you recommend trying?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I actually made a vegan tiramisu for the potluck. It's one of my personal favorites. Would you like to try some?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to try some of your vegan tiramisu, Isabella. Thank you for sharing it with us."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan tiramisu, Klaus. Feel free to have more if you'd like!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I will definitely try some of your vegan tiramisu."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the potluck, Klaus. Feel free to try any other dishes that catch your eye!"
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a dish you recommend I try next, Isabella?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:07:40"
+  }
+}

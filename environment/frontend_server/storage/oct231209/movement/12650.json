@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "serving customers at Hobbs Cafe (taking a drink order from a table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        28
+      ],
+      "pronunciatio": "\u2615\ud83d\udcd1",
+      "description": "heading to the library to review research papers (conversing about organizing a meeting at Hobbs Cafe to review research papers and finalize presentation details, including going over key points from the articles and preparing discussion questions.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying and preparing notes for the presentation in the library (reviewing the research articles) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:08:20"
+  }
+}

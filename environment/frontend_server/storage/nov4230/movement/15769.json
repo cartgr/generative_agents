@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83c\udf70",
+      "description": "setting up for the potluck dinner, welcoming guests as they arrive (conversing about preparing for a streaming session and discussing the potluck dinner, including trying vegan lasagna and tiramisu, organizing a vegan dessert tasting event at the cafe, brainstorming themes and dessert options for the event, and sharing excitement for the upcoming event.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        106,
+        32
+      ],
+      "pronunciatio": "\ud83c\udf74\ud83c\udf70",
+      "description": "taking a break or relaxing (conversing about preparing for a streaming session and discussing the potluck dinner, including trying vegan lasagna and tiramisu, organizing a vegan dessert tasting event at the cafe, brainstorming themes and dessert options for the event, and sharing excitement for the upcoming event.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "balancing academic and social commitments for the evening (checking in with a study group online) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 19:48:10"
+  }
+}

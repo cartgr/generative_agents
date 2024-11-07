@@ -1,0 +1,774 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 23:59:50",
+  "curr_tile": [
+    127,
+    46
+  ],
+  "daily_plan_req": "1. Wake up at 7 am and complete my morning routine 2. Head to the library at Oak Hill College at 8 am to work on my research 3. Meet Isabella Rodriguez at Hobbs Cafe at 10 am to discuss gentrification  4. Review the article on urban gentrification shared by Maria Lopez in the afternoon  5. Continue working on the research paper in the library  6. Have dinner at Hobbs Cafe at 5 pm.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Status: Klaus Mueller is prepared for his meeting with Isabella Rodriguez at Hobbs Cafe today at 10 am, where they will discuss their research on gentrification. He has his notes and research materials ready, as well as the article on urban gentrification shared by Maria Lopez for their discussion later in the day. Klaus is committed to collaborating with Maria and continuing their progress on the research paper. He remains focused on finding solutions to the challenges of gentrification and is dedicated to understanding its effects on communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 124,
+  "importance_ele_n": 12,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "go to the library at Oak Hill College by 8:30 am to begin research for his paper on gentrification",
+    "spend the morning writing and gathering sources until 12:00 pm",
+    "have lunch at Hobbs Cafe from 12:15 pm to 1:00 pm",
+    "return to the library from 1:15 pm and continue writing until 4:30 pm",
+    "take a break to relax and recharge until 5:00 pm",
+    "have dinner at Hobbs Cafe at 5:15 pm",
+    "return to his dorm to finalize some ideas for his research paper from 6:00 pm to 8:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing his morning routine (brushing his teeth)",
+      5
+    ],
+    [
+      "completing his morning routine (taking a shower)",
+      10
+    ],
+    [
+      "completing his morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing his morning routine (making breakfast)",
+      15
+    ],
+    [
+      "completing his morning routine (eating breakfast)",
+      10
+    ],
+    [
+      "completing his morning routine (packing his bag for the library)",
+      5
+    ],
+    [
+      "completing his morning routine (checking his notes and materials)",
+      5
+    ],
+    [
+      "working on his research in the library (1) Klaus is gathering his research materials)",
+      10
+    ],
+    [
+      "working on his research in the library (on the way to reviewing his notes on gentrification)",
+      0
+    ],
+    [
+      "working on his research in the library (conversing about Maria Lopez and Klaus Mueller are discussing gathering research materials, sharing articles, and planning to meet at Hobbs Cafe at 1 pm to discuss the social implications of gentrification and potential solutions, with the possibility of Isabella joining them.)",
+      9
+    ],
+    [
+      "working on his research in the library (reading the article on urban gentrification shared by Maria Lopez)",
+      15
+    ],
+    [
+      "working on his research in the library (taking notes on key points from the article)",
+      10
+    ],
+    [
+      "working on his research in the library (organizing his notes for the meeting)",
+      5
+    ],
+    [
+      "working on his research in the library (preparing questions for Isabella)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (1) Klaus is greeting Isabella at Hobbs Cafe)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (on the way to ordering coffee for himself and Isabella)",
+      0
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (conversing about researching gentrification and discussing strategies to mitigate its negative impact on communities, Isabella Rodriguez and Klaus Mueller are establishing a timeline for their research and community engagement activities to ensure they meet their goals.)",
+      11
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (finding a table to sit at)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (setting up his notes and materials on the table)",
+      5
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (discussing the main points of their research on gentrification)",
+      10
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (sharing insights from the article on urban gentrification)",
+      10
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (asking Isabella for her perspective on the research findings)",
+      10
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (taking notes on Isabella's feedback and suggestions)",
+      10
+    ],
+    [
+      "working on his research in the library",
+      54
+    ],
+    [
+      "having lunch at Hobbs Cafe (ordering his lunch)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (waiting for his food to be prepared)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to eating his lunch)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about urban gentrification and discussing their initial thoughts on an article they read, with Maria wanting to invite Isabella to join them for coffee and continue the conversation)",
+      7
+    ],
+    [
+      "having lunch at Hobbs Cafe (engaging in conversation with Isabella)",
+      20
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to finishing his lunch)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about Isabella and Klaus are discussing their enjoyment of the Potluck, sharing recommendations for vegan dishes at Hobbs Cafe, and making plans to meet at the library tomorrow morning to further discuss their research on gentrification.)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying the bill)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (gathering his belongings)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (leaving Hobbs Cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to the library)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (arriving at the library)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (finding a study spot)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (setting up his materials for research)",
+      5
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez (reading the introduction of the article)",
+      10
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez (highlighting key points in the introduction)",
+      10
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez (reading the first section of the article)",
+      10
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez (taking notes on the first section)",
+      10
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez (reading the second section of the article)",
+      10
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez (taking notes on the second section)",
+      10
+    ],
+    [
+      "continuing to work on his research paper in the library (1) Klaus is organizing his notes and materials)",
+      15
+    ],
+    [
+      "continuing to work on his research paper in the library (outlining the main points of the research paper)",
+      20
+    ],
+    [
+      "continuing to work on his research paper in the library (writing the introduction section)",
+      25
+    ],
+    [
+      "continuing to work on his research paper in the library (researching additional sources to support his arguments)",
+      20
+    ],
+    [
+      "continuing to work on his research paper in the library (taking a short break to recharge)",
+      5
+    ],
+    [
+      "continuing to work on his research paper in the library (writing the body paragraphs of the research paper)",
+      30
+    ],
+    [
+      "continuing to work on his research paper in the library (reviewing what he has written so far)",
+      5
+    ],
+    [
+      "having dinner at Hobbs Cafe (ordering his meal)",
+      10
+    ],
+    [
+      "having dinner at Hobbs Cafe (waiting for his meal to be prepared)",
+      10
+    ],
+    [
+      "having dinner at Hobbs Cafe (on the way to eating his meal)",
+      0
+    ],
+    [
+      "having dinner at Hobbs Cafe (conversing about Klaus and Isabella are discussing the upcoming Potluck event, with Klaus considering making a vegan lasagna and the two planning to meet at the library to go over research on gentrification before the Potluck.)",
+      5
+    ],
+    [
+      "having dinner at Hobbs Cafe (taking notes on his research while eating)",
+      10
+    ],
+    [
+      "having dinner at Hobbs Cafe (paying the bill)",
+      5
+    ],
+    [
+      "having dinner at Hobbs Cafe (gathering his belongings to leave)",
+      5
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper (walking back to his dorm)",
+      15
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper (reviewing his notes on gentrification)",
+      15
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper (on the way to brainstorming ideas for the research paper)",
+      0
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper (conversing about Klaus Mueller and Maria Lopez discussing their research on gentrification, planning to meet at Hobbs Cafe at 4 pm to go over their findings, and inviting Isabella Rodriguez to join their discussion later.)",
+      10
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper (writing down key points for the paper)",
+      10
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper (organizing his materials for the paper)",
+      5
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (finalizing the outline of his research paper)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (reviewing his notes from the library)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (drafting the introduction section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (writing the literature review section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (organizing his references)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (drafting the methodology section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (writing the findings section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (drafting the discussion section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (reviewing the entire paper for coherence)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (making edits to the introduction)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (refining the literature review)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (on the way to checking the methodology for clarity)",
+      0
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (conversing about the potential solutions to mitigate the negative impact of urban gentrification over coffee at Hobbs Cafe with Maria, Klaus, and Isabella.)",
+      9
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (revising the findings section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (editing the discussion section)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (formatting the paper according to guidelines)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (proofreading the entire paper)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (preparing a summary of key points)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (creating a presentation outline for the paper)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (practicing his presentation)",
+      15
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm (saving the final version of the paper)",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      23
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      15
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      6
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "working on his research in the library",
+      60
+    ],
+    [
+      "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification",
+      60
+    ],
+    [
+      "working on his research in the library",
+      60
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      120
+    ],
+    [
+      "reviewing the article on urban gentrification shared by Maria Lopez",
+      60
+    ],
+    [
+      "continuing to work on his research paper in the library",
+      120
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "returning to his dorm to finalize some ideas for his research paper",
+      60
+    ],
+    [
+      "finalizing some ideas for his research paper in his dorm",
+      300
+    ]
+  ],
+  "act_address": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room:bed",
+  "act_start_time": "February 14, 2023, 23:57:00",
+  "act_duration": 6,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Klaus Mueller",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being used for sleeping",
+  "act_obj_pronunciatio": "\ud83d\ude34",
+  "act_obj_event": [
+    "bed",
+    "be",
+    "used for sleeping"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -322,
+    "Isabella Rodriguez": -1786
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

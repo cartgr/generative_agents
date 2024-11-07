@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf79",
+      "description": "hosting the dinner Potluck, engaging with guests and fostering a sense of community (making sure everyone has enough drinks) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their progress on their research paper about gentrification, planning to meet up at Hobbs Cafe to share insights, discuss an insightful article on the impact of gentrification, and prepare questions for their discussion. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you working on your research paper earlier. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for noticing! I've made some progress outlining the main arguments for my paper. How's your research coming along?"
+        ],
+        [
+          "Maria Lopez",
+          "I've been gathering more sources for our paper on gentrification and have some interesting insights to share. How about we meet up at Hobbs Cafe later to discuss further?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I'll finish up here and meet you at Hobbs Cafe in about an hour."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! See you at Hobbs Cafe in an hour."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, did you happen to find that article on the impact of gentrification that you mentioned earlier?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I found the article you mentioned. It's quite insightful and provides a different perspective on the impact of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I can't wait to read the article and discuss it with you at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "I also wrote down some questions for our discussion, so we can make sure to cover all aspects."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you at Hobbs Cafe in an hour then. Looking forward to our discussion!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at Hobbs Cafe in an hour then. Looking forward to our discussion!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        109,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their progress on their research paper about gentrification, planning to meet up at Hobbs Cafe to share insights, discuss an insightful article on the impact of gentrification, and prepare questions for their discussion. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I saw you working on your research paper earlier. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for noticing! I've made some progress outlining the main arguments for my paper. How's your research coming along?"
+        ],
+        [
+          "Maria Lopez",
+          "I've been gathering more sources for our paper on gentrification and have some interesting insights to share. How about we meet up at Hobbs Cafe later to discuss further?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great! I'll finish up here and meet you at Hobbs Cafe in about an hour."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! See you at Hobbs Cafe in an hour."
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, did you happen to find that article on the impact of gentrification that you mentioned earlier?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I found the article you mentioned. It's quite insightful and provides a different perspective on the impact of gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I can't wait to read the article and discuss it with you at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "I also wrote down some questions for our discussion, so we can make sure to cover all aspects."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll see you at Hobbs Cafe in an hour then. Looking forward to our discussion!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll see you at Hobbs Cafe in an hour then. Looking forward to our discussion!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:51:10"
+  }
+}

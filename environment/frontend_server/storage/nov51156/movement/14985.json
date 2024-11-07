@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "planning for the dinner Potluck by contacting guests and promoting it (preparing the cafe for the Potluck setup) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez discussing their research on gentrification, planning to meet at Hobbs Cafe at 4 pm to go over their findings, and inviting Isabella Rodriguez to join their discussion later. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How did your day go so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day has been pretty productive so far. I just had a meeting with Isabella Rodriguez at Hobbs Cafe to discuss our research on gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! I would love to hear more about your discussion with Isabella. How did it go?"
+        ],
+        [
+          "Klaus Mueller",
+          "It went really well! We shared insights, discussed the article on urban gentrification you sent, and we are planning to continue our progress on the research paper. Isabella brought up some interesting points that I hadn't considered before."
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome to hear! Isabella always brings such fresh perspectives to the table. I'm glad our research is progressing well. Do you think we should meet up later to go over our findings?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Maria! I think it would be a great idea to meet up later and go over our findings together. Your input is always valuable to me."
+        ],
+        [
+          "Maria Lopez",
+          "Should we plan to meet at Hobbs Cafe around 4 pm to discuss our findings?"
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me, Maria! Let's meet at Hobbs Cafe around 4 pm to discuss our findings."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at Hobbs Cafe at 4 pm then. Looking forward to going over our findings together."
+        ],
+        [
+          "Klaus Mueller",
+          "Actually, Maria, before I forget, would you like to join Isabella and me for our discussion later? Your insights are always valuable."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great opportunity, Klaus! I would love to join your discussion with Isabella. Thank you for inviting me."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'm looking forward to our discussion with Isabella later. See you at Hobbs Cafe at 4 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also invite Isabella to join us for our meeting at 4 pm? Her perspective would be invaluable to our discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "I think that's a great idea, Maria. Let's invite Isabella to join us for our meeting at 4 pm. Her perspective will definitely enhance our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Should we send Isabella a quick message about joining us at 4 pm? I think her insights would be really valuable to our discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Maria! I'll send Isabella a message now to invite her to join us at 4 pm. Her insights will definitely enrich our discussion."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez discussing their research on gentrification, planning to meet at Hobbs Cafe at 4 pm to go over their findings, and inviting Isabella Rodriguez to join their discussion later. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How did your day go so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day has been pretty productive so far. I just had a meeting with Isabella Rodriguez at Hobbs Cafe to discuss our research on gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great! I would love to hear more about your discussion with Isabella. How did it go?"
+        ],
+        [
+          "Klaus Mueller",
+          "It went really well! We shared insights, discussed the article on urban gentrification you sent, and we are planning to continue our progress on the research paper. Isabella brought up some interesting points that I hadn't considered before."
+        ],
+        [
+          "Maria Lopez",
+          "That's awesome to hear! Isabella always brings such fresh perspectives to the table. I'm glad our research is progressing well. Do you think we should meet up later to go over our findings?"
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Maria! I think it would be a great idea to meet up later and go over our findings together. Your input is always valuable to me."
+        ],
+        [
+          "Maria Lopez",
+          "Should we plan to meet at Hobbs Cafe around 4 pm to discuss our findings?"
+        ],
+        [
+          "Klaus Mueller",
+          "That works for me, Maria! Let's meet at Hobbs Cafe around 4 pm to discuss our findings."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at Hobbs Cafe at 4 pm then. Looking forward to going over our findings together."
+        ],
+        [
+          "Klaus Mueller",
+          "Actually, Maria, before I forget, would you like to join Isabella and me for our discussion later? Your insights are always valuable."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great opportunity, Klaus! I would love to join your discussion with Isabella. Thank you for inviting me."
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'm looking forward to our discussion with Isabella later. See you at Hobbs Cafe at 4 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also invite Isabella to join us for our meeting at 4 pm? Her perspective would be invaluable to our discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "I think that's a great idea, Maria. Let's invite Isabella to join us for our meeting at 4 pm. Her perspective will definitely enhance our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Should we send Isabella a quick message about joining us at 4 pm? I think her insights would be really valuable to our discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "Great idea, Maria! I'll send Isabella a message now to invite her to join us at 4 pm. Her insights will definitely enrich our discussion."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:37:30"
+  }
+}

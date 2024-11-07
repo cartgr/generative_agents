@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Klaus are discussing their enjoyment of the Potluck, sharing recommendations for vegan dishes at Hobbs Cafe, and making plans to meet at the library tomorrow morning to further discuss their research on gentrification. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, it's great to see you here at Hobbs Cafe. How are you finding the Potluck so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, I'm enjoying the Potluck. The food here is amazing. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the food. Have you tried the vegan lasagna? It's one of my favorites here."
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I did try the vegan lasagna. It was delicious! Do you have any recommendations for other vegan dishes here?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I would recommend trying the vegan curry. It's a customer favorite here at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the recommendation, Isabella. I'll definitely try the vegan curry next time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan lasagna and I hope you like the vegan curry just as much. Would you be interested in discussing our research on gentrification further over coffee sometime?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Isabella. I would love to discuss our research on gentrification further over coffee. How about we meet at the library tomorrow morning?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's meet at the library tomorrow morning to continue our discussion on gentrification"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to our discussion tomorrow morning at the library. Thank you for organizing this meeting."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm excited to dive deeper into our research and collaboration. See you at the library tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for inviting me to the Potluck, Isabella. It's been a great experience meeting members of the community. I look forward to our meeting at the library tomorrow morning."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great to catch up with you today, Klaus. I'll see you tomorrow at the library for our discussion on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for inviting me to the Potluck, Isabella. It's been a great experience meeting members of the community. I look forward to our meeting at the library tomorrow morning."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great catching up with you, Klaus. I'll send you the details of our meeting at the library tomorrow morning. Enjoy the rest of the Potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again for the invite, Isabella. I'm looking forward to our discussion on gentrification at the library tomorrow morning."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf31",
+      "description": "having lunch at Hobbs Cafe with Isabella Rodriguez (asking Isabella about her vegan choices) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Klaus are discussing their enjoyment of the Potluck, sharing recommendations for vegan dishes at Hobbs Cafe, and making plans to meet at the library tomorrow morning to further discuss their research on gentrification. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Klaus, it's great to see you here at Hobbs Cafe. How are you finding the Potluck so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hi Isabella, I'm enjoying the Potluck. The food here is amazing. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the food. Have you tried the vegan lasagna? It's one of my favorites here."
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I did try the vegan lasagna. It was delicious! Do you have any recommendations for other vegan dishes here?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I would recommend trying the vegan curry. It's a customer favorite here at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the recommendation, Isabella. I'll definitely try the vegan curry next time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan lasagna and I hope you like the vegan curry just as much. Would you be interested in discussing our research on gentrification further over coffee sometime?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Isabella. I would love to discuss our research on gentrification further over coffee. How about we meet at the library tomorrow morning?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, let's meet at the library tomorrow morning to continue our discussion on gentrification"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to our discussion tomorrow morning at the library. Thank you for organizing this meeting."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm excited to dive deeper into our research and collaboration. See you at the library tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for inviting me to the Potluck, Isabella. It's been a great experience meeting members of the community. I look forward to our meeting at the library tomorrow morning."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great to catch up with you today, Klaus. I'll see you tomorrow at the library for our discussion on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for inviting me to the Potluck, Isabella. It's been a great experience meeting members of the community. I look forward to our meeting at the library tomorrow morning."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great catching up with you, Klaus. I'll send you the details of our meeting at the library tomorrow morning. Enjoy the rest of the Potluck!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again for the invite, Isabella. I'm looking forward to our discussion on gentrification at the library tomorrow morning."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:37:40"
+  }
+}

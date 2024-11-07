@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Klaus, planning to try vegan dishes like lasagna, tiramisu, and sushi at Hobbs Cafe, with Isabella preparing special vegan sushi dishes for Klaus to take home, showcasing her dedication to providing delicious vegan options @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I hope you're enjoying your meal! Have you had a chance to try the vegan lasagna and tiramisu yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella! The vegan lasagna and tiramisu were delicious. Thanks for recommending them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed them! Would you be interested in trying the vegan sushi next?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Isabella! I love trying new vegan dishes. Let's definitely plan to try the vegan sushi next time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! How about we set a date for next Friday to try the vegan sushi together at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love that, Isabella! Next Friday sounds perfect. Thank you for suggesting it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll mark it down in my calendar. See you next Friday for some delicious vegan sushi."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm looking forward to trying the vegan sushi with you next Friday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to prepare some special vegan sushi dishes for us to enjoy next Friday. Can't wait to share this experience with you, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate your thoughtfulness in preparing the special vegan sushi dishes for us. I'm excited for our food adventure next Friday!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to prepare some extra vegan sushi dishes for you to take home and enjoy later as well. Thank you for being such a great supporter of our vegan options, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I really appreciate your generosity in preparing extra vegan sushi dishes for me to take home. I'm grateful for your dedication to providing delicious vegan options at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're looking forward to it, Klaus! I'll see you next Friday for some delicious vegan sushi."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I can't wait to try the special vegan sushi dishes you prepare for us next Friday. Your dedication to providing delicious vegan options at Hobbs Cafe is truly commendable."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make sure to include your favorite vegan tiramisu in the special dishes as well. Can't wait to see you next Friday for our vegan sushi night!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate your effort in including my favorite vegan tiramisu in the special dishes. I'm looking forward to our vegan sushi night next Friday!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        113,
+        37
+      ],
+      "pronunciatio": "\ud83c\udf31",
+      "description": "having dinner at Hobbs Cafe (conversing about Maria Lopez and Klaus Mueller are chatting about their enjoyment of vegan options at Hobbs Cafe, making plans to meet up next Monday to try new vegan dishes together and exchanging recommendations for their next meal.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Klaus, planning to try vegan dishes like lasagna, tiramisu, and sushi at Hobbs Cafe, with Isabella preparing special vegan sushi dishes for Klaus to take home, showcasing her dedication to providing delicious vegan options @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I hope you're enjoying your meal! Have you had a chance to try the vegan lasagna and tiramisu yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella! The vegan lasagna and tiramisu were delicious. Thanks for recommending them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed them! Would you be interested in trying the vegan sushi next?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Isabella! I love trying new vegan dishes. Let's definitely plan to try the vegan sushi next time."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! How about we set a date for next Friday to try the vegan sushi together at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love that, Isabella! Next Friday sounds perfect. Thank you for suggesting it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll mark it down in my calendar. See you next Friday for some delicious vegan sushi."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'm looking forward to trying the vegan sushi with you next Friday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to prepare some special vegan sushi dishes for us to enjoy next Friday. Can't wait to share this experience with you, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate your thoughtfulness in preparing the special vegan sushi dishes for us. I'm excited for our food adventure next Friday!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to prepare some extra vegan sushi dishes for you to take home and enjoy later as well. Thank you for being such a great supporter of our vegan options, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I really appreciate your generosity in preparing extra vegan sushi dishes for me to take home. I'm grateful for your dedication to providing delicious vegan options at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're looking forward to it, Klaus! I'll see you next Friday for some delicious vegan sushi."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I can't wait to try the special vegan sushi dishes you prepare for us next Friday. Your dedication to providing delicious vegan options at Hobbs Cafe is truly commendable."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll make sure to include your favorite vegan tiramisu in the special dishes as well. Can't wait to see you next Friday for our vegan sushi night!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate your effort in including my favorite vegan tiramisu in the special dishes. I'm looking forward to our vegan sushi night next Friday!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:20:20"
+  }
+}

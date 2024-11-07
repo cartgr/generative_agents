@@ -1,0 +1,827 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 20:40:00",
+  "curr_tile": [
+    95,
+    37
+  ],
+  "daily_plan_req": "1. Wake up and complete morning routine at 9:00 am 2. Have breakfast at 10:00 am 3. Attend classes or study at Hobbs Cafe from 11:00 am to 1:00 pm 4. Have lunch at Hobbs Cafe at 1:00 pm 5. Continue studying or work on assignments from 2:00 pm to 4:00 pm 6. Stream or game on Twitch from 4:00 pm to 7:00 pm",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 21,
+  "innate": "energetic, enthusiastic, inquisitive",
+  "learned": "Maria Lopez is a student at Oak Hill College studying physics and a part time Twitch game streamer who loves to connect with people and explore new ideas. Maria knows that Isabella is vegan. Maria will call anyone a spoilsport if they, knowingly or unknowingly, act in a way that disregards Isabella's veganism. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Status: Maria Lopez enjoyed following her structured daily routine on Tuesday February 14. She woke up and completed her morning routine at 8:00 am, had breakfast at 9:00 am, attended classes or studied at Hobbs Cafe from 10:00 am to 1:00 pm, had lunch at Hobbs Cafe at 1:00 pm, continued to study or work on assignments from 2:00 pm to 4:00 pm, streamed or gamed on Twitch from 4:00 pm to 7:00 pm, had dinner at 6:00 pm, and took a break or relaxed from 7:00 pm to 8:00 pm. Maria is looking forward to meeting Klaus Mueller at Hobbs Cafe next Monday (February 20) at 6:00 pm to try out new vegan dishes together and explore vegan options at other cafes in town. She is also excited about her upcoming vegan sushi date with Klaus on Friday February 24. Maria is enthusiastic about promoting vegan cuisine and engaging with her community through social activities and event planning. She values her social connections and cherishes the opportunity to share her passion for plant-based eating with others. Overall, Maria feels grateful for the fulfilling experiences each day brings.",
+  "lifestyle": "Maria Lopez goes to bed around 2am, awakes up around 9am, eats dinner around 6pm. She likes to hang out at Hobbs Cafe if it's before 6pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 134,
+  "importance_ele_n": 4,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "have breakfast at 9:00 am",
+    "attend classes or study at Hobbs Cafe from 10:00 am to 1:00 pm",
+    "have lunch at Hobbs Cafe at 1:00 pm",
+    "continue studying or working on assignments from 2:00 pm to 4:00 pm",
+    "Twitch stream or game from 4:00 pm to 7:00 pm",
+    "have dinner at 6:00 pm",
+    "take a break or relax for a bit from 7:00 pm to 8:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "completing her morning routine (taking a shower)",
+      15
+    ],
+    [
+      "completing her morning routine (drying her hair)",
+      10
+    ],
+    [
+      "completing her morning routine (getting dressed)",
+      10
+    ],
+    [
+      "completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "completing her morning routine (putting on makeup)",
+      10
+    ],
+    [
+      "having breakfast (preparing her breakfast)",
+      15
+    ],
+    [
+      "having breakfast (on the way to cooking her breakfast)",
+      0
+    ],
+    [
+      "having breakfast (conversing about vegan food adventures and trying out vegan specials at Hobbs Cafe, planning a vegan sushi date on Friday, enjoying each other's company)",
+      8
+    ],
+    [
+      "having breakfast (setting the table for breakfast)",
+      5
+    ],
+    [
+      "having breakfast (sitting down to eat breakfast)",
+      5
+    ],
+    [
+      "having breakfast (enjoying her breakfast)",
+      15
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      5
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (1) Maria is reviewing her class notes)",
+      15
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (on the way to reading the assigned textbook)",
+      0
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (conversing about Isabella Rodriguez and Maria Lopez are chatting about their study session, upcoming vegan sushi date, trying out new vegan dishes at Hobbs Cafe with Klaus, exploring a new vegan cafe opening in town next month, and the positive shift towards plant-based eating.)",
+      9
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (working on a physics assignment)",
+      30
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (participating in a study group discussion)",
+      20
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (taking a short break)",
+      5
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (practicing physics problems)",
+      20
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe (summarizing key concepts)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (ordering her food)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (waiting for her food to arrive)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating her food)",
+      30
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to on the way to chatting with friends at the cafe)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about organizing a vegan dessert tasting event at the cafe next week after enjoying a potluck lunch together, with Isabella Rodriguez inviting Maria Lopez to collaborate on the project)",
+      12
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about two friends, Maria Lopez and Klaus Mueller, discussing their excitement and plans to try out new vegan dishes together, including vegan lasagna, chocolate cake, and vegan sushi options at various cafes in town, as well as their interest in exploring a new vegan cafe opening the following month, and sharing perspectives on social justice.)",
+      8
+    ],
+    [
+      "having lunch at Hobbs Cafe (checking her phone for messages)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (finishing her meal)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying the bill)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (gathering her belongings)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (leaving the cafe)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (walking to her next study location)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (settling down at her study spot)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (reviewing her study materials)",
+      5
+    ],
+    [
+      "continuing to study or work on assignments (continuing to study for her physics assignments)",
+      30
+    ],
+    [
+      "continuing to study or work on assignments (reviewing her class notes)",
+      30
+    ],
+    [
+      "continuing to study or work on assignments (on the way to working on a physics problem set)",
+      0
+    ],
+    [
+      "continuing to study or work on assignments (conversing about conversing about exploring vegan cuisine options together and planning a vegan sushi date with unique fillings like mango or spicy tofu.)",
+      11
+    ],
+    [
+      "continuing to study or work on assignments (taking a short break)",
+      10
+    ],
+    [
+      "continuing to study or work on assignments (on the way to discussing concepts with a study partner online)",
+      0
+    ],
+    [
+      "continuing to study or work on assignments (conversing about setting up for an upcoming vegan dessert tasting event and discussing potential dessert options and themes, between Isabella Rodriguez and Maria Lopez.)",
+      10
+    ],
+    [
+      "continuing to study or work on assignments (reading a physics textbook for additional understanding)",
+      30
+    ],
+    [
+      "continuing to study or work on assignments (completing a group project section)",
+      30
+    ],
+    [
+      "continuing to study or work on assignments (proofreading her assignments)",
+      20
+    ],
+    [
+      "continuing to study or work on assignments (organizing her study materials)",
+      10
+    ],
+    [
+      "continuing to study or work on assignments (preparing for her next class)",
+      8
+    ],
+    [
+      "having dinner (preparing the ingredients for dinner)",
+      15
+    ],
+    [
+      "having dinner (cooking the dinner)",
+      20
+    ],
+    [
+      "having dinner (on the way to setting the table for dinner)",
+      0
+    ],
+    [
+      "having dinner (conversing about Klaus Mueller and Maria Lopez are discussing their interest in exploring the intersection of vegan cuisine and social justice in their research, planning to incorporate their culinary experiences into their work and create positive change in their community.)",
+      10
+    ],
+    [
+      "having dinner (serving the dinner)",
+      15
+    ],
+    [
+      "taking a break or relaxing (taking a moment to unwind)",
+      5
+    ],
+    [
+      "taking a break or relaxing (stretching her body)",
+      5
+    ],
+    [
+      "taking a break or relaxing (listening to music)",
+      10
+    ],
+    [
+      "taking a break or relaxing (scrolling through social media)",
+      10
+    ],
+    [
+      "taking a break or relaxing (watching a short video)",
+      10
+    ],
+    [
+      "taking a break or relaxing (chatting with friends online)",
+      10
+    ],
+    [
+      "taking a break or relaxing (preparing a snack)",
+      10
+    ],
+    [
+      "taking a break or relaxing (enjoying her snack)",
+      10
+    ],
+    [
+      "taking a break or relaxing (checking her planner for upcoming events)",
+      10
+    ],
+    [
+      "taking a break or relaxing (reflecting on her day)",
+      10
+    ],
+    [
+      "taking a break or relaxing (planning her next streaming session)",
+      10
+    ],
+    [
+      "taking a break or relaxing (watching a stream on Twitch)",
+      10
+    ],
+    [
+      "taking a break or relaxing (on the way to writing down ideas for future streams)",
+      0
+    ],
+    [
+      "taking a break or relaxing (conversing about preparing for a streaming session and discussing the potluck dinner, including trying vegan lasagna and tiramisu, organizing a vegan dessert tasting event at the cafe, brainstorming themes and dessert options for the event, and sharing excitement for the upcoming event.)",
+      10
+    ],
+    [
+      "taking a break or relaxing (tidying up her streaming area)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (setting up her streaming equipment)",
+      15
+    ],
+    [
+      "streaming or gaming on Twitch (checking her internet connection)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (launching the streaming software)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (selecting the game to stream)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (on the way to creating a title and description for the stream)",
+      0
+    ],
+    [
+      "streaming or gaming on Twitch (conversing about Maria Lopez and Klaus Mueller are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake.)",
+      10
+    ],
+    [
+      "streaming or gaming on Twitch (starting the stream)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (greeting her viewers)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (playing the game)",
+      50
+    ],
+    [
+      "streaming or gaming on Twitch (interacting with viewers in the chat)",
+      30
+    ],
+    [
+      "streaming or gaming on Twitch (taking a short break to stretch)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (resuming the game)",
+      10
+    ],
+    [
+      "streaming or gaming on Twitch (discussing game strategies with viewers)",
+      15
+    ],
+    [
+      "streaming or gaming on Twitch (wrapping up the stream)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (thanking her viewers for joining)",
+      5
+    ],
+    [
+      "streaming or gaming on Twitch (ending the stream)",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      7
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      11
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      12
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      19
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      20
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing her morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "attending classes or studying at Hobbs Cafe",
+      120
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      120
+    ],
+    [
+      "continuing to study or work on assignments",
+      240
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "taking a break or relaxing",
+      120
+    ],
+    [
+      "streaming or gaming on Twitch",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 14, 2023, 20:34:00",
+  "act_duration": 10,
+  "act_description": "streaming or gaming on Twitch (conversing about Maria Lopez and Klaus Mueller are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake.)",
+  "act_pronunciatio": "\ud83c\udf7d\ufe0f",
+  "act_event": [
+    "Maria Lopez",
+    "converse",
+    "vegan dishes"
+  ],
+  "act_obj_description": "occupied by Maria Lopez and Klaus Mueller who are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake",
+  "act_obj_pronunciatio": "\ud83c\udf31\ud83c\udf70",
+  "act_obj_event": [
+    "cafe customer seating",
+    "is occupied by",
+    "Maria Lopez and Klaus Mueller"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 763,
+    "Isabella Rodriguez": 450
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      93,
+      37
+    ],
+    [
+      92,
+      37
+    ],
+    [
+      91,
+      37
+    ],
+    [
+      90,
+      37
+    ],
+    [
+      89,
+      37
+    ],
+    [
+      88,
+      37
+    ],
+    [
+      87,
+      37
+    ],
+    [
+      86,
+      37
+    ],
+    [
+      85,
+      37
+    ],
+    [
+      84,
+      37
+    ],
+    [
+      83,
+      37
+    ],
+    [
+      82,
+      37
+    ],
+    [
+      81,
+      37
+    ],
+    [
+      80,
+      37
+    ],
+    [
+      79,
+      37
+    ],
+    [
+      78,
+      37
+    ],
+    [
+      77,
+      37
+    ],
+    [
+      76,
+      37
+    ],
+    [
+      76,
+      36
+    ],
+    [
+      76,
+      35
+    ],
+    [
+      76,
+      34
+    ],
+    [
+      76,
+      33
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      76,
+      31
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      75,
+      26
+    ],
+    [
+      74,
+      26
+    ],
+    [
+      74,
+      25
+    ]
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about gentrification research and potential strategies to mitigate its impact on low-income communities as Isabella and Klaus plan to meet at Hobbs Cafe tomorrow at 10am. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hi Isabella, the potluck looks great! I appreciate your emphasis on avoiding non-vegan items. I actually have some research on the impact of gentrification on low-income communities that you might find interesting."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! That sounds like a fascinating topic. I would love to learn more about your research on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm currently working on finding solutions to mitigate the negative impact of gentrification on low-income communities. Would you be interested in discussing some potential strategies over coffee sometime?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to discuss potential strategies over coffee sometime. How about we meet tomorrow at 10am at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! I look forward to our discussion tomorrow at 10am at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll see you tomorrow at 10 am at Hobbs Cafe then. Looking forward to our discussion on potential strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. Looking forward to our discussion tomorrow at 10 am at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was lovely chatting with you, Klaus. I'll see you tomorrow at 10 am for our discussion on potential strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm excited to share my research with you tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm looking forward to learning more about your research on gentrification and discussing potential strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate your interest in discussing potential strategies to mitigate the impact of gentrification. I'll make sure to bring my notes and research materials for our meeting tomorrow at 10 am at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Before we wrap up, could you briefly summarize the key points of your research on gentrification? I want to have a better understanding before our meeting tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Klaus Mueller could say: 'Of course, Isabella. In summary, my research focuses on the social implications of gentrification, potential solutions to mitigate its negative impact on low-income communities, and incorporating community input in urban planning. I'll elaborate on these points further during our meeting tomorrow at 10 am at Hobbs Cafe.'"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for sharing a summary of your research, Klaus. I appreciate your focus on the social implications of gentrification and look forward to discussing potential solutions tomorrow at 10 am at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm excited to share my research with you tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was a pleasure speaking with you, Klaus. I look forward to our meeting tomorrow at 10 am at Hobbs Cafe to discuss potential strategies further."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "having lunch at Hobbs Cafe (waiting for her food to arrive) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about gentrification research and potential strategies to mitigate its impact on low-income communities as Isabella and Klaus plan to meet at Hobbs Cafe tomorrow at 10am. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hi Isabella, the potluck looks great! I appreciate your emphasis on avoiding non-vegan items. I actually have some research on the impact of gentrification on low-income communities that you might find interesting."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! That sounds like a fascinating topic. I would love to learn more about your research on gentrification."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm currently working on finding solutions to mitigate the negative impact of gentrification on low-income communities. Would you be interested in discussing some potential strategies over coffee sometime?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to discuss potential strategies over coffee sometime. How about we meet tomorrow at 10am at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! I look forward to our discussion tomorrow at 10am at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll see you tomorrow at 10 am at Hobbs Cafe then. Looking forward to our discussion on potential strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. Looking forward to our discussion tomorrow at 10 am at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was lovely chatting with you, Klaus. I'll see you tomorrow at 10 am for our discussion on potential strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm excited to share my research with you tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm looking forward to learning more about your research on gentrification and discussing potential strategies."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I appreciate your interest in discussing potential strategies to mitigate the impact of gentrification. I'll make sure to bring my notes and research materials for our meeting tomorrow at 10 am at Hobbs Cafe."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Before we wrap up, could you briefly summarize the key points of your research on gentrification? I want to have a better understanding before our meeting tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Klaus Mueller could say: 'Of course, Isabella. In summary, my research focuses on the social implications of gentrification, potential solutions to mitigate its negative impact on low-income communities, and incorporating community input in urban planning. I'll elaborate on these points further during our meeting tomorrow at 10 am at Hobbs Cafe.'"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for sharing a summary of your research, Klaus. I appreciate your focus on the social implications of gentrification and look forward to discussing potential solutions tomorrow at 10 am at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm excited to share my research with you tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was a pleasure speaking with you, Klaus. I look forward to our meeting tomorrow at 10 am at Hobbs Cafe to discuss potential strategies further."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:18:30"
+  }
+}

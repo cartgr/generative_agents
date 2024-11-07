@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "setting up for the potluck dinner, welcoming guests as they arrive (showing guests where to place their dishes) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How was your day? I saw you were busy balancing your academic and social commitments. Did you have a chance to relax a bit?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day was quite productive, thank you for asking. I did manage to take a break and relax for a bit. How about you? How's your streaming session going?"
+        ],
+        [
+          "Maria Lopez",
+          "It's going well, Klaus! I was just deciding which game to stream next. By the way, I'm really excited about trying out those new vegan dishes with you next Monday at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that your streaming session is going well, Maria! I'm also looking forward to trying out the new vegan dishes with you at Hobbs Cafe next Monday. It sounds like it's going to be a fun and delicious experience."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited about our upcoming vegan sushi date on Friday! It's going to be a great way to end the week."
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Maria! I can't wait for our vegan sushi date on Friday. It's going to be a perfect way to end the week."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, have you thought about what vegan dish you would like to try first at Hobbs Cafe next Monday?"
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't decided yet, Maria. There are so many delicious options to choose from. I'll have to think about it and let you know!"
+        ],
+        [
+          "Maria Lopez",
+          "How about we try the vegan lasagna as our first dish? I've heard it's one of their specialties!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria! I'm definitely up for trying the vegan lasagna as our first dish. It's always exciting to explore new vegan options."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're on the same page! I can't wait to try the vegan lasagna with you next Monday."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also curious about the vegan chocolate cake they have at Hobbs Cafe. Maybe we can try that after the vegan lasagna!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I was also thinking about trying the vegan chocolate cake after the vegan lasagna next Monday. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a delicious plan, Maria! Vegan chocolate cake after the vegan lasagna at Hobbs Cafe next Monday it is!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, do you have any preferences for the vegan chocolate cake? I'm excited to see what options they have!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm open to any options for the vegan chocolate cake, Maria! I'm sure whatever we choose will be delicious."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How was your day? I saw you were busy balancing your academic and social commitments. Did you have a chance to relax a bit?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day was quite productive, thank you for asking. I did manage to take a break and relax for a bit. How about you? How's your streaming session going?"
+        ],
+        [
+          "Maria Lopez",
+          "It's going well, Klaus! I was just deciding which game to stream next. By the way, I'm really excited about trying out those new vegan dishes with you next Monday at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad to hear that your streaming session is going well, Maria! I'm also looking forward to trying out the new vegan dishes with you at Hobbs Cafe next Monday. It sounds like it's going to be a fun and delicious experience."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited about our upcoming vegan sushi date on Friday! It's going to be a great way to end the week."
+        ],
+        [
+          "Klaus Mueller",
+          "Absolutely, Maria! I can't wait for our vegan sushi date on Friday. It's going to be a perfect way to end the week."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, have you thought about what vegan dish you would like to try first at Hobbs Cafe next Monday?"
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't decided yet, Maria. There are so many delicious options to choose from. I'll have to think about it and let you know!"
+        ],
+        [
+          "Maria Lopez",
+          "How about we try the vegan lasagna as our first dish? I've heard it's one of their specialties!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria! I'm definitely up for trying the vegan lasagna as our first dish. It's always exciting to explore new vegan options."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're on the same page! I can't wait to try the vegan lasagna with you next Monday."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also curious about the vegan chocolate cake they have at Hobbs Cafe. Maybe we can try that after the vegan lasagna!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I was also thinking about trying the vegan chocolate cake after the vegan lasagna next Monday. What do you think?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a delicious plan, Maria! Vegan chocolate cake after the vegan lasagna at Hobbs Cafe next Monday it is!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, do you have any preferences for the vegan chocolate cake? I'm excited to see what options they have!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm open to any options for the vegan chocolate cake, Maria! I'm sure whatever we choose will be delicious."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:28:50"
+  }
+}

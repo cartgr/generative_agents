@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having a short break and enjoying a snack @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\udde9",
+      "description": "continuing to study or work on assignments (completing a group project section) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        101,
+        31
+      ],
+      "pronunciatio": "\u2615",
+      "description": "having a light snack at Hobbs Cafe (taking a moment to enjoy the ambiance of the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:09:10"
+  }
+}

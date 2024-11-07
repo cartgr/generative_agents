@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, discussing what dishes they will bring to the Potluck event, making plans to meet before the event to go over a physics assignment, and catching up on Isabella's successful sociology paper on gentrification. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I'm so glad to see you here. Are you excited for the Potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, I'm really looking forward to it. What dish are you bringing?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm bringing a vegan lasagna and buffalo chicken dip. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm planning on bringing my specialty baked macaroni and cheese! It's always a hit at events."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your baked macaroni and cheese. We should definitely save each other a taste tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "We should also discuss the physics assignment during the Potluck, I could use some help understanding a few concepts."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'd be happy to help you with the physics assignment. Let's plan on meeting before the Potluck to go over it together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I really appreciate your help with the physics assignment. Let's meet up at 3 pm tomorrow at the library to go over it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'll see you at the library at 3 pm tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, how did your sociology paper on gentrification in low-income communities go? I remember you mentioning it the other day."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, the sociology paper went well! Klaus and I had a great discussion about it. I'll fill you in on all the details at the Potluck tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm glad your sociology paper went well. Can't wait to catch up more at the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm just finishing up here at the cafe. Do you need any help with anything before I head out?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I think I'm all set here. See you tomorrow at the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll see you tomorrow at the Potluck then! Have a wonderful evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for offering to help with the physics assignment. I really appreciate your support!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella and Maria, discussing what dishes they will bring to the Potluck event, making plans to meet before the event to go over a physics assignment, and catching up on Isabella's successful sociology paper on gentrification. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I'm so glad to see you here. Are you excited for the Potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, I'm really looking forward to it. What dish are you bringing?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm bringing a vegan lasagna and buffalo chicken dip. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm planning on bringing my specialty baked macaroni and cheese! It's always a hit at events."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your baked macaroni and cheese. We should definitely save each other a taste tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "We should also discuss the physics assignment during the Potluck, I could use some help understanding a few concepts."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'd be happy to help you with the physics assignment. Let's plan on meeting before the Potluck to go over it together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I really appreciate your help with the physics assignment. Let's meet up at 3 pm tomorrow at the library to go over it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'll see you at the library at 3 pm tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, how did your sociology paper on gentrification in low-income communities go? I remember you mentioning it the other day."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Oh, the sociology paper went well! Klaus and I had a great discussion about it. I'll fill you in on all the details at the Potluck tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm glad your sociology paper went well. Can't wait to catch up more at the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm just finishing up here at the cafe. Do you need any help with anything before I head out?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I think I'm all set here. See you tomorrow at the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll see you tomorrow at the Potluck then! Have a wonderful evening!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for offering to help with the physics assignment. I really appreciate your support!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his research paper in the library (writing the body paragraphs) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:39:40"
+  }
+}

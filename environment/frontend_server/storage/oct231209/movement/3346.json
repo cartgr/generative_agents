@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella is offering help to Maria with her physics notes and planning to attend a Potluck tomorrow at 5pm @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! How are your physics notes going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Physics notes are coming along, just trying to wrap my head around some new concepts. How's the cafe today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The cafe is busy as usual, but I'm glad you're making progress with your notes. By the way, don't forget about the Potluck we're having tomorrow at 5pm, I hope to see you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the reminder about the Potluck tomorrow! I'll make sure to be there."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm looking forward to seeing you there. If you need any help with your physics, feel free to ask me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate that offer. I'll keep that in mind if I need help. How's the cafe going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The cafe is running smoothly, thank you for asking. I'm always here if you need a break from studying or just want a change of scenery."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great, thank you Isabella for always being so welcoming. I might take you up on that offer one of these days!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, I'll let you get back to your studying now. Let me know if you need anything else!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks Isabella, I'll definitely keep that in mind. Good luck with the rest of your day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you later, Maria! Have a great day studying."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I will definitely swing by for a break soon. Enjoy the rest of your day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're making progress with your studies, Maria. Let me know if you need any help with your physics notes."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I'll definitely swing by for a break soon. Enjoy the rest of your day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're making progress with your studies, Maria. Don't hesitate to ask if you need any help with your physics notes."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I appreciate your offer to help with my physics notes. I'll keep that in mind for sure!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella is offering help to Maria with her physics notes and planning to attend a Potluck tomorrow at 5pm @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! How are your physics notes going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Physics notes are coming along, just trying to wrap my head around some new concepts. How's the cafe today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The cafe is busy as usual, but I'm glad you're making progress with your notes. By the way, don't forget about the Potluck we're having tomorrow at 5pm, I hope to see you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the reminder about the Potluck tomorrow! I'll make sure to be there."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm looking forward to seeing you there. If you need any help with your physics, feel free to ask me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate that offer. I'll keep that in mind if I need help. How's the cafe going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The cafe is running smoothly, thank you for asking. I'm always here if you need a break from studying or just want a change of scenery."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great, thank you Isabella for always being so welcoming. I might take you up on that offer one of these days!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Well, I'll let you get back to your studying now. Let me know if you need anything else!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks Isabella, I'll definitely keep that in mind. Good luck with the rest of your day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you later, Maria! Have a great day studying."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I will definitely swing by for a break soon. Enjoy the rest of your day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're making progress with your studies, Maria. Let me know if you need any help with your physics notes."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I'll definitely swing by for a break soon. Enjoy the rest of your day!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're making progress with your studies, Maria. Don't hesitate to ask if you need any help with your physics notes."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Isabella, I appreciate your offer to help with my physics notes. I'll keep that in mind for sure!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        31
+      ],
+      "pronunciatio": "\ud83d\udeb6",
+      "description": "going to the library at Oak Hill College (walking to the library) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:17:40"
+  }
+}

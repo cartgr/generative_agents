@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about vegan recipes, restaurants, and planning to visit Green Bites together for dinner next Friday between Isabella Rodriguez and Maria Lopez. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how was the dish you brought for the Potluck? Did you enjoy making it?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I loved making the dish! It was a vegan lasagna recipe I found online and it turned out really tasty."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's wonderful to hear, Maria! I'm glad you enjoyed making and sharing the vegan lasagna. Do you mind sharing the recipe with me?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Isabella! I'd be happy to share the recipe with you. Let me send it to your phone right now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! I can't wait to try making the vegan lasagna myself. It was great chatting with you about it."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you'd like to know about vegan recipes or restaurants, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate your offer. I would love to hear about your favorite vegan restaurants and any recommendations you have."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella! One of my favorite vegan restaurants is Green Bites. They have a great selection of vegan dishes and a cozy ambiance. I highly recommend trying it out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the recommendation, Maria! I'll definitely check out Green Bites soon."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, would you be interested in going to Green Bites together sometime? I think you'll really enjoy the food there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic idea, Maria! I would love to go to Green Bites with you. Let's plan a day to visit together."
+        ],
+        [
+          "Maria Lopez",
+          "Great! How about we plan to visit Green Bites next Friday for dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Maria! Next Friday for dinner at Green Bites sounds wonderful. I can't wait to try out their dishes with you."
+        ],
+        [
+          "Maria Lopez",
+          "I'll send you some more vegan restaurant recommendations later, Isabella. Enjoy the rest of the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I would love to hear more about your vegan restaurant recommendations. I appreciate your suggestions and can't wait to try out new places."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we got to chat about vegan recipes and restaurants, Isabella. It's always fun sharing our experiences!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about vegan recipes, restaurants, and planning to visit Green Bites together for dinner next Friday between Isabella Rodriguez and Maria Lopez. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how was the dish you brought for the Potluck? Did you enjoy making it?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I loved making the dish! It was a vegan lasagna recipe I found online and it turned out really tasty."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's wonderful to hear, Maria! I'm glad you enjoyed making and sharing the vegan lasagna. Do you mind sharing the recipe with me?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Isabella! I'd be happy to share the recipe with you. Let me send it to your phone right now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! I can't wait to try making the vegan lasagna myself. It was great chatting with you about it."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you'd like to know about vegan recipes or restaurants, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I appreciate your offer. I would love to hear about your favorite vegan restaurants and any recommendations you have."
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Isabella! One of my favorite vegan restaurants is Green Bites. They have a great selection of vegan dishes and a cozy ambiance. I highly recommend trying it out!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the recommendation, Maria! I'll definitely check out Green Bites soon."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, would you be interested in going to Green Bites together sometime? I think you'll really enjoy the food there!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fantastic idea, Maria! I would love to go to Green Bites with you. Let's plan a day to visit together."
+        ],
+        [
+          "Maria Lopez",
+          "Great! How about we plan to visit Green Bites next Friday for dinner?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Maria! Next Friday for dinner at Green Bites sounds wonderful. I can't wait to try out their dishes with you."
+        ],
+        [
+          "Maria Lopez",
+          "I'll send you some more vegan restaurant recommendations later, Isabella. Enjoy the rest of the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I would love to hear more about your vegan restaurant recommendations. I appreciate your suggestions and can't wait to try out new places."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we got to chat about vegan recipes and restaurants, Isabella. It's always fun sharing our experiences!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having lunch at Hobbs Cafe (engaging in conversation with Isabella) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:26:10"
+  }
+}

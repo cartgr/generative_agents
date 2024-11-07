@@ -1,0 +1,99 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "having a short break and enjoying a snack @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\udde9",
+      "description": "continuing to study or work on assignments (completing a group project section) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about exploring the creation of a new vegan dish that combines social justice values and sustainability in their community, Isabella and Klaus plan to meet at the cafe tomorrow to brainstorm and experiment with a special vegan sushi dish. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I was thinking about our discussion on creating a new vegan dish for your cafe. Do you have any new ideas or ingredients in mind?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I have been brainstorming some ideas, including a special vegan sushi dish that I think you'll love. I can't wait to share it with you!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds amazing, Isabella! I can't wait to try your special vegan sushi dish. When do you think we can work on it together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "How about we meet up tomorrow afternoon at the cafe? We can brainstorm and experiment with the new vegan dish together."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan, Isabella! I'm really excited to work on the new vegan dish with you. See you tomorrow afternoon at the cafe!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll gather some fresh ingredients and kitchen tools for our vegan sushi experiment. Looking forward to our creative session tomorrow afternoon!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll bring some additional ingredients and my favorite vegan tiramisu for us to enjoy after our creative session tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I appreciate your enthusiasm and support for our vegan dish collaboration. Looking forward to our creative session tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! I'll look forward to tasting your special vegan sushi dish and trying out our new creation together tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have everything ready for our meeting tomorrow afternoon. Looking forward to our creative session!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also excited to discuss the intersection of social justice with veganism while we work on the new dish."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad we're on the same page about exploring the connection between social justice and veganism. It's important to incorporate those values into our dishes."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to see how our new vegan dish can promote social justice and sustainability in our community."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great plan, Klaus! I'm looking forward to our creative session tomorrow afternoon. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we're able to combine our passion for social justice with our love for vegan cuisine. It's inspiring to see how we can make a positive impact through our creations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I can't wait to start brainstorming and experimenting with our new vegan dish tomorrow! See you then!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 16:14:30"
+  }
+}

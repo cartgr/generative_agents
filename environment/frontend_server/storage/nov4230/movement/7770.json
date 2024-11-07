@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf63",
+      "description": "closing Hobbs Cafe and preparing to go home (conversing about vegan food options at a potluck dinner, with Isabella Rodriguez offering Klaus Mueller her special vegan sushi dishes to try and Klaus expressing his enjoyment of her vegan lasagna and tiramisu) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        48
+      ],
+      "pronunciatio": "\ud83d\udd79\ufe0f",
+      "description": "Twitch streaming or gaming (launching the game) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf31\ud83c\udf63",
+      "description": "engaging in leisure activities or socializing with friends (conversing about vegan food options at a potluck dinner, with Isabella Rodriguez offering Klaus Mueller her special vegan sushi dishes to try and Klaus expressing his enjoyment of her vegan lasagna and tiramisu) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 21:35:00"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "meeting Klaus Mueller to discuss gentrification research (conversing about researching gentrification and discussing strategies to mitigate its negative impact on communities, Isabella Rodriguez and Klaus Mueller are establishing a timeline for their research and community engagement activities to ensure they meet their goals.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\ud83d\udd11",
+      "description": "checking in with Klaus Mueller about the urban gentrification article (1) Maria is preparing her notes on the urban gentrification article) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\u23f3",
+      "description": "meeting Isabella Rodriguez at Hobbs Cafe to discuss gentrification (conversing about researching gentrification and discussing strategies to mitigate its negative impact on communities, Isabella Rodriguez and Klaus Mueller are establishing a timeline for their research and community engagement activities to ensure they meet their goals.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:12:40"
+  }
+}

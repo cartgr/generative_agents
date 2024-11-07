@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about their love for vegan food, sharing recommendations for vegan bakeries, planning to visit a new vegan bakery together, and discussing joining a vegan cooking workshop hosted by Maria. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I hope you're enjoying the Potluck dinner! Have you tried the vegan lasagna? It's my favorite dish tonight."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I haven't tried the lasagna yet, but it looks amazing! Thank you for hosting such a wonderful event. By the way, have you heard about the new vegan bakery that just opened downtown? I heard they have the best chocolate cupcakes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I love trying new vegan spots. We should definitely check it out together sometime."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! Maybe we can go this weekend. I'll send you a message with the details."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great idea, Maria! Let's plan to go this weekend. I'm looking forward to trying those chocolate cupcakes with you."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any recommendations for vegan bakeries in the area?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I actually have a few recommendations for vegan bakeries in the area. There's a great one called Green Bites that I think you'll really enjoy. They have amazing pastries and the best vegan croissants in town. We should definitely go there sometime!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fantastic, Isabella! I can't wait to try those vegan croissants at Green Bites. Maybe we can plan to go there next Friday after our lunch at Green Bites."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'll look forward to trying those vegan croissants with you at Green Bites. Let's make it a date for next Friday."
+        ],
+        [
+          "Maria Lopez",
+          "I'm really grateful for your recommendations, Isabella. Your knowledge of vegan spots is incredibly helpful."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you find my recommendations helpful, Maria. I always enjoy exploring new vegan places and sharing them with friends. It's important to support these businesses and promote a plant-based lifestyle."
+        ],
+        [
+          "Maria Lopez",
+          "I completely agree, Isabella. Supporting local vegan businesses is key to promoting a plant-based lifestyle. Have you tried the vegan ice cream place that opened up last month?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I actually tried the vegan ice cream place last week. They have the most amazing flavors! We should definitely check it out together sometime."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'm also planning to host a vegan cooking workshop next month. Would you be interested in joining and sharing some of your favorite vegan recipes?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea, Maria! I would love to join your vegan cooking workshop and share some of my favorite recipes. Let's plan the details soon."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'm glad we can share our love for vegan food and support local businesses together. I look forward to our upcoming food adventures!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about their love for vegan food, sharing recommendations for vegan bakeries, planning to visit a new vegan bakery together, and discussing joining a vegan cooking workshop hosted by Maria. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I hope you're enjoying the Potluck dinner! Have you tried the vegan lasagna? It's my favorite dish tonight."
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella, I haven't tried the lasagna yet, but it looks amazing! Thank you for hosting such a wonderful event. By the way, have you heard about the new vegan bakery that just opened downtown? I heard they have the best chocolate cupcakes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I love trying new vegan spots. We should definitely check it out together sometime."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! Maybe we can go this weekend. I'll send you a message with the details."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great idea, Maria! Let's plan to go this weekend. I'm looking forward to trying those chocolate cupcakes with you."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any recommendations for vegan bakeries in the area?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I actually have a few recommendations for vegan bakeries in the area. There's a great one called Green Bites that I think you'll really enjoy. They have amazing pastries and the best vegan croissants in town. We should definitely go there sometime!"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fantastic, Isabella! I can't wait to try those vegan croissants at Green Bites. Maybe we can plan to go there next Friday after our lunch at Green Bites."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'll look forward to trying those vegan croissants with you at Green Bites. Let's make it a date for next Friday."
+        ],
+        [
+          "Maria Lopez",
+          "I'm really grateful for your recommendations, Isabella. Your knowledge of vegan spots is incredibly helpful."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you find my recommendations helpful, Maria. I always enjoy exploring new vegan places and sharing them with friends. It's important to support these businesses and promote a plant-based lifestyle."
+        ],
+        [
+          "Maria Lopez",
+          "I completely agree, Isabella. Supporting local vegan businesses is key to promoting a plant-based lifestyle. Have you tried the vegan ice cream place that opened up last month?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Maria! I actually tried the vegan ice cream place last week. They have the most amazing flavors! We should definitely check it out together sometime."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'm also planning to host a vegan cooking workshop next month. Would you be interested in joining and sharing some of your favorite vegan recipes?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a wonderful idea, Maria! I would love to join your vegan cooking workshop and share some of my favorite recipes. Let's plan the details soon."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I'm glad we can share our love for vegan food and support local businesses together. I look forward to our upcoming food adventures!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "finalizing some ideas for his research paper in his dorm (reviewing his notes from the library) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 18:30:50"
+  }
+}

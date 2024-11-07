@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbc",
+      "description": "continuing to serve customers and cleaning up from the lunch rush at Hobbs Cafe (continuing to serve customers at the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing trying out different vegan options together, including vegan lasagna and vegan chocolate cake, and planning to explore a variety of vegan dishes such as vegan tiramisu and vegan sushi in the future. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I'm glad you made it. Are you excited to try out some vegan options with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm really looking forward to trying out the vegan options with you. It's always great exploring new dishes!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm thinking of ordering the vegan lasagna, have you ever tried that before?"
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't tried the vegan lasagna before, but it sounds delicious! I'll definitely give it a try."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also considering getting the vegan chocolate cake for dessert. Would you be interested in sharing it with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I love chocolate cake. Sharing it with you would be lovely."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're open to trying new things. It's always fun exploring different cuisines!"
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you introducing me to these new vegan options, Maria. It's been a great experience trying them out with you."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any dietary restrictions or preferences that I should know about for future meals together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for considering my dietary preferences, Maria. I don't have any restrictions, but I definitely appreciate you asking!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'm always happy to accommodate different dietary preferences. Let's make sure we try out a variety of options together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to continue exploring different vegan options with you, Maria. Maybe we can try the vegan tiramisu next time!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're enjoying the vegan options, Klaus. Would you be interested in trying out the vegan tiramisu next time?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to try the vegan tiramisu with you next time, Maria. It sounds delicious!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's plan our next vegan food adventure. How about trying out the vegan sushi place I heard about?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! I'm definitely up for trying out the vegan sushi place. When do you want to go?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing trying out different vegan options together, including vegan lasagna and vegan chocolate cake, and planning to explore a variety of vegan dishes such as vegan tiramisu and vegan sushi in the future. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I'm glad you made it. Are you excited to try out some vegan options with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm really looking forward to trying out the vegan options with you. It's always great exploring new dishes!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm thinking of ordering the vegan lasagna, have you ever tried that before?"
+        ],
+        [
+          "Klaus Mueller",
+          "I haven't tried the vegan lasagna before, but it sounds delicious! I'll definitely give it a try."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also considering getting the vegan chocolate cake for dessert. Would you be interested in sharing it with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I love chocolate cake. Sharing it with you would be lovely."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're open to trying new things. It's always fun exploring different cuisines!"
+        ],
+        [
+          "Klaus Mueller",
+          "I appreciate you introducing me to these new vegan options, Maria. It's been a great experience trying them out with you."
+        ],
+        [
+          "Maria Lopez",
+          "Do you have any dietary restrictions or preferences that I should know about for future meals together?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for considering my dietary preferences, Maria. I don't have any restrictions, but I definitely appreciate you asking!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'm always happy to accommodate different dietary preferences. Let's make sure we try out a variety of options together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to continue exploring different vegan options with you, Maria. Maybe we can try the vegan tiramisu next time!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're enjoying the vegan options, Klaus. Would you be interested in trying out the vegan tiramisu next time?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to try the vegan tiramisu with you next time, Maria. It sounds delicious!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's plan our next vegan food adventure. How about trying out the vegan sushi place I heard about?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! I'm definitely up for trying out the vegan sushi place. When do you want to go?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:59:00"
+  }
+}

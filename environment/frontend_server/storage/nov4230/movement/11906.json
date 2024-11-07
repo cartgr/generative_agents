@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "working at the counter and serving customers (taking inventory of supplies) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about vegan food adventures and trying out vegan specials at Hobbs Cafe, planning a vegan sushi date on Friday, enjoying each other's company @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your morning going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, thanks for asking. I'm just on my way to the library to work on my research. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus! I was actually just about to head to Hobbs Cafe to grab some lunch. Do you want to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to join you for lunch, Maria. I can take a break from my research and meet you at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you there in 10 minutes then. Looking forward to chatting more over lunch."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, Maria. I'll see you at Hobbs Cafe in 10 minutes."
+        ],
+        [
+          "Maria Lopez",
+          "See you soon, Klaus! Let's catch up on our vegan food adventures."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to try out the vegan lasagna and vegan chocolate cake at Hobbs Cafe with you!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also ask the chef if they have any new vegan specials today. It'll be a fun surprise!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to trying out the vegan specials with you, Maria! It's always great exploring new vegan options."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we share a passion for vegan food! It's always fun trying out new dishes together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll grab my research notes and meet you at Hobbs Cafe in 10 minutes. Looking forward to trying out the vegan specials with you!"
+        ],
+        [
+          "Maria Lopez",
+          "See you at Hobbs Cafe in 10 minutes, Klaus! Let's continue our vegan adventures over lunch!"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to hear about your favorite vegan dishes at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited for our vegan sushi date on Friday! It's going to be so much fun exploring more delicious vegan options together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also looking forward to our vegan sushi date on Friday! It's going to be a great way to end the week."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about vegan food adventures and trying out vegan specials at Hobbs Cafe, planning a vegan sushi date on Friday, enjoying each other's company @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your morning going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, thanks for asking. I'm just on my way to the library to work on my research. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus! I was actually just about to head to Hobbs Cafe to grab some lunch. Do you want to join me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I would love to join you for lunch, Maria. I can take a break from my research and meet you at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you there in 10 minutes then. Looking forward to chatting more over lunch."
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, Maria. I'll see you at Hobbs Cafe in 10 minutes."
+        ],
+        [
+          "Maria Lopez",
+          "See you soon, Klaus! Let's catch up on our vegan food adventures."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to try out the vegan lasagna and vegan chocolate cake at Hobbs Cafe with you!"
+        ],
+        [
+          "Maria Lopez",
+          "I'll also ask the chef if they have any new vegan specials today. It'll be a fun surprise!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to trying out the vegan specials with you, Maria! It's always great exploring new vegan options."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we share a passion for vegan food! It's always fun trying out new dishes together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll grab my research notes and meet you at Hobbs Cafe in 10 minutes. Looking forward to trying out the vegan specials with you!"
+        ],
+        [
+          "Maria Lopez",
+          "See you at Hobbs Cafe in 10 minutes, Klaus! Let's continue our vegan adventures over lunch!"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to hear about your favorite vegan dishes at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited for our vegan sushi date on Friday! It's going to be so much fun exploring more delicious vegan options together."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also looking forward to our vegan sushi date on Friday! It's going to be a great way to end the week."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:04:20"
+  }
+}

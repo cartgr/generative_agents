@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        14
+      ],
+      "pronunciatio": "\ud83e\uddf4",
+      "description": "completing her morning routine (completing her skincare routine) @ the Ville:Isabella Rodriguez's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria are making plans to meet at 6:00 pm at Hobbs Cafe to try out the vegan options and some of Maria's favorite dishes. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How are you doing today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm doing well, thank you. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm doing great, thanks! Are you going to the physics lecture today?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually focusing on my sociology research paper today, so I won't be able to make it to the physics lecture."
+        ],
+        [
+          "Maria Lopez",
+          "That's cool, good luck with your research paper! By the way, have you tried the vegan options at Hobbs Cafe? They're really good."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I haven't tried the vegan options yet, but I'll definitely check them out."
+        ],
+        [
+          "Maria Lopez",
+          "If you need any recommendations, feel free to ask me! I've tried almost everything on the menu."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'll be sure to ask you for recommendations when I check out the vegan options at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, do you want to join me for dinner later at Hobbs Cafe? I can show you some of my favorite vegan dishes."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'd love to join you for dinner at Hobbs Cafe and try out some of your favorite vegan dishes. What time should we meet?"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's meet at 6:00 pm at Hobbs Cafe then. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should I bring anything for dinner, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "No need to bring anything, Klaus! Just bring your appetite. See you at 6:00 pm at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'm looking forward to trying out the vegan options at Hobbs Cafe with you. See you at 6:00 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! See you at 6:00 pm at Hobbs Cafe!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Maria are making plans to meet at 6:00 pm at Hobbs Cafe to try out the vegan options and some of Maria's favorite dishes. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How are you doing today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! I'm doing well, thank you. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm doing great, thanks! Are you going to the physics lecture today?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm actually focusing on my sociology research paper today, so I won't be able to make it to the physics lecture."
+        ],
+        [
+          "Maria Lopez",
+          "That's cool, good luck with your research paper! By the way, have you tried the vegan options at Hobbs Cafe? They're really good."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I haven't tried the vegan options yet, but I'll definitely check them out."
+        ],
+        [
+          "Maria Lopez",
+          "If you need any recommendations, feel free to ask me! I've tried almost everything on the menu."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'll be sure to ask you for recommendations when I check out the vegan options at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, do you want to join me for dinner later at Hobbs Cafe? I can show you some of my favorite vegan dishes."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'd love to join you for dinner at Hobbs Cafe and try out some of your favorite vegan dishes. What time should we meet?"
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's meet at 6:00 pm at Hobbs Cafe then. Looking forward to it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should I bring anything for dinner, Maria?"
+        ],
+        [
+          "Maria Lopez",
+          "No need to bring anything, Klaus! Just bring your appetite. See you at 6:00 pm at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'm looking forward to trying out the vegan options at Hobbs Cafe with you. See you at 6:00 pm!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! See you at 6:00 pm at Hobbs Cafe!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:05:50"
+  }
+}

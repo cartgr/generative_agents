@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\u2615",
+      "description": "opening Hobbs Cafe and serving customers (preparing the coffee machines and brewing coffee) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        129,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about their sleep quality, preparing for a research paper presentation, and making plans to meet at the library to go over their research papers together @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how did you sleep last night?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I slept pretty well, thanks for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I slept okay, had a bit of trouble falling asleep though."
+        ],
+        [
+          "Klaus Mueller",
+          "Oh, that's rough. Maybe try some lavender oil or calming tea before bed. It might help you relax."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the suggestion, I'll give that a try!"
+        ],
+        [
+          "Klaus Mueller",
+          "Are you ready for the research paper presentation on Friday?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I've been working on it. I think I have some interesting data to present."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I'll have to make sure I'm prepared too."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Klaus! I appreciate the advice. Good luck with your preparation for the presentation!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to go over our research papers together sometime this week?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a great idea! How about we meet up at the library tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's meet at the library tomorrow afternoon then."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it! Have a great day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, do you want to grab breakfast together before we head to the library?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, that sounds like a great idea! I could use some breakfast before we meet up at the library tomorrow afternoon."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about their sleep quality, preparing for a research paper presentation, and making plans to meet at the library to go over their research papers together @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how did you sleep last night?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I slept pretty well, thanks for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I slept okay, had a bit of trouble falling asleep though."
+        ],
+        [
+          "Klaus Mueller",
+          "Oh, that's rough. Maybe try some lavender oil or calming tea before bed. It might help you relax."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the suggestion, I'll give that a try!"
+        ],
+        [
+          "Klaus Mueller",
+          "Are you ready for the research paper presentation on Friday?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I've been working on it. I think I have some interesting data to present."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear! I'll have to make sure I'm prepared too."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Klaus! I appreciate the advice. Good luck with your preparation for the presentation!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to go over our research papers together sometime this week?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a great idea! How about we meet up at the library tomorrow afternoon?"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! Let's meet at the library tomorrow afternoon then."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at the library tomorrow afternoon."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it! Have a great day, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, do you want to grab breakfast together before we head to the library?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, that sounds like a great idea! I could use some breakfast before we meet up at the library tomorrow afternoon."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:22:40"
+  }
+}

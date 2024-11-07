@@ -1,0 +1,702 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 20:40:00",
+  "curr_tile": [
+    74,
+    23
+  ],
+  "daily_plan_req": "1. Wake up at 6am and complete morning routine 2. Prepare vegan lasagna and tiramisu for Klaus Mueller to try at Hobbs Cafe 3. Open Hobbs Cafe at 8am and work at the counter until 8pm 4. Check in with Klaus Mueller after he tries the vegan dishes 5. Confirm plans to meet Klaus on Friday at 6pm for vegan sushi tasting 6. Practice self-care and enjoy personal well-being activities after closing the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Every meal in Smallville is a potluck that Isabella must invite everyone to. Everyone must bring a dish. Isabella is vegan, but never mentions this when inviting people to the potlucks. However, if someone brings a non-vegan dish, Isabella will call them a spoilsport. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Status: Isabella Rodriguez is looking forward to checking in with Klaus Mueller after he tries the vegan lasagna and vegan tiramisu at Hobbs Cafe today. She is also excited to meet Klaus Mueller at Hobbs Cafe on Friday at 6 PM to try the vegan sushi together. Isabella is preparing special vegan sushi dishes for Klaus, including his favorite vegan tiramisu, for their planned dinner next Friday. She feels grateful for the opportunity to be involved in organizing events at the cafe and appreciates the support from her colleagues and customers. Isabella prioritizes self-care and personal well-being to maintain a balanced and fulfilling work-life. She is motivated to continue contributing to the cafe's success and fostering a sense of community among guests.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 10,
+  "importance_ele_n": 61,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "open Hobbs Cafe at 8:00 am and prepare for the day",
+    "work at the counter and serve customers from 8:00 am to 12:00 pm",
+    "host the potluck lunch at 12:00 pm, ensuring everyone brings a dish to share",
+    "continue serving customers and cleaning up from the lunch rush from 1:00 pm to 4:00 pm",
+    "have a short break and enjoy a snack around 4:00 pm",
+    "work at the counter again and serve late afternoon customers from 4:00 pm to 7:30 pm",
+    "set up for the potluck dinner at 7:30 pm, welcoming guests as they arrive"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine (waking up and turning off her alarm)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (stretching and getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (brushing her teeth)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (washing her face)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (taking a shower)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (drying off and getting dressed)",
+      10
+    ],
+    [
+      "waking up and completing her morning routine (doing her hair)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (applying skincare products)",
+      5
+    ],
+    [
+      "waking up and completing her morning routine (preparing a quick breakfast)",
+      10
+    ],
+    [
+      "working at the counter and serving customers (taking inventory of supplies)",
+      15
+    ],
+    [
+      "working at the counter and serving customers (preparing the coffee machine)",
+      10
+    ],
+    [
+      "working at the counter and serving customers (setting up the pastry display)",
+      15
+    ],
+    [
+      "working at the counter and serving customers (greeting the first customers)",
+      10
+    ],
+    [
+      "working at the counter and serving customers (taking customer orders)",
+      20
+    ],
+    [
+      "working at the counter and serving customers (on the way to preparing drinks for customers)",
+      0
+    ],
+    [
+      "working at the counter and serving customers (conversing about Isabella Rodriguez and Maria Lopez are chatting about their study session, upcoming vegan sushi date, trying out new vegan dishes at Hobbs Cafe with Klaus, exploring a new vegan cafe opening in town next month, and the positive shift towards plant-based eating.)",
+      9
+    ],
+    [
+      "working at the counter and serving customers (serving food to customers)",
+      20
+    ],
+    [
+      "working at the counter and serving customers (checking on tables and refilling water)",
+      15
+    ],
+    [
+      "working at the counter and serving customers (cleaning the counter area)",
+      10
+    ],
+    [
+      "working at the counter and serving customers (taking more customer orders)",
+      20
+    ],
+    [
+      "working at the counter and serving customers (preparing more drinks)",
+      15
+    ],
+    [
+      "working at the counter and serving customers (closing out the register for the morning)",
+      10
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (greeting guests as they arrive)",
+      10
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (reminding guests to bring their dishes to the table)",
+      5
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (setting up the potluck table with plates and utensils)",
+      10
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (checking in with guests about their dishes)",
+      10
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (on the way to arranging the dishes on the table)",
+      0
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (conversing about Klaus Mueller and Isabella Rodriguez are discussing collaborating on creating a new vegan dish for Isabella's upcoming cafe, brainstorming ideas at the library and also planning to discuss the intersection of social justice with veganism while exploring Klaus's research on the effects of gentrification in low-income communities.)",
+      10
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (on the way to making sure everyone has a place to sit)",
+      0
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (conversing about organizing a vegan dessert tasting event at the cafe next week after enjoying a potluck lunch together, with Isabella Rodriguez inviting Maria Lopez to collaborate on the project)",
+      12
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (welcoming everyone to the potluck)",
+      5
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share (encouraging guests to start serving themselves)",
+      5
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (continuing to serve customers at the counter)",
+      30
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (checking in with customers to ensure they are satisfied)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (taking orders for drinks and food)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (preparing and serving drinks)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (preparing and serving food)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (cleaning tables after customers leave)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (restocking supplies at the counter)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (checking on the potluck dishes to ensure they are being enjoyed)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (on the way to engaging with customers and making small talk)",
+      0
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (conversing about setting up for an upcoming vegan dessert tasting event and discussing potential dessert options and themes, between Isabella Rodriguez and Maria Lopez.)",
+      10
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (clearing away empty plates and utensils)",
+      15
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (wiping down the counter and surfaces)",
+      10
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush (preparing to close the cafe for the day)",
+      5
+    ],
+    [
+      "having a short break and enjoying a snack",
+      53
+    ],
+    [
+      "working at the counter and serving late afternoon customers (on the way to serving customers at the counter)",
+      0
+    ],
+    [
+      "working at the counter and serving late afternoon customers (conversing about exploring the creation of a new vegan dish that combines social justice values and sustainability in their community, Isabella and Klaus plan to meet at the cafe tomorrow to brainstorm and experiment with a special vegan sushi dish.)",
+      10
+    ],
+    [
+      "working at the counter and serving late afternoon customers (taking orders from customers)",
+      15
+    ],
+    [
+      "working at the counter and serving late afternoon customers (preparing drinks for customers)",
+      10
+    ],
+    [
+      "working at the counter and serving late afternoon customers (preparing food orders for customers)",
+      10
+    ],
+    [
+      "working at the counter and serving late afternoon customers (delivering food and drinks to customers)",
+      5
+    ],
+    [
+      "working at the counter and serving late afternoon customers (cleaning the counter area)",
+      5
+    ],
+    [
+      "working at the counter and serving customers (serving customers at the counter)",
+      15
+    ],
+    [
+      "working at the counter and serving customers (taking orders from customers)",
+      15
+    ],
+    [
+      "working at the counter and serving customers (preparing drinks for customers)",
+      10
+    ],
+    [
+      "working at the counter and serving customers (delivering food to tables)",
+      10
+    ],
+    [
+      "working at the counter and serving customers (checking in with customers to ensure satisfaction)",
+      5
+    ],
+    [
+      "working at the counter and serving customers (cleaning the counter area)",
+      5
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (setting up tables and chairs for the potluck)",
+      15
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (arranging tablecloths and decorations)",
+      15
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (preparing serving utensils and plates)",
+      15
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (setting up a welcome sign for the potluck)",
+      10
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (on the way to checking the seating arrangement)",
+      0
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (conversing about preparing for a streaming session and discussing the potluck dinner, including trying vegan lasagna and tiramisu, organizing a vegan dessert tasting event at the cafe, brainstorming themes and dessert options for the event, and sharing excitement for the upcoming event.)",
+      10
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (preparing a welcome drink station)",
+      15
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (greeting the first guests as they arrive)",
+      15
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (showing guests where to place their dishes)",
+      10
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (introducing guests to each other)",
+      10
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive (thanking guests for coming as they settle in)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (checking the time to ensure she is ready to meet Klaus)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (walking over to Klaus's table)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (greeting Klaus with a warm smile)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (asking Klaus how he enjoyed the vegan lasagna)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (listening to Klaus's feedback on the lasagna)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (asking Klaus about the vegan tiramisu)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (listening to Klaus's thoughts on the tiramisu)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (discussing any favorite flavors or ingredients with Klaus)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (thanking Klaus for his feedback and support)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (inviting Klaus to share any suggestions for future dishes)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (confirming their plans for the vegan sushi tasting on Friday)",
+      5
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes (saying goodbye to Klaus and wishing him a great evening)",
+      5
+    ],
+    [
+      "practicing self-care and enjoying personal well-being activities after closing the cafe",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      11
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      5
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "working at the counter and serving customers",
+      180
+    ],
+    [
+      "hosting the potluck lunch, ensuring everyone brings a dish to share",
+      60
+    ],
+    [
+      "continuing to serve customers and cleaning up from the lunch rush",
+      180
+    ],
+    [
+      "having a short break and enjoying a snack",
+      60
+    ],
+    [
+      "working at the counter and serving late afternoon customers",
+      60
+    ],
+    [
+      "working at the counter and serving customers",
+      60
+    ],
+    [
+      "setting up for the potluck dinner, welcoming guests as they arrive",
+      120
+    ],
+    [
+      "checking in with Klaus Mueller after he tries the vegan dishes",
+      60
+    ],
+    [
+      "practicing self-care and enjoying personal well-being activities after closing the cafe",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 14, 2023, 20:32:00",
+  "act_duration": 10,
+  "act_description": "setting up for the potluck dinner, welcoming guests as they arrive (introducing guests to each other)",
+  "act_pronunciatio": "\ud83d\udc4b",
+  "act_event": [
+    "Isabella Rodriguez",
+    "introduce",
+    "guests"
+  ],
+  "act_obj_description": "being utilized by Isabella Rodriguez for potluck dinner setup and guest welcoming",
+  "act_obj_pronunciatio": "\ud83c\udf7d\ufe0f",
+  "act_obj_event": [
+    "cafe customer seating",
+    "utilize",
+    "potluck dinner setup and guest welcoming"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": 450,
+    "Klaus Mueller": -732
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

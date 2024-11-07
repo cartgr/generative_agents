@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are discussing their enjoyment of vegan dishes at a potluck and making plans to try vegan sushi together at Hobbs Cafe on Friday evening. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I hope you enjoyed the vegan lasagna and tiramisu at the potluck. What did you think of them?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, the vegan lasagna was incredible, and the tiramisu was delicious! Thank you so much for recommending them. I really enjoyed trying them out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed them! If you ever want more vegan recommendations, feel free to ask me anytime."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I will definitely keep that in mind. By the way, have you tried the vegan sushi here? I've heard it's amazing."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't tried the vegan sushi yet, but I've heard great things about it. I'll make sure to give it a try soon!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to join me sometime to try out the vegan sushi together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to try the vegan sushi with you, Klaus. Let's plan a day for it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! How about we meet on Friday evening at 6 PM after my classes? We can go to Hobbs Cafe together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'll see you at Hobbs Cafe on Friday at 6 PM."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to trying the vegan sushi with you on Friday!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm excited to try the vegan sushi with you on Friday. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also curious about your thoughts on the vegan chocolate cake here. Do you recommend it as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I absolutely recommend the vegan chocolate cake! It's one of our bestsellers. You have to try it next time you're here."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll definitely try the vegan chocolate cake next time I'm here. Thank you for the recommendation, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to stop by anytime to try out more vegan dishes. I'll always be here to recommend some tasty options for you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I really appreciate your recommendations. I'll definitely make sure to try out more vegan dishes here."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        112,
+        38
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "continuing to study or work on assignments (continuing to work on her physics assignment) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella are discussing their enjoyment of vegan dishes at a potluck and making plans to try vegan sushi together at Hobbs Cafe on Friday evening. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I hope you enjoyed the vegan lasagna and tiramisu at the potluck. What did you think of them?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, the vegan lasagna was incredible, and the tiramisu was delicious! Thank you so much for recommending them. I really enjoyed trying them out."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed them! If you ever want more vegan recommendations, feel free to ask me anytime."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I will definitely keep that in mind. By the way, have you tried the vegan sushi here? I've heard it's amazing."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I haven't tried the vegan sushi yet, but I've heard great things about it. I'll make sure to give it a try soon!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to join me sometime to try out the vegan sushi together?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I would love to try the vegan sushi with you, Klaus. Let's plan a day for it!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great! How about we meet on Friday evening at 6 PM after my classes? We can go to Hobbs Cafe together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'll see you at Hobbs Cafe on Friday at 6 PM."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to trying the vegan sushi with you on Friday!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm excited to try the vegan sushi with you on Friday. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm also curious about your thoughts on the vegan chocolate cake here. Do you recommend it as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I absolutely recommend the vegan chocolate cake! It's one of our bestsellers. You have to try it next time you're here."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll definitely try the vegan chocolate cake next time I'm here. Thank you for the recommendation, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to stop by anytime to try out more vegan dishes. I'll always be here to recommend some tasty options for you!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I really appreciate your recommendations. I'll definitely make sure to try out more vegan dishes here."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:29:10"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf70",
+      "description": "continuing to serve customers and cleaning up from the lunch rush (conversing about setting up for an upcoming vegan dessert tasting event and discussing potential dessert options and themes, between Isabella Rodriguez and Maria Lopez.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf70",
+      "description": "continuing to study or work on assignments (conversing about setting up for an upcoming vegan dessert tasting event and discussing potential dessert options and themes, between Isabella Rodriguez and Maria Lopez.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        33,
+        48
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "taking a break for reading or relaxation @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:21:20"
+  }
+}

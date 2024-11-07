@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are discussing their plans for the vegan Potluck event tonight and what dishes they will be bringing. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Good morning, Klaus! It's great to see you here at the cafe. How are you today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning, Isabella! I'm doing well, thank you. Just here for breakfast with Maria before heading to the library. How are you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! Are you excited for the vegan Potluck tonight at 5pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'm looking forward to the Potluck tonight! I'll be bringing my homemade apple pie. Are you bringing your vegan lasagna and buffalo chicken dip?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your apple pie tonight at the Potluck. I have everything prepared for the event, so it should be a great evening. See you at 5pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad everything is set for the Potluck. Thank you for organizing it, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Don't forget to save a seat for Maria at the Potluck tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to save a seat for Maria at the Potluck tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you at 5 pm then! Have a great day at the library."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        131,
+        53
+      ],
+      "pronunciatio": "\ud83d\ude2c",
+      "description": "waking up and completing her morning routine (brushing her teeth) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Klaus Mueller are discussing their plans for the vegan Potluck event tonight and what dishes they will be bringing. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Good morning, Klaus! It's great to see you here at the cafe. How are you today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Good morning, Isabella! I'm doing well, thank you. Just here for breakfast with Maria before heading to the library. How are you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! Are you excited for the vegan Potluck tonight at 5pm?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'm looking forward to the Potluck tonight! I'll be bringing my homemade apple pie. Are you bringing your vegan lasagna and buffalo chicken dip?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds delicious! I can't wait to try your apple pie tonight at the Potluck. I have everything prepared for the event, so it should be a great evening. See you at 5pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad everything is set for the Potluck. Thank you for organizing it, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Don't forget to save a seat for Maria at the Potluck tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to save a seat for Maria at the Potluck tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you at 5 pm then! Have a great day at the library."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 08:19:20"
+  }
+}

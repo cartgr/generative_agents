@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about their study session, upcoming vegan sushi date, trying out new vegan dishes at Hobbs Cafe with Klaus, exploring a new vegan cafe opening in town next month, and the positive shift towards plant-based eating. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how are you? Are you reviewing your class notes?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm doing well, thanks for asking. Yes, I'm reviewing my class notes at the moment. How's your day going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear. Would you like me to prepare you a drink while you study?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! That would be much appreciated. Could you make me a green tea, please?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'll make you a green tea right away. How's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. Studying is going well so far. I'm also looking forward to our vegan sushi date on Friday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that studying is going well for you. I'm also excited for our vegan sushi date on Friday! It's going to be a great evening."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I can't wait to try out the new vegan dishes at Hobbs Cafe next Monday with Klaus as well."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'm sure Klaus will enjoy the new vegan dishes too. Let me know if you need any help with your class notes."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate your offer to help with my class notes, I might take you up on that later!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to ask me if you need any clarification on your notes later. I'm always here to help."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, I heard there's a new vegan cafe opening up in town next month. I think we should check it out together!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Maria! Let's definitely make plans to check out the new vegan cafe together next month. I'm sure we'll enjoy trying out their menu."
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited about the new vegan cafe opening up in town. It would be fun to explore different vegan options together!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think it's great that we have more vegan options popping up in town. It shows that the demand for plant-based food is growing!"
+        ],
+        [
+          "Maria Lopez",
+          "I agree, it's wonderful to see more vegan options becoming available in our town. It really shows the positive shift towards plant-based eating!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about their study session, upcoming vegan sushi date, trying out new vegan dishes at Hobbs Cafe with Klaus, exploring a new vegan cafe opening in town next month, and the positive shift towards plant-based eating. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how are you? Are you reviewing your class notes?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm doing well, thanks for asking. Yes, I'm reviewing my class notes at the moment. How's your day going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear. Would you like me to prepare you a drink while you study?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! That would be much appreciated. Could you make me a green tea, please?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Of course, I'll make you a green tea right away. How's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. Studying is going well so far. I'm also looking forward to our vegan sushi date on Friday."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that studying is going well for you. I'm also excited for our vegan sushi date on Friday! It's going to be a great evening."
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I can't wait to try out the new vegan dishes at Hobbs Cafe next Monday with Klaus as well."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a plan! I'm sure Klaus will enjoy the new vegan dishes too. Let me know if you need any help with your class notes."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I appreciate your offer to help with my class notes, I might take you up on that later!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to ask me if you need any clarification on your notes later. I'm always here to help."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, I heard there's a new vegan cafe opening up in town next month. I think we should check it out together!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Maria! Let's definitely make plans to check out the new vegan cafe together next month. I'm sure we'll enjoy trying out their menu."
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited about the new vegan cafe opening up in town. It would be fun to explore different vegan options together!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I think it's great that we have more vegan options popping up in town. It shows that the demand for plant-based food is growing!"
+        ],
+        [
+          "Maria Lopez",
+          "I agree, it's wonderful to see more vegan options becoming available in our town. It really shows the positive shift towards plant-based eating!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        25
+      ],
+      "pronunciatio": "\ud83d\udd00",
+      "description": "working on his research paper on gentrification (1) Klaus is gathering research materials and articles on gentrification) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:11:30"
+  }
+}

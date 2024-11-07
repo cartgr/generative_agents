@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about coordinating what dishes to bring for the Potluck tomorrow, including vegan lasagna and buffalo chicken dip, as well as who will bring drinks like sodas and iced tea @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're enjoying your dinner. Are you excited about the Potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I'm really looking forward to the Potluck tomorrow. What are you planning to bring?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm planning to bring my famous vegan lasagna! It's always a hit at these events. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds delicious! I'll bring my specialty buffalo chicken dip. I hope everyone enjoys it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds great! I can't wait to try your buffalo chicken dip. It's always a hit at our Potlucks."
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to thank you again for offering to help with my physics notes. Your support means a lot to me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "You're very welcome, Maria. I'm glad I could help. By the way, have you saved a seat for the Potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I saved a seat for you! I'll make sure we sit together tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm glad we'll be sitting together. I can't wait for the Potluck tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else we need to coordinate for the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can coordinate who brings drinks for the Potluck. Maybe you can bring some sodas, and I'll bring some iced tea?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll bring some sodas for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll see you tomorrow at 5 pm for the Potluck. Thanks again for saving a seat for me!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'm looking forward to the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! See you tomorrow at 5 pm for the Potluck. I can't wait to try your buffalo chicken dip!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else we need to bring for the Potluck tomorrow?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about coordinating what dishes to bring for the Potluck tomorrow, including vegan lasagna and buffalo chicken dip, as well as who will bring drinks like sodas and iced tea @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're enjoying your dinner. Are you excited about the Potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I'm really looking forward to the Potluck tomorrow. What are you planning to bring?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm planning to bring my famous vegan lasagna! It's always a hit at these events. What about you?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds delicious! I'll bring my specialty buffalo chicken dip. I hope everyone enjoys it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds great! I can't wait to try your buffalo chicken dip. It's always a hit at our Potlucks."
+        ],
+        [
+          "Maria Lopez",
+          "I wanted to thank you again for offering to help with my physics notes. Your support means a lot to me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "You're very welcome, Maria. I'm glad I could help. By the way, have you saved a seat for the Potluck tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I saved a seat for you! I'll make sure we sit together tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'm glad we'll be sitting together. I can't wait for the Potluck tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else we need to coordinate for the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can coordinate who brings drinks for the Potluck. Maybe you can bring some sodas, and I'll bring some iced tea?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll bring some sodas for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll see you tomorrow at 5 pm for the Potluck. Thanks again for saving a seat for me!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella. I'm looking forward to the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! See you tomorrow at 5 pm for the Potluck. I can't wait to try your buffalo chicken dip!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else we need to bring for the Potluck tomorrow?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        118,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his research paper in the library (reviewing what he has written so far) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:01:50"
+  }
+}

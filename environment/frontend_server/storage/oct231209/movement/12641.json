@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\u2615",
+      "description": "serving customers at Hobbs Cafe (taking a drink order from a table) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a meeting at Hobbs Cafe to review research papers and finalize presentation details, including going over key points from the articles and preparing discussion questions. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's it going? I see you're deep into those research papers!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm doing well, thank you! I'm just trying to make some progress with these research articles. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm heading to the library to review our research papers. Do you want to discuss the presentation details later?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, Maria! I think discussing the presentation details later sounds like a great idea. Let's plan to meet after we are done with reviewing the articles."
+        ],
+        [
+          "Maria Lopez",
+          "Great, let's aim to meet at Hobbs Cafe around 1 pm to go over the presentation details!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria! I'll see you at Hobbs Cafe at 1 pm."
+        ],
+        [
+          "Maria Lopez",
+          "See you at Hobbs Cafe at 1 pm, Klaus! I'll bring my laptop for us to work on the presentation together."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also go over the key points from the second article together?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! Let's go over the key points from the second article together as well. See you at Hobbs Cafe at 1 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should I bring anything else for our meeting at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "You can bring any additional notes or ideas you have for the presentation. Looking forward to our meeting at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, Maria! I will make sure to bring all my notes and ideas for the presentation. Looking forward to our meeting at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's also finalize the structure of our presentation at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you think we should also review the conclusions from our research articles before finalizing the presentation structure?"
+        ],
+        [
+          "Maria Lopez",
+          "It would be helpful to review the conclusions from our research articles before finalizing the presentation structure. Let's discuss that at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also prepare a list of potential discussion questions for the presentation?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a meeting at Hobbs Cafe to review research papers and finalize presentation details, including going over key points from the articles and preparing discussion questions. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's it going? I see you're deep into those research papers!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm doing well, thank you! I'm just trying to make some progress with these research articles. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "I'm heading to the library to review our research papers. Do you want to discuss the presentation details later?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, Maria! I think discussing the presentation details later sounds like a great idea. Let's plan to meet after we are done with reviewing the articles."
+        ],
+        [
+          "Maria Lopez",
+          "Great, let's aim to meet at Hobbs Cafe around 1 pm to go over the presentation details!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria! I'll see you at Hobbs Cafe at 1 pm."
+        ],
+        [
+          "Maria Lopez",
+          "See you at Hobbs Cafe at 1 pm, Klaus! I'll bring my laptop for us to work on the presentation together."
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also go over the key points from the second article together?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! Let's go over the key points from the second article together as well. See you at Hobbs Cafe at 1 pm!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should I bring anything else for our meeting at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "You can bring any additional notes or ideas you have for the presentation. Looking forward to our meeting at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, Maria! I will make sure to bring all my notes and ideas for the presentation. Looking forward to our meeting at Hobbs Cafe!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's also finalize the structure of our presentation at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you think we should also review the conclusions from our research articles before finalizing the presentation structure?"
+        ],
+        [
+          "Maria Lopez",
+          "It would be helpful to review the conclusions from our research articles before finalizing the presentation structure. Let's discuss that at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Should we also prepare a list of potential discussion questions for the presentation?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:06:50"
+  }
+}

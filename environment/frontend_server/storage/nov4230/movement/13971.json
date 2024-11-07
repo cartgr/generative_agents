@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        65,
+        32
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "continuing to serve customers and cleaning up from the lunch rush (restocking supplies at the counter) @ the Ville:Harvey Oak Supply Store:supply store:supply store counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about exploring vegan cuisine options together and planning a vegan sushi date with unique fillings like mango or spicy tofu. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your research paper on gentrification going? Need any help or just taking a quick break?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking! It's going well, just making some final edits to the introduction and first body paragraph. I think I've covered all the key points I wanted to address. How about you, how's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm making progress with my class notes. By the way, I'm looking forward to trying out new vegan dishes with you at Hobbs Cafe next Monday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited too, Maria! Trying out new vegan dishes is always fun. I'll see you there at 6:00 pm next Monday at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, can't wait to explore the vegan options at other cafes in town as well!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to start brainstorming ideas for our vegan sushi date on Friday as well?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's brainstorm some vegan sushi ideas. I think a vegan rainbow roll would be delicious!"
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, a vegan rainbow roll sounds fantastic! We can also consider trying out different vegan sushi fillings like avocado, cucumber, and tofu. I'll do some research and come up with more ideas for our vegan sushi date on Friday. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're both excited about exploring new vegan options together. It's always great to share these experiences with you, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have such similar tastes in vegan cuisine. It's always a delight to try new dishes with you, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "I was also thinking about exploring that new vegan cafe opening next month. Would you be interested in checking it out with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'd love to check out the new vegan cafe with you next month, Maria. It sounds like it'll be a great addition to our culinary adventures."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited about our upcoming vegan sushi date on Friday! Can't wait to see what new creations we come up with."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, planning these culinary adventures together is always enjoyable. I'll make a note to look up some interesting vegan sushi recipes for our date on Friday. It's wonderful to share these experiences with you, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to see how our vegan sushi date turns out this Friday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be interesting to incorporate some unique flavors into our vegan sushi dishes. Maybe we can try adding some mango or spicy tofu as additional fillings?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about exploring vegan cuisine options together and planning a vegan sushi date with unique fillings like mango or spicy tofu. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's your research paper on gentrification going? Need any help or just taking a quick break?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking! It's going well, just making some final edits to the introduction and first body paragraph. I think I've covered all the key points I wanted to address. How about you, how's your studying going?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm making progress with my class notes. By the way, I'm looking forward to trying out new vegan dishes with you at Hobbs Cafe next Monday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited too, Maria! Trying out new vegan dishes is always fun. I'll see you there at 6:00 pm next Monday at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, can't wait to explore the vegan options at other cafes in town as well!"
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to start brainstorming ideas for our vegan sushi date on Friday as well?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, let's brainstorm some vegan sushi ideas. I think a vegan rainbow roll would be delicious!"
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, a vegan rainbow roll sounds fantastic! We can also consider trying out different vegan sushi fillings like avocado, cucumber, and tofu. I'll do some research and come up with more ideas for our vegan sushi date on Friday. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we're both excited about exploring new vegan options together. It's always great to share these experiences with you, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have such similar tastes in vegan cuisine. It's always a delight to try new dishes with you, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "I was also thinking about exploring that new vegan cafe opening next month. Would you be interested in checking it out with me?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'd love to check out the new vegan cafe with you next month, Maria. It sounds like it'll be a great addition to our culinary adventures."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited about our upcoming vegan sushi date on Friday! Can't wait to see what new creations we come up with."
+        ],
+        [
+          "Klaus Mueller",
+          "I agree, planning these culinary adventures together is always enjoyable. I'll make a note to look up some interesting vegan sushi recipes for our date on Friday. It's wonderful to share these experiences with you, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "I can't wait to see how our vegan sushi date turns out this Friday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be interesting to incorporate some unique flavors into our vegan sushi dishes. Maybe we can try adding some mango or spicy tofu as additional fillings?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 14:48:30"
+  }
+}

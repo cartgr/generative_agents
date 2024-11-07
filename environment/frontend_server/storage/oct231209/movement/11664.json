@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "opening Hobbs Cafe (cleaning the cafe surfaces) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        131,
+        54
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "waking up and completing her morning routine (washing her face) @ the Ville:Dorm for Oak Hill College:woman's bathroom:bathroom sink",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        93,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "meeting Maria Lopez at Hobbs Cafe for breakfast (conversing about Isabella Rodriguez and Klaus Mueller are discussing their plans for the vegan Potluck event tonight and what dishes they will be bringing.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 08:24:00"
+  }
+}

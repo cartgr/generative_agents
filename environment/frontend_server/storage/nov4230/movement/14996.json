@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddfc",
+      "description": "working at the counter and serving late afternoon customers (cleaning the counter area) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        83,
+        37
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+      "description": "having dinner (conversing about Klaus Mueller and Maria Lopez are discussing their interest in exploring the intersection of vegan cuisine and social justice in their research, planning to incorporate their culinary experiences into their work and create positive change in their community.) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf31",
+      "description": "wrapping up writing for the day (conversing about Klaus Mueller and Maria Lopez are discussing their interest in exploring the intersection of vegan cuisine and social justice in their research, planning to incorporate their culinary experiences into their work and create positive change in their community.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:39:20"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's vegan diet journey, including how she got started, her favorite vegan meals, and upcoming plans to try a new vegan restaurant in the area. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need a break with some coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Thanks for offering, but I actually just had some coffee. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! If you need anything else, feel free to let me know. Good luck with your studies!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I'm actually doing well with my studies today. Just need to finish up a few more practice problems. I appreciate your offer though!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Glad to hear you're doing well with your studies! Let me know if you need any help with those practice problems."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I might take you up on that offer if I get stuck on a problem."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll be here if you need any assistance. Keep up the good work with your studies!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, Isabella, I wanted to ask you about your vegan diet. I know you're a vegan, and I was curious how you got started and what your favorite vegan meals are."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'd be happy to share with you how I got started with being a vegan and my favorite vegan meals. Let's chat more about it during our next break!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I look forward to our next break to learn more about your vegan journey. Thanks, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to our chat during the break, Maria. Let me know if you have any more questions about veganism!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I'll definitely come find you during our break to chat more about your vegan journey and favorite meals."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Looking forward to our chat during the break. Let me know if you have any specific questions about veganism or need recommendations for vegan meals."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, have you tried any new vegan restaurants in the area recently? I'm always looking for new places to try."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I actually haven't tried any new vegan restaurants recently, but I've heard about a new one opening up downtown. I'll make sure to check it out and let you know how it is!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear about the new vegan restaurant downtown! Let me know how it is once you've tried it out. I'm excited to hear your review."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are chatting about Maria's vegan diet journey, including how she got started, her favorite vegan meals, and upcoming plans to try a new vegan restaurant in the area. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, how's your studying going? Need a break with some coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Thanks for offering, but I actually just had some coffee. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! If you need anything else, feel free to let me know. Good luck with your studies!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I'm actually doing well with my studies today. Just need to finish up a few more practice problems. I appreciate your offer though!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Glad to hear you're doing well with your studies! Let me know if you need any help with those practice problems."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I might take you up on that offer if I get stuck on a problem."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, I'll be here if you need any assistance. Keep up the good work with your studies!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, Isabella, I wanted to ask you about your vegan diet. I know you're a vegan, and I was curious how you got started and what your favorite vegan meals are."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'd be happy to share with you how I got started with being a vegan and my favorite vegan meals. Let's chat more about it during our next break!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, I look forward to our next break to learn more about your vegan journey. Thanks, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to our chat during the break, Maria. Let me know if you have any more questions about veganism!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I'll definitely come find you during our break to chat more about your vegan journey and favorite meals."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Looking forward to our chat during the break. Let me know if you have any specific questions about veganism or need recommendations for vegan meals."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, have you tried any new vegan restaurants in the area recently? I'm always looking for new places to try."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I actually haven't tried any new vegan restaurants recently, but I've heard about a new one opening up downtown. I'll make sure to check it out and let you know how it is!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear about the new vegan restaurant downtown! Let me know how it is once you've tried it out. I'm excited to hear your review."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "writing and gathering sources for his paper on gentrification (outlining the structure of his research paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:17:10"
+  }
+}

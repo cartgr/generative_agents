@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "serving customers at Hobbs Cafe (taking customer orders) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        118,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two classmates, Maria Lopez and Klaus Mueller, making plans to meet at the library to go over their research papers together after finishing up their individual projects. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you working on your research paper in the library earlier. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, just finishing up the introduction section. How about you, how's your research paper coming along?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm almost done with mine too. Do you want to meet up tomorrow morning at the library to go over our papers together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! Let's meet at 9 am at the library tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll grab breakfast at Hobbs Cafe at 8 am and then head to the library. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, I'll see you at the library at 9 am. Have a great evening!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two classmates, Maria Lopez and Klaus Mueller, making plans to meet at the library to go over their research papers together after finishing up their individual projects. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! I saw you working on your research paper in the library earlier. How's it going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, just finishing up the introduction section. How about you, how's your research paper coming along?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm almost done with mine too. Do you want to meet up tomorrow morning at the library to go over our papers together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a plan! Let's meet at 9 am at the library tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Great, I'll grab breakfast at Hobbs Cafe at 8 am and then head to the library. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds good, I'll see you at the library at 9 am. Have a great evening!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:40:50"
+  }
+}

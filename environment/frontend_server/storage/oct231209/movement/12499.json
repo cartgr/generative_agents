@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "serving customers at Hobbs Cafe (taking a special order from a customer) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcb8",
+      "description": "grabbing breakfast with Klaus at Hobbs Cafe (paying the bill) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "studying and reviewing research articles in the library (reviewing the second research article) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:43:10"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        66,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up for an upcoming vegan dessert tasting event and discussing potential dessert options and themes, between Isabella Rodriguez and Maria Lopez. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, are you taking a break from studying physics? How's it going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, just taking a quick break. Physics is going well, thanks for asking. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm doing great, thank you! I just wanted to check in and see if you'd like to help with setting up for the upcoming vegan dessert tasting event next week. Your help would be greatly appreciated!"
+        ],
+        [
+          "Maria Lopez",
+          "I'd love to help out with the vegan dessert tasting event! What do you need me to do?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! I would appreciate your help in setting up the dessert and drinks station for the event. Let's discuss the details and allocate tasks together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for inviting me to help, Isabella! I'm excited to collaborate on the project."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's meet after closing today to go over the setup plan and finalize the details together."
+        ],
+        [
+          "Maria Lopez",
+          "I'll see you after closing to discuss the setup plan and tasks."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your willingness to help, Maria! I appreciate your support in making the event a success."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some vegan dessert options for the tasting event. Do you have any specific preferences or requests?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic, Maria! I appreciate your enthusiasm. We can discuss the specific dessert options you plan to bring during our meeting after closing today."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to exploring new vegan dessert ideas for the event. I'll bring some creative options to the table."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited about exploring new vegan dessert ideas! It's going to be a fun and delicious event. Let's aim to make it memorable for everyone attending."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a theme or specific focus for the vegan dessert tasting event that we should keep in mind while planning?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can consider focusing on showcasing a variety of vegan desserts that highlight unique flavors and textures. Let's brainstorm some creative ideas together to make the event engaging and enjoyable for everyone."
+        ],
+        [
+          "Maria Lopez",
+          "I have a few ideas for the vegan dessert tasting event. How about including vegan cheesecake, chocolate avocado mousse, and berry crumble as options?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        65,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up for an upcoming vegan dessert tasting event and discussing potential dessert options and themes, between Isabella Rodriguez and Maria Lopez. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, are you taking a break from studying physics? How's it going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, just taking a quick break. Physics is going well, thanks for asking. How are you doing today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm doing great, thank you! I just wanted to check in and see if you'd like to help with setting up for the upcoming vegan dessert tasting event next week. Your help would be greatly appreciated!"
+        ],
+        [
+          "Maria Lopez",
+          "I'd love to help out with the vegan dessert tasting event! What do you need me to do?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much, Maria! I would appreciate your help in setting up the dessert and drinks station for the event. Let's discuss the details and allocate tasks together."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for inviting me to help, Isabella! I'm excited to collaborate on the project."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's meet after closing today to go over the setup plan and finalize the details together."
+        ],
+        [
+          "Maria Lopez",
+          "I'll see you after closing to discuss the setup plan and tasks."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your willingness to help, Maria! I appreciate your support in making the event a success."
+        ],
+        [
+          "Maria Lopez",
+          "I'll make sure to bring some vegan dessert options for the tasting event. Do you have any specific preferences or requests?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic, Maria! I appreciate your enthusiasm. We can discuss the specific dessert options you plan to bring during our meeting after closing today."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to exploring new vegan dessert ideas for the event. I'll bring some creative options to the table."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited about exploring new vegan dessert ideas! It's going to be a fun and delicious event. Let's aim to make it memorable for everyone attending."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a theme or specific focus for the vegan dessert tasting event that we should keep in mind while planning?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "We can consider focusing on showcasing a variety of vegan desserts that highlight unique flavors and textures. Let's brainstorm some creative ideas together to make the event engaging and enjoyable for everyone."
+        ],
+        [
+          "Maria Lopez",
+          "I have a few ideas for the vegan dessert tasting event. How about including vegan cheesecake, chocolate avocado mousse, and berry crumble as options?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        43,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcd6",
+      "description": "taking a break for reading or relaxation @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 15:06:50"
+  }
+}

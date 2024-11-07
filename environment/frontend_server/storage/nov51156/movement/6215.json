@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about decorating and setting up the table decorations for a dinner Potluck between Maria Lopez and Isabella Rodriguez @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella! I saw you busy planning for the dinner Potluck. Do you need any help with arranging the table decorations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Maria! I actually could use a hand with setting up the decorations. Would you like to help me with arranging the centerpieces and table settings?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to help out with the decorations. Let's get this Potluck looking fabulous!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's start with placing the centerpieces first and then move on to arranging the table settings. Thank you so much for offering to help, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Should we go with the earthy tones for the table decorations as discussed earlier?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's go with the earthy tones for the table decorations. Thank you for helping me with this, Maria. Your assistance is greatly appreciated."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you would like for the centerpieces, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I was thinking of incorporating some fresh flowers and candles for the centerpieces. Do you think that would look nice?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds lovely! I'll start gathering the fresh flowers and candles for the centerpieces. Let's make this Potluck dinner a memorable event!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much for helping me with the centerpieces, Maria. I really appreciate your support!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the dinner Potluck, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I think we have everything covered for the dinner Potluck decorations now. I really appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the dinner Potluck, Isabella? I'm here to assist in any way I can."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I think we have everything covered for the dinner Potluck decorations now. I really appreciate your help!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about decorating and setting up the table decorations for a dinner Potluck between Maria Lopez and Isabella Rodriguez @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella! I saw you busy planning for the dinner Potluck. Do you need any help with arranging the table decorations?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Maria! I actually could use a hand with setting up the decorations. Would you like to help me with arranging the centerpieces and table settings?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, I'd love to help out with the decorations. Let's get this Potluck looking fabulous!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's start with placing the centerpieces first and then move on to arranging the table settings. Thank you so much for offering to help, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Should we go with the earthy tones for the table decorations as discussed earlier?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, let's go with the earthy tones for the table decorations. Thank you for helping me with this, Maria. Your assistance is greatly appreciated."
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific you would like for the centerpieces, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I was thinking of incorporating some fresh flowers and candles for the centerpieces. Do you think that would look nice?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds lovely! I'll start gathering the fresh flowers and candles for the centerpieces. Let's make this Potluck dinner a memorable event!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much for helping me with the centerpieces, Maria. I really appreciate your support!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the dinner Potluck, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I think we have everything covered for the dinner Potluck decorations now. I really appreciate your help!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything else you need help with for the dinner Potluck, Isabella? I'm here to assist in any way I can."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I think we have everything covered for the dinner Potluck decorations now. I really appreciate your help!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        86,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "having dinner at Hobbs Cafe (conversing about Isabella Rodriguez and Klaus Mueller are chatting about setting up decorations for a Potluck event, discussing a cozy and warm theme with earthy tones for the table decorations, and planning to start with arranging centerpieces and table settings.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:15:50"
+  }
+}

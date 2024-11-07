@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "preparing for the Potluck and organizing dishes for tomorrow's event (preparing utensils and plates for the potluck) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        108,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the logistics of reviewing research articles at the library and meeting for breakfast at Hobbs Cafe @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your research paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My research paper is coming along well. I've been outlining the structure and gathering materials. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear, Klaus! I'm almost done with my part too."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to review our research articles together at the library tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! I'd love to review our research articles together at the library tomorrow. What time works best for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Would 9 am work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "9 am works for me, see you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll see you at 9 am tomorrow to review our research articles at the library. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "By the way, are we still meeting at Hobbs Cafe for breakfast before heading to the library?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we can still meet at Hobbs Cafe for breakfast before heading to the library."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 8 am at Hobbs Cafe for breakfast."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my notes on the conclusion and the research articles we need to discuss tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Should I bring my laptop to the library for reviewing the research articles?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, bringing your laptop would be helpful for reviewing the research articles."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring my laptop with me to the library tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Also, do you need any help with setting up your streaming equipment?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        105,
+        37
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the logistics of reviewing research articles at the library and meeting for breakfast at Hobbs Cafe @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's your research paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My research paper is coming along well. I've been outlining the structure and gathering materials. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear, Klaus! I'm almost done with my part too."
+        ],
+        [
+          "Klaus Mueller",
+          "Would you like to review our research articles together at the library tomorrow?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, Klaus! I'd love to review our research articles together at the library tomorrow. What time works best for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "Would 9 am work for you?"
+        ],
+        [
+          "Maria Lopez",
+          "9 am works for me, see you there!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll see you at 9 am tomorrow to review our research articles at the library. Looking forward to it!"
+        ],
+        [
+          "Maria Lopez",
+          "By the way, are we still meeting at Hobbs Cafe for breakfast before heading to the library?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, we can still meet at Hobbs Cafe for breakfast before heading to the library."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 8 am at Hobbs Cafe for breakfast."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll make sure to bring my notes on the conclusion and the research articles we need to discuss tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "Should I bring my laptop to the library for reviewing the research articles?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, bringing your laptop would be helpful for reviewing the research articles."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring my laptop with me to the library tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Also, do you need any help with setting up your streaming equipment?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 20:10:40"
+  }
+}

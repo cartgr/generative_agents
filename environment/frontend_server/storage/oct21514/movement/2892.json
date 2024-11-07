@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        14
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "waking up and completing her morning routine (waking up) @ the Ville:Isabella Rodriguez's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus are chatting about their morning routines, making plans to have lunch together at Hobbs Cafe, and potentially discussing Klaus's research on the effects of gentrification in low-income communities during their meal. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's it going? I saw you doing your morning stretches, feeling limber?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! Yeah, just trying to wake up and get energized for the day ahead. How about you, how was your morning routine?"
+        ],
+        [
+          "Maria Lopez",
+          "Not too shabby, just trying to bring some energy to the day. By the way, do you want to grab lunch together later?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'd love to grab lunch together. What time were you thinking?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking around 12:00 pm for lunch. Meet me at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds perfect, Maria! I'll see you at 12:00 pm at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Looking forward to it. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, how's your day going so far?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been going well so far, thanks for asking! How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "My day has been productive too thanks, I've been working on my research paper on the effects of gentrification in low-income communities. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, that sounds like an interesting topic! I've been keeping busy with my physics assignments and Twitch streaming. It's been quite the balancing act!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! It's always interesting to learn about different topics. I'm actually writing about the effects of gentrification in low-income communities for my research paper."
+        ],
+        [
+          "Maria Lopez",
+          "That's really fascinating, Klaus. I'd love to hear more about your research. Maybe we can discuss it over lunch today?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to discuss my research with you over lunch, Maria. It's always great to hear different perspectives."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great, Klaus. I look forward to our lunch discussion about your research!"
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, have you heard of the new exhibit at the art gallery on campus? It's about urban development and I think you might find it interesting."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus are chatting about their morning routines, making plans to have lunch together at Hobbs Cafe, and potentially discussing Klaus's research on the effects of gentrification in low-income communities during their meal. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's it going? I saw you doing your morning stretches, feeling limber?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! Yeah, just trying to wake up and get energized for the day ahead. How about you, how was your morning routine?"
+        ],
+        [
+          "Maria Lopez",
+          "Not too shabby, just trying to bring some energy to the day. By the way, do you want to grab lunch together later?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'd love to grab lunch together. What time were you thinking?"
+        ],
+        [
+          "Maria Lopez",
+          "I was thinking around 12:00 pm for lunch. Meet me at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds perfect, Maria! I'll see you at 12:00 pm at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Looking forward to it. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, how's your day going so far?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been going well so far, thanks for asking! How about you?"
+        ],
+        [
+          "Klaus Mueller",
+          "My day has been productive too thanks, I've been working on my research paper on the effects of gentrification in low-income communities. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "Oh, that sounds like an interesting topic! I've been keeping busy with my physics assignments and Twitch streaming. It's been quite the balancing act!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! It's always interesting to learn about different topics. I'm actually writing about the effects of gentrification in low-income communities for my research paper."
+        ],
+        [
+          "Maria Lopez",
+          "That's really fascinating, Klaus. I'd love to hear more about your research. Maybe we can discuss it over lunch today?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to discuss my research with you over lunch, Maria. It's always great to hear different perspectives."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds great, Klaus. I look forward to our lunch discussion about your research!"
+        ],
+        [
+          "Klaus Mueller",
+          "By the way, have you heard of the new exhibit at the art gallery on campus? It's about urban development and I think you might find it interesting."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:02:00"
+  }
+}

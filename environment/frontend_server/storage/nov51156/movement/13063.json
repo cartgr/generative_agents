@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "hosting the lunch Potluck, enjoying time with the community (chatting with guests about their dishes) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about urban gentrification and discussing their initial thoughts on an article they read, with Maria wanting to invite Isabella to join them for coffee and continue the conversation @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! Fancy seeing you here. How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day has been great so far. I'm looking forward to our discussion on gentrification later."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear, Klaus! I've been really looking forward to our discussion too. Have you had a chance to read the urban gentrification article yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I read the article. It was quite insightful and gave me a lot to think about."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you found it insightful. I have a few points I'd like to discuss with you about it. Do you have any initial thoughts?"
+        ],
+        [
+          "Klaus Mueller",
+          "I definitely have some initial thoughts on the article. Let's discuss them over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab a table and continue our discussion over coffee then."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we invite Isabella to join us?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's invite Isabella to join us, I think she would appreciate the discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's save a table for Isabella and grab some coffee. I think she'll enjoy discussing the article with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's save a table for Isabella and grab some coffee. I think she'll enjoy discussing the article with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's save a table for Isabella and grab some coffee. I think she'll enjoy discussing the article with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about urban gentrification and discussing their initial thoughts on an article they read, with Maria wanting to invite Isabella to join them for coffee and continue the conversation @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! Fancy seeing you here. How's your day going so far?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! My day has been great so far. I'm looking forward to our discussion on gentrification later."
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear, Klaus! I've been really looking forward to our discussion too. Have you had a chance to read the urban gentrification article yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I read the article. It was quite insightful and gave me a lot to think about."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you found it insightful. I have a few points I'd like to discuss with you about it. Do you have any initial thoughts?"
+        ],
+        [
+          "Klaus Mueller",
+          "I definitely have some initial thoughts on the article. Let's discuss them over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab a table and continue our discussion over coffee then."
+        ],
+        [
+          "Klaus Mueller",
+          "Shall we invite Isabella to join us?"
+        ],
+        [
+          "Maria Lopez",
+          "Let's invite Isabella to join us, I think she would appreciate the discussion."
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's save a table for Isabella and grab some coffee. I think she'll enjoy discussing the article with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's save a table for Isabella and grab some coffee. I think she'll enjoy discussing the article with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ],
+        [
+          "Maria Lopez",
+          "Let's save a table for Isabella and grab some coffee. I think she'll enjoy discussing the article with us."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll go invite Isabella to join us for coffee. Let's continue our conversation."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:17:10"
+  }
+}

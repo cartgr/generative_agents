@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are chatting about the vegan Potluck lunch, sharing their enjoyment of the dishes, recommendations for vegan restaurants, and the origin of the Potluck idea. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, it's great to see you here! How's your day going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! My day is going well, thanks for asking. I was just studying my physics textbook here at Hobbs Cafe. How about you? How's the lunch Potluck going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The lunch Potluck is going great! We have some delicious vegan dishes today. Would you like to join us for a plate?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing, Isabella! Thank you for the offer. I would love to try some of the vegan dishes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Follow me to the buffet table and I'll get you a plate."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much for hosting this Potluck, Isabella! I appreciate all the effort you put into organizing this."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the dishes, Maria. Have you tried the vegan lasagna? It's one of my favorites!"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, Isabella, I did try the vegan lasagna and it was delicious! Thank you for recommending it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan lasagna, Maria. Feel free to grab seconds or try some of the other dishes."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, this Potluck is such a great idea! I love how it brings the community together over delicious vegan food. Thank you for creating this wonderful environment."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the Potluck, Maria. Have you tried the vegan chocolate cake? It's my specialty!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I haven't tried the vegan chocolate cake yet, but it sounds delicious! I'll definitely have to save some room for dessert."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear you're enjoying the Potluck, Maria. Feel free to take some vegan chocolate cake for dessert!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you have any recommendations for vegan restaurants in the area? I'm always looking to explore new places."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I'm so glad you're interested in exploring new vegan restaurants! There's a lovely place called Green Bites just a few blocks away. They have a great variety of vegan dishes and cozy ambiance. I think you'd really enjoy it!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, thank you for the recommendation! I'll definitely check out Green Bites soon. By the way, how did you come up with the idea for this lunch Potluck?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Maria are chatting about the vegan Potluck lunch, sharing their enjoyment of the dishes, recommendations for vegan restaurants, and the origin of the Potluck idea. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, it's great to see you here! How's your day going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! My day is going well, thanks for asking. I was just studying my physics textbook here at Hobbs Cafe. How about you? How's the lunch Potluck going?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The lunch Potluck is going great! We have some delicious vegan dishes today. Would you like to join us for a plate?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds amazing, Isabella! Thank you for the offer. I would love to try some of the vegan dishes."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Follow me to the buffet table and I'll get you a plate."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much for hosting this Potluck, Isabella! I appreciate all the effort you put into organizing this."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the dishes, Maria. Have you tried the vegan lasagna? It's one of my favorites!"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, Isabella, I did try the vegan lasagna and it was delicious! Thank you for recommending it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan lasagna, Maria. Feel free to grab seconds or try some of the other dishes."
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, this Potluck is such a great idea! I love how it brings the community together over delicious vegan food. Thank you for creating this wonderful environment."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying the Potluck, Maria. Have you tried the vegan chocolate cake? It's my specialty!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, I haven't tried the vegan chocolate cake yet, but it sounds delicious! I'll definitely have to save some room for dessert."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear you're enjoying the Potluck, Maria. Feel free to take some vegan chocolate cake for dessert!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, do you have any recommendations for vegan restaurants in the area? I'm always looking to explore new places."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Maria, I'm so glad you're interested in exploring new vegan restaurants! There's a lovely place called Green Bites just a few blocks away. They have a great variety of vegan dishes and cozy ambiance. I think you'd really enjoy it!"
+        ],
+        [
+          "Maria Lopez",
+          "Isabella, thank you for the recommendation! I'll definitely check out Green Bites soon. By the way, how did you come up with the idea for this lunch Potluck?"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcc4",
+      "description": "returning to the library to continue writing his paper on gentrification (opening his research paper document) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:20:00"
+  }
+}

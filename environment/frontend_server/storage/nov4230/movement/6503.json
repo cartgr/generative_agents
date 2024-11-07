@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "continuing to serve customers and preparing for the potluck dinner at Hobbs Cafe (organizing the dining area for the potluck) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        121,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting about their enjoyment of vegan options at Hobbs Cafe, making plans to meet up next Monday to try new vegan dishes together and exchanging recommendations for their next meal. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're trying out the vegan options at Hobbs Cafe. How are you finding them?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I have to say, I'm really enjoying the vegan options here. The vegan lasagna was fantastic, and I can't wait to try the vegan tiramisu next!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm glad you're enjoying the vegan options. Have you tried the vegan chocolate cake yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Not yet, but I definitely plan on it. It all sounds delicious. How about you, Maria? Have you tried everything here?"
+        ],
+        [
+          "Maria Lopez",
+          "I've tried everything on the menu multiple times! I love introducing people to vegan cuisine and I'm so happy you're enjoying it."
+        ],
+        [
+          "Klaus Mueller",
+          "Well, Maria, I'm really grateful for your recommendations. I can't wait to try the vegan chocolate cake next! Maybe we can plan to try some new vegan dishes together next time."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! How about we meet here at Hobbs Cafe next Monday at 6:00 pm to try out the new vegan dishes together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! I'm looking forward to trying out the new vegan dishes with you."
+        ],
+        [
+          "Maria Lopez",
+          "Great! It's a plan then. I'll see you next Monday at 6:00 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for introducing me to the world of vegan cuisine, Maria. I appreciate your guidance and I'm excited for our next food adventure together!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're enjoying the vegan options. It's always great to share good food with good company. Looking forward to our dinner next Monday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm curious, Maria, do you have any favorite vegan dishes that you would recommend trying?"
+        ],
+        [
+          "Maria Lopez",
+          "I would definitely recommend trying the vegan sushi here. It's one of my favorites!"
+        ],
+        [
+          "Klaus Mueller",
+          "That's wonderful to hear, Maria! I'll definitely try the vegan sushi next time. Thank you for the recommendation."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're enjoying the vegan options. It's always great to share good food with good company. Looking forward to our dinner next Monday!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'm excited to try the vegan sushi next time. I appreciate your recommendations!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are chatting about their enjoyment of vegan options at Hobbs Cafe, making plans to meet up next Monday to try new vegan dishes together and exchanging recommendations for their next meal. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're trying out the vegan options at Hobbs Cafe. How are you finding them?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I have to say, I'm really enjoying the vegan options here. The vegan lasagna was fantastic, and I can't wait to try the vegan tiramisu next!"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm glad you're enjoying the vegan options. Have you tried the vegan chocolate cake yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Not yet, but I definitely plan on it. It all sounds delicious. How about you, Maria? Have you tried everything here?"
+        ],
+        [
+          "Maria Lopez",
+          "I've tried everything on the menu multiple times! I love introducing people to vegan cuisine and I'm so happy you're enjoying it."
+        ],
+        [
+          "Klaus Mueller",
+          "Well, Maria, I'm really grateful for your recommendations. I can't wait to try the vegan chocolate cake next! Maybe we can plan to try some new vegan dishes together next time."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a plan! How about we meet here at Hobbs Cafe next Monday at 6:00 pm to try out the new vegan dishes together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a fantastic idea, Maria! I'm looking forward to trying out the new vegan dishes with you."
+        ],
+        [
+          "Maria Lopez",
+          "Great! It's a plan then. I'll see you next Monday at 6:00 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for introducing me to the world of vegan cuisine, Maria. I appreciate your guidance and I'm excited for our next food adventure together!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're enjoying the vegan options. It's always great to share good food with good company. Looking forward to our dinner next Monday!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm curious, Maria, do you have any favorite vegan dishes that you would recommend trying?"
+        ],
+        [
+          "Maria Lopez",
+          "I would definitely recommend trying the vegan sushi here. It's one of my favorites!"
+        ],
+        [
+          "Klaus Mueller",
+          "That's wonderful to hear, Maria! I'll definitely try the vegan sushi next time. Thank you for the recommendation."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad you're enjoying the vegan options. It's always great to share good food with good company. Looking forward to our dinner next Monday!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I'm excited to try the vegan sushi next time. I appreciate your recommendations!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:03:50"
+  }
+}

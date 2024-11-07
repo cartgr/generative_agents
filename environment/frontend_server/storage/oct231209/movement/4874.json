@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        61,
+        43
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "serving customers at Hobbs Cafe (restocking supplies as needed) @ the Ville:Harvey Oak Supply Store:supply store:supply store product shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their research paper, planning to review research articles at the library before meeting at Hobbs Cafe to finalize their presentation details and ensure alignment with the paper structure. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's the research paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, just finishing up the introduction section. How about you? Are you having a good time gaming on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm having a blast gaming. By the way, do you want to grab a quick coffee at Hobbs Cafe later today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd love to grab a coffee at Hobbs Cafe later today! Let's meet there at 4 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 4 pm at Hobbs Cafe then. Looking forward to catching up and discussing our research paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you want to go over the research articles together before we meet at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, that sounds like a good idea. Let's meet at the library at 2 pm to review the research articles."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's plan to meet at the library at 2 pm to review the research articles before heading to Hobbs Cafe at 4 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also discuss our presentation for the research paper while we review the articles?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's definitely discuss our presentation for the research paper while we review the articles."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! Let's make sure to finalize our presentation details and prepare for Isabella's Potluck event as well."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also make sure to bring our notes on the conclusion to the library for reference."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also go over the key points we want to highlight in the presentation during our review of the research articles?"
+        ],
+        [
+          "Klaus Mueller",
+          "It would be helpful to go over the key points we want to highlight in the presentation during our review of the research articles."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also go over the structure of our research paper and ensure it aligns with our presentation?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely go over the structure of our research paper to ensure it aligns with our presentation. Let's make sure everything flows smoothly."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their research paper, planning to review research articles at the library before meeting at Hobbs Cafe to finalize their presentation details and ensure alignment with the paper structure. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus! How's the research paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria! It's going well, just finishing up the introduction section. How about you? Are you having a good time gaming on Twitch?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I'm having a blast gaming. By the way, do you want to grab a quick coffee at Hobbs Cafe later today?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd love to grab a coffee at Hobbs Cafe later today! Let's meet there at 4 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at 4 pm at Hobbs Cafe then. Looking forward to catching up and discussing our research paper."
+        ],
+        [
+          "Klaus Mueller",
+          "Do you want to go over the research articles together before we meet at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, that sounds like a good idea. Let's meet at the library at 2 pm to review the research articles."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's plan to meet at the library at 2 pm to review the research articles before heading to Hobbs Cafe at 4 pm."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also discuss our presentation for the research paper while we review the articles?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, let's definitely discuss our presentation for the research paper while we review the articles."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! Let's make sure to finalize our presentation details and prepare for Isabella's Potluck event as well."
+        ],
+        [
+          "Klaus Mueller",
+          "We should also make sure to bring our notes on the conclusion to the library for reference."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also go over the key points we want to highlight in the presentation during our review of the research articles?"
+        ],
+        [
+          "Klaus Mueller",
+          "It would be helpful to go over the key points we want to highlight in the presentation during our review of the research articles."
+        ],
+        [
+          "Maria Lopez",
+          "Should we also go over the structure of our research paper and ensure it aligns with our presentation?"
+        ],
+        [
+          "Klaus Mueller",
+          "We should definitely go over the structure of our research paper to ensure it aligns with our presentation. Let's make sure everything flows smoothly."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:32:20"
+  }
+}

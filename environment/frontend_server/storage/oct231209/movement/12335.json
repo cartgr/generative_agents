@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez chatting about their plans for the day, including reviewing research papers at the library and attending a Potluck event later on. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How are you? I saw you were grabbing breakfast with Klaus, what's on the agenda for today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm doing well, thanks. The plan for today is to head to the library at 11 am to review some research papers. And later, I'm looking forward to the Potluck event with you at 5 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a productive day ahead! I have all the dishes ready for the Potluck tonight, so I'm excited about that."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with setting up for the Potluck event later?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Maria! I actually have everything set up already, but I really appreciate your willingness to help."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Well, I'll see you at 5 pm for the Potluck then. Looking forward to it!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez chatting about their plans for the day, including reviewing research papers at the library and attending a Potluck event later on. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How are you? I saw you were grabbing breakfast with Klaus, what's on the agenda for today?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! I'm doing well, thanks. The plan for today is to head to the library at 11 am to review some research papers. And later, I'm looking forward to the Potluck event with you at 5 pm!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a productive day ahead! I have all the dishes ready for the Potluck tonight, so I'm excited about that."
+        ],
+        [
+          "Maria Lopez",
+          "Do you need any help with setting up for the Potluck event later?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Maria! I actually have everything set up already, but I really appreciate your willingness to help."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Well, I'll see you at 5 pm for the Potluck then. Looking forward to it!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "studying and reviewing research articles in the library (taking notes on key points from the first article) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 10:15:50"
+  }
+}

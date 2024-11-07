@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are discussing collaborating on creating a new vegan dish for Isabella's upcoming cafe, brainstorming ideas at the library and also planning to discuss the intersection of social justice with veganism while exploring Klaus's research on the effects of gentrification in low-income communities. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I just wanted to say how delicious your vegan dishes look for the potluck. I can't wait to try them!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I'm glad you're excited to try them. I hope you enjoy the vegan lasagna and tiramisu."
+        ],
+        [
+          "Klaus Mueller",
+          "I also heard you're planning to open a new vegan cafe next month. I'm really looking forward to trying out your new dishes!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your support, Klaus! I'm excited about the new cafe too. I'll make sure to save you a spot for the opening day."
+        ],
+        [
+          "Klaus Mueller",
+          "I've also been thinking of some new vegan recipes to try out, maybe we can collaborate on creating a new dish for your new cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus! I would love to collaborate with you on creating a new vegan dish for the cafe. Let's set up a time to brainstorm together."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella! How about we meet up at the library on Thursday at 10 am to brainstorm our ideas?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Klaus! I'll see you at the library on Thursday at 10 am to brainstorm our new dish ideas."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our brainstorming session on Thursday at the library!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear you're interested in collaborating on a new dish! I appreciate your creativity and enthusiasm."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really excited to see what we come up with! Thank you for inviting me to collaborate."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to our brainstorming session on Thursday at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also bring some of my research on the effects of gentrification in low-income communities for you to read. Maybe we can discuss how social justice intersects with veganism."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like an interesting topic, Klaus. I look forward to our brainstorming session and discussing the intersection of social justice with veganism. See you on Thursday at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to collaborate with you on creating a new vegan dish for the cafe. Let's brainstorm some unique ideas together!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fascinating topic, Klaus. I'm eager to learn more about your research on the effects of gentrification and discuss how social justice ties into veganism. See you on Thursday at the library!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at Hobbs Cafe (eating her food) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are discussing collaborating on creating a new vegan dish for Isabella's upcoming cafe, brainstorming ideas at the library and also planning to discuss the intersection of social justice with veganism while exploring Klaus's research on the effects of gentrification in low-income communities. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I just wanted to say how delicious your vegan dishes look for the potluck. I can't wait to try them!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! I'm glad you're excited to try them. I hope you enjoy the vegan lasagna and tiramisu."
+        ],
+        [
+          "Klaus Mueller",
+          "I also heard you're planning to open a new vegan cafe next month. I'm really looking forward to trying out your new dishes!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your support, Klaus! I'm excited about the new cafe too. I'll make sure to save you a spot for the opening day."
+        ],
+        [
+          "Klaus Mueller",
+          "I've also been thinking of some new vegan recipes to try out, maybe we can collaborate on creating a new dish for your new cafe?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a great idea, Klaus! I would love to collaborate with you on creating a new vegan dish for the cafe. Let's set up a time to brainstorm together."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella! How about we meet up at the library on Thursday at 10 am to brainstorm our ideas?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds perfect, Klaus! I'll see you at the library on Thursday at 10 am to brainstorm our new dish ideas."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, looking forward to our brainstorming session on Thursday at the library!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear you're interested in collaborating on a new dish! I appreciate your creativity and enthusiasm."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm really excited to see what we come up with! Thank you for inviting me to collaborate."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to our brainstorming session on Thursday at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll also bring some of my research on the effects of gentrification in low-income communities for you to read. Maybe we can discuss how social justice intersects with veganism."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like an interesting topic, Klaus. I look forward to our brainstorming session and discussing the intersection of social justice with veganism. See you on Thursday at the library!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to collaborate with you on creating a new vegan dish for the cafe. Let's brainstorm some unique ideas together!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a fascinating topic, Klaus. I'm eager to learn more about your research on the effects of gentrification and discuss how social justice ties into veganism. See you on Thursday at the library!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:27:30"
+  }
+}

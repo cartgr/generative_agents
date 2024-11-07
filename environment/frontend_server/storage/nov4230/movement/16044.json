@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "setting up for the potluck dinner, welcoming guests as they arrive (introducing guests to each other) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "streaming or gaming on Twitch (conversing about Maria Lopez and Klaus Mueller are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciatio": "\ud83c\udf3f\ud83c\udf70",
+      "description": "balancing academic and social commitments for the evening (conversing about Maria Lopez and Klaus Mueller are making plans to try vegan dishes at Hobbs Cafe next Monday, including the vegan lasagna and vegan chocolate cake.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:34:00"
+  }
+}

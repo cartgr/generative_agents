@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\ude97",
+      "description": "closing Hobbs Cafe and preparing to go home (driving home) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        117,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their research paper progress, sharing a new article on urban gentrification, planning to meet at Hobbs Cafe to discuss the article and considering inviting Isabella to join them. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the research paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well. I've made some progress on the body paragraphs. How about you? How's your streaming going?"
+        ],
+        [
+          "Maria Lopez",
+          "It's going pretty good, just taking a short break from it. By the way, have you checked out that new article on urban gentrification? I think it could add some valuable insights to our paper."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds interesting, I haven't read it yet. Do you have a link to it?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have the link to the article. Let me text it to you."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I'll definitely check it out. I appreciate you sharing it with me."
+        ],
+        [
+          "Maria Lopez",
+          "Let me know if you have any thoughts or questions after reading it."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria. I'll make sure to read it and will reach out if I have any questions."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to discussing it with you soon."
+        ],
+        [
+          "Klaus Mueller",
+          "Before I forget, do you want to meet up at Hobbs Cafe later to discuss the new article and maybe grab some coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a great idea! I'll see you at Hobbs Cafe later."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you at Hobbs Cafe later then. I'm excited to discuss the article with you."
+        ],
+        [
+          "Maria Lopez",
+          "Before we go, do you think we should invite Isabella to join us in our discussion on urban gentrification at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, inviting Isabella sounds like a good idea. She always brings an interesting perspective to the discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to send her a message and see if she can join us later at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll send Isabella a quick message to see if she can join us at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing their research paper progress, sharing a new article on urban gentrification, planning to meet at Hobbs Cafe to discuss the article and considering inviting Isabella to join them. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the research paper coming along?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well. I've made some progress on the body paragraphs. How about you? How's your streaming going?"
+        ],
+        [
+          "Maria Lopez",
+          "It's going pretty good, just taking a short break from it. By the way, have you checked out that new article on urban gentrification? I think it could add some valuable insights to our paper."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds interesting, I haven't read it yet. Do you have a link to it?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have the link to the article. Let me text it to you."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria. I'll definitely check it out. I appreciate you sharing it with me."
+        ],
+        [
+          "Maria Lopez",
+          "Let me know if you have any thoughts or questions after reading it."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks again, Maria. I'll make sure to read it and will reach out if I have any questions."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to discussing it with you soon."
+        ],
+        [
+          "Klaus Mueller",
+          "Before I forget, do you want to meet up at Hobbs Cafe later to discuss the new article and maybe grab some coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Sure, that sounds like a great idea! I'll see you at Hobbs Cafe later."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you at Hobbs Cafe later then. I'm excited to discuss the article with you."
+        ],
+        [
+          "Maria Lopez",
+          "Before we go, do you think we should invite Isabella to join us in our discussion on urban gentrification at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, inviting Isabella sounds like a good idea. She always brings an interesting perspective to the discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Do you want to send her a message and see if she can join us later at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "I'll send Isabella a quick message to see if she can join us at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 22:02:30"
+  }
+}

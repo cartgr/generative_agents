@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about vegan food options at a potluck dinner, with Isabella Rodriguez offering Klaus Mueller her special vegan sushi dishes to try and Klaus expressing his enjoyment of her vegan lasagna and tiramisu @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I noticed you're enjoying the potluck dinner. Have you tried the vegan lasagna yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella! The vegan lasagna was amazing. I also tried your vegan tiramisu, and it was delicious."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan lasagna and tiramisu, Klaus. Would you be interested in trying some of the special vegan sushi dishes I prepared for tonight's potluck?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I would love to try your special vegan sushi dishes. They sound delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad you're enjoying the food, Klaus. Let me know what you think of the special vegan sushi dishes after you try them!"
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, I really appreciate the effort you put into providing delicious vegan options. Your dedication to creating such flavorful dishes is truly admirable."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your kind words, Klaus. I'm always happy to hear that my dishes are enjoyed. If you have any feedback or suggestions for future dishes, feel free to let me know."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, your dedication to providing delicious vegan options really shines through in your dishes. I look forward to trying your special vegan sushi dishes and sharing my feedback with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll bring you a sample of the special vegan sushi dishes right away, Klaus. Enjoy!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83c\udfa4\ud83d\udcf7",
+      "description": "Twitch streaming or gaming (testing her microphone and camera) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about vegan food options at a potluck dinner, with Isabella Rodriguez offering Klaus Mueller her special vegan sushi dishes to try and Klaus expressing his enjoyment of her vegan lasagna and tiramisu @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! I noticed you're enjoying the potluck dinner. Have you tried the vegan lasagna yet?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella! The vegan lasagna was amazing. I also tried your vegan tiramisu, and it was delicious."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you enjoyed the vegan lasagna and tiramisu, Klaus. Would you be interested in trying some of the special vegan sushi dishes I prepared for tonight's potluck?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I would love to try your special vegan sushi dishes. They sound delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad you're enjoying the food, Klaus. Let me know what you think of the special vegan sushi dishes after you try them!"
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, I really appreciate the effort you put into providing delicious vegan options. Your dedication to creating such flavorful dishes is truly admirable."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your kind words, Klaus. I'm always happy to hear that my dishes are enjoyed. If you have any feedback or suggestions for future dishes, feel free to let me know."
+        ],
+        [
+          "Klaus Mueller",
+          "Isabella, your dedication to providing delicious vegan options really shines through in your dishes. I look forward to trying your special vegan sushi dishes and sharing my feedback with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll bring you a sample of the special vegan sushi dishes right away, Klaus. Enjoy!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 21:34:20"
+  }
+}

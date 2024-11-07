@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "relaxing and unwinding after a busy day (1) Isabella is closing the cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        128,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the potential solutions to mitigate the negative impact of urban gentrification over coffee at Hobbs Cafe with Maria, Klaus, and Isabella. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the finalization of your research paper ideas going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's progressing well. I'm refining the literature review section to include the latest insights on urban gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds interesting, Klaus. I've been thinking about potential solutions to mitigate the negative impact of gentrification. Do you want to discuss some ideas over coffee at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I would love to discuss potential solutions with you over coffee at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, let's head to Hobbs Cafe now to continue our discussion!"
+        ],
+        [
+          "Klaus Mueller",
+          "I have some new research materials to share with you that could be beneficial for our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Klaus. Let's grab our stuff and head to Hobbs Cafe to delve deeper into these potential solutions."
+        ],
+        [
+          "Klaus Mueller",
+          "I also wanted to invite Isabella to join us, do you think that would be beneficial?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, inviting Isabella to join us would be great. Let me check if she's available and interested."
+        ],
+        [
+          "Klaus Mueller",
+          "Let me know if Isabella is available to join us, and we can head to Hobbs Cafe together."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella now to see if she can join us. Let's head to Hobbs Cafe and wait for her."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for initiating this discussion about gentrification solutions, Maria. I appreciate your insights and look forward to a productive conversation at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "I just texted Isabella, she's available to join us at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's head to Hobbs Cafe and wait for Isabella to arrive. I'm excited to discuss potential solutions with both of you!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we grab a table by the window at Hobbs Cafe and start discussing the solutions right away?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria. Let's grab a table by the window at Hobbs Cafe and start discussing the solutions."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about the potential solutions to mitigate the negative impact of urban gentrification over coffee at Hobbs Cafe with Maria, Klaus, and Isabella. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the finalization of your research paper ideas going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's progressing well. I'm refining the literature review section to include the latest insights on urban gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds interesting, Klaus. I've been thinking about potential solutions to mitigate the negative impact of gentrification. Do you want to discuss some ideas over coffee at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I would love to discuss potential solutions with you over coffee at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "Great, let's head to Hobbs Cafe now to continue our discussion!"
+        ],
+        [
+          "Klaus Mueller",
+          "I have some new research materials to share with you that could be beneficial for our discussion."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Klaus. Let's grab our stuff and head to Hobbs Cafe to delve deeper into these potential solutions."
+        ],
+        [
+          "Klaus Mueller",
+          "I also wanted to invite Isabella to join us, do you think that would be beneficial?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, inviting Isabella to join us would be great. Let me check if she's available and interested."
+        ],
+        [
+          "Klaus Mueller",
+          "Let me know if Isabella is available to join us, and we can head to Hobbs Cafe together."
+        ],
+        [
+          "Maria Lopez",
+          "I'll text Isabella now to see if she can join us. Let's head to Hobbs Cafe and wait for her."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for initiating this discussion about gentrification solutions, Maria. I appreciate your insights and look forward to a productive conversation at Hobbs Cafe."
+        ],
+        [
+          "Maria Lopez",
+          "I just texted Isabella, she's available to join us at Hobbs Cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's head to Hobbs Cafe and wait for Isabella to arrive. I'm excited to discuss potential solutions with both of you!"
+        ],
+        [
+          "Maria Lopez",
+          "Shall we grab a table by the window at Hobbs Cafe and start discussing the solutions right away?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sounds like a plan, Maria. Let's grab a table by the window at Hobbs Cafe and start discussing the solutions."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 20:46:00"
+  }
+}

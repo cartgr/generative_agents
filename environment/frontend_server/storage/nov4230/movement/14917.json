@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf79",
+      "description": "working at the counter and serving late afternoon customers (preparing drinks for customers) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        46
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing their interest in exploring the intersection of vegan cuisine and social justice in their research, planning to incorporate their culinary experiences into their work and create positive change in their community. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the summary of your paper going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along well. I just finished summarizing the key points. How was your day?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I had a productive day too. Looking forward to our vegan dinner date next Monday at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to try out the vegan lasagna and chocolate cake at Hobbs Cafe next Monday!"
+        ],
+        [
+          "Maria Lopez",
+          "We should also check out that new vegan cafe opening next month. It sounds exciting!"
+        ],
+        [
+          "Klaus Mueller",
+          "We definitely should explore the new vegan cafe together! I'm curious about their menu options."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited about our upcoming vegan sushi date on Friday. It's going to be a great experience trying out new dishes together!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you think we could incorporate some of these culinary experiences into our research on social justice and gentrification?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea! We can definitely explore the intersection of vegan cuisine, social justice, and sustainability in our research. Let's discuss it further during our vegan dinner date on Monday."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be fascinating to explore how different communities perceive veganism and its impact on social justice issues."
+        ],
+        [
+          "Maria Lopez",
+          "I agree, it's important to consider the cultural and economic aspects of veganism in relation to social justice issues. Our upcoming discussions will be insightful!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have similar interests in exploring the intersection of vegan cuisine and social justice. It's important to have these conversations and use our research to create positive change."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we are on the same page about incorporating our culinary experiences into our research. It's going to be an exciting and enriching journey!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to collaborating on creating a new vegan dish for Isabella's upcoming cafe. Let's brainstorm some ideas tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited to explore the new vegan cafe opening next month. Let's plan to visit it together!"
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider how our work can contribute to raising awareness about social justice issues in our community."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        121,
+        45
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing their interest in exploring the intersection of vegan cuisine and social justice in their research, planning to incorporate their culinary experiences into their work and create positive change in their community. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the summary of your paper going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's coming along well. I just finished summarizing the key points. How was your day?"
+        ],
+        [
+          "Maria Lopez",
+          "That's great to hear! I had a productive day too. Looking forward to our vegan dinner date next Monday at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to try out the vegan lasagna and chocolate cake at Hobbs Cafe next Monday!"
+        ],
+        [
+          "Maria Lopez",
+          "We should also check out that new vegan cafe opening next month. It sounds exciting!"
+        ],
+        [
+          "Klaus Mueller",
+          "We definitely should explore the new vegan cafe together! I'm curious about their menu options."
+        ],
+        [
+          "Maria Lopez",
+          "I'm also excited about our upcoming vegan sushi date on Friday. It's going to be a great experience trying out new dishes together!"
+        ],
+        [
+          "Klaus Mueller",
+          "Do you think we could incorporate some of these culinary experiences into our research on social justice and gentrification?"
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea! We can definitely explore the intersection of vegan cuisine, social justice, and sustainability in our research. Let's discuss it further during our vegan dinner date on Monday."
+        ],
+        [
+          "Klaus Mueller",
+          "I think it would be fascinating to explore how different communities perceive veganism and its impact on social justice issues."
+        ],
+        [
+          "Maria Lopez",
+          "I agree, it's important to consider the cultural and economic aspects of veganism in relation to social justice issues. Our upcoming discussions will be insightful!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad we have similar interests in exploring the intersection of vegan cuisine and social justice. It's important to have these conversations and use our research to create positive change."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad we are on the same page about incorporating our culinary experiences into our research. It's going to be an exciting and enriching journey!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm looking forward to collaborating on creating a new vegan dish for Isabella's upcoming cafe. Let's brainstorm some ideas tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "I'm excited to explore the new vegan cafe opening next month. Let's plan to visit it together!"
+        ],
+        [
+          "Klaus Mueller",
+          "We should also consider how our work can contribute to raising awareness about social justice issues in our community."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 17:26:10"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are chatting about helping with physics notes, being grateful for support, inviting to a Potluck, what to bring to the Potluck, saving a seat, asking about each other's day, physics assignment, offering help, and looking forward to the Potluck. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, I saw you're pretty busy with serving customers. I just wanted to say thank you for offering to help me with my physics notes and inviting me to the Potluck tomorrow at 5pm. I'm really grateful for your support."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad I could help and I'm looking forward to seeing you at the Potluck tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific I should bring to the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Just bring yourself, Maria! Your presence is more than enough. I'll be happy to see you there."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I really appreciate it. I look forward to the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save you a seat at the Potluck tomorrow, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "By the way, how has your day been so far, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy but fulfilling, Maria. Thank you for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been good as well, Isabella. I've been working on my physics assignment and preparing for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Maria! If you ever need any more help with your physics assignment, feel free to reach out to me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I will definitely keep that in mind. I appreciate your willingness to help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great chatting with you, Maria. I'll see you at the Potluck tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for everything, Isabella. See you tomorrow at the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have some of your favorite snacks at the Potluck tomorrow, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm looking forward to the Potluck tomorrow. See you then!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Isabella Rodriguez are chatting about helping with physics notes, being grateful for support, inviting to a Potluck, what to bring to the Potluck, saving a seat, asking about each other's day, physics assignment, offering help, and looking forward to the Potluck. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella, I saw you're pretty busy with serving customers. I just wanted to say thank you for offering to help me with my physics notes and inviting me to the Potluck tomorrow at 5pm. I'm really grateful for your support."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad I could help and I'm looking forward to seeing you at the Potluck tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there anything specific I should bring to the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Just bring yourself, Maria! Your presence is more than enough. I'll be happy to see you there."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I really appreciate it. I look forward to the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to save you a seat at the Potluck tomorrow, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "By the way, how has your day been so far, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "My day has been busy but fulfilling, Maria. Thank you for asking. How about you?"
+        ],
+        [
+          "Maria Lopez",
+          "My day has been good as well, Isabella. I've been working on my physics assignment and preparing for the Potluck tomorrow."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad to hear that, Maria! If you ever need any more help with your physics assignment, feel free to reach out to me."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I will definitely keep that in mind. I appreciate your willingness to help."
+        ],
+        [
+          "Isabella Rodriguez",
+          "It was great chatting with you, Maria. I'll see you at the Potluck tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for everything, Isabella. See you tomorrow at the Potluck!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll make sure to have some of your favorite snacks at the Potluck tomorrow, Maria!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm looking forward to the Potluck tomorrow. See you then!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        80,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "eating lunch at Hobbs Cafe (conversing about Klaus and Isabella are discussing the Potluck event at the cafe tomorrow, sharing their planned dishes, and then transitioning into a conversation about gentrification in low-income communities for Klaus' sociology paper.) @ the Ville:Oak Hill College:hallway:<random>",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:20:00"
+  }
+}

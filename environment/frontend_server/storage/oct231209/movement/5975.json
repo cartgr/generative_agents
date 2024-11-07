@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Klaus are chatting about what dishes they will bring to the Potluck event, with Isabella bringing a vegan lasagna and buffalo chicken dip, Klaus bringing his homemade apple pie, and Klaus offering to help Isabella set up the drinks station for the event; they also plan to meet at the cafe at 4 pm the next day, and discuss gentrification after the Potluck. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I saw you getting everything ready for the Potluck tomorrow. It looks like it's going to be a great event. What dish are you planning to bring?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! Thank you for noticing. I'm actually bringing a vegan lasagna and buffalo chicken dip for the Potluck. What about you? What dish are you planning to bring?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds delicious! I'll be bringing my special homemade apple pie to the Potluck. I hope everyone enjoys it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That apple pie sounds amazing! I can't wait to try it tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else I can help with for the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Actually, if you could help me set up the drinks station for the Potluck tomorrow, that would be fantastic. I appreciate your offer!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd be happy to help out with setting up the drinks station for the Potluck tomorrow. Just let me know what I need to do!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much for offering to help with the drinks station, Klaus! Let's meet at the cafe tomorrow at 4pm to set everything up."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, 4 pm at the cafe it is! I'll make sure to be there on time to help with the drinks station. Looking forward to the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything you need help with for the Potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think I have everything sorted for the Potluck tomorrow. Thank you for organizing everything, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you again for offering to help with the drinks station. I'll see you tomorrow at 4 pm at the cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to a fun evening at the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "By the way, Klaus, don't forget to bring your sociology paper notes tomorrow. I'd love to discuss more about gentrification after the Potluck."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder, Isabella! I'll make sure to bring my sociology paper notes tomorrow. Looking forward to our discussion after the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you again for offering to help with the drinks station. I'll see you tomorrow at 4 pm at the cafe!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner at Hobbs Cafe (eating her dinner) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella and Klaus are chatting about what dishes they will bring to the Potluck event, with Isabella bringing a vegan lasagna and buffalo chicken dip, Klaus bringing his homemade apple pie, and Klaus offering to help Isabella set up the drinks station for the event; they also plan to meet at the cafe at 4 pm the next day, and discuss gentrification after the Potluck. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Isabella! I saw you getting everything ready for the Potluck tomorrow. It looks like it's going to be a great event. What dish are you planning to bring?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus! Thank you for noticing. I'm actually bringing a vegan lasagna and buffalo chicken dip for the Potluck. What about you? What dish are you planning to bring?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds delicious! I'll be bringing my special homemade apple pie to the Potluck. I hope everyone enjoys it."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That apple pie sounds amazing! I can't wait to try it tomorrow."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else I can help with for the Potluck tomorrow?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Actually, if you could help me set up the drinks station for the Potluck tomorrow, that would be fantastic. I appreciate your offer!"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd be happy to help out with setting up the drinks station for the Potluck tomorrow. Just let me know what I need to do!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you so much for offering to help with the drinks station, Klaus! Let's meet at the cafe tomorrow at 4pm to set everything up."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, 4 pm at the cafe it is! I'll make sure to be there on time to help with the drinks station. Looking forward to the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there anything you need help with for the Potluck tomorrow?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think I have everything sorted for the Potluck tomorrow. Thank you for organizing everything, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you again for offering to help with the drinks station. I'll see you tomorrow at 4 pm at the cafe!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to a fun evening at the Potluck tomorrow!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "By the way, Klaus, don't forget to bring your sociology paper notes tomorrow. I'd love to discuss more about gentrification after the Potluck."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder, Isabella! I'll make sure to bring my sociology paper notes tomorrow. Looking forward to our discussion after the Potluck."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Thank you again for offering to help with the drinks station. I'll see you tomorrow at 4 pm at the cafe!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:35:50"
+  }
+}

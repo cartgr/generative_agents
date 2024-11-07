@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up for the Potluck event, with Isabella offering help to Klaus, who will bring homemade apple pie while Isabella prepares vegan lasagna and buffalo chicken dip, and they plan to meet at 4 pm to set up the drinks station together at the cafe. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how are you doing with your notes for the presentation? Need any help or input?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I appreciate your offer! I think I'm good for now, but thank you for checking in. How's the cafe rush going today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been busy, but everything is running smoothly. By the way, I'm excited about the Potluck tonight. Are you all set with your dishes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'm bringing my homemade apple pie for the Potluck! I'm looking forward to trying your vegan lasagna and buffalo chicken dip. It sounds delicious."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I still have to set up the drinks station, would you mind giving me a hand with that before the Potluck starts?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd be happy to help with setting up the drinks station. Just let me know when you need me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, thank you! Let's meet at the cafe at 4 pm to set up together."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to collaborating with you on setting up the drinks station. See you at 4 pm!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        88,
+        32
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "heading to the library to review research papers (setting up her laptop) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about setting up for the Potluck event, with Isabella offering help to Klaus, who will bring homemade apple pie while Isabella prepares vegan lasagna and buffalo chicken dip, and they plan to meet at 4 pm to set up the drinks station together at the cafe. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, how are you doing with your notes for the presentation? Need any help or input?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, I appreciate your offer! I think I'm good for now, but thank you for checking in. How's the cafe rush going today?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "It's been busy, but everything is running smoothly. By the way, I'm excited about the Potluck tonight. Are you all set with your dishes?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, I'm bringing my homemade apple pie for the Potluck! I'm looking forward to trying your vegan lasagna and buffalo chicken dip. It sounds delicious."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! I still have to set up the drinks station, would you mind giving me a hand with that before the Potluck starts?"
+        ],
+        [
+          "Klaus Mueller",
+          "Sure, I'd be happy to help with setting up the drinks station. Just let me know when you need me."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, thank you! Let's meet at the cafe at 4 pm to set up together."
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to collaborating with you on setting up the drinks station. See you at 4 pm!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 11:17:30"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "welcoming customers and taking orders at the counter (taking the customer's order) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing gathering research materials, sharing articles, and planning to meet at Hobbs Cafe at 1 pm to discuss the social implications of gentrification and potential solutions, with the possibility of Isabella joining them. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're deep in research mode. How's everything going with gathering your materials?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm making progress. I've gathered quite a bit of research materials. How about you? Have you found any interesting sources for our paper?"
+        ],
+        [
+          "Maria Lopez",
+          "I found a few articles that I think could be really beneficial for our paper. Would you like to take a look at them?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'd love to take a look at those articles. Maybe we can discuss them over coffee at Hobbs Cafe later?"
+        ],
+        [
+          "Maria Lopez",
+          "I think we can discuss the articles over coffee at Hobbs Cafe. What time works for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about we aim for around 1pm at Hobbs Cafe to go over the articles and discuss our next steps?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 1 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to bring my notes and research materials with me to Hobbs Cafe at 1 pm. Looking forward to discussing the articles with you!"
+        ],
+        [
+          "Maria Lopez",
+          "Should I invite Isabella to join us for our discussion at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think inviting Isabella to join us would be a great idea. Let's see if she's available at that time."
+        ],
+        [
+          "Maria Lopez",
+          "I'll send Isabella a message to see if she's available to join us at Hobbs Cafe at 1 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for offering to invite Isabella. I appreciate your willingness to involve her in our discussion. Let's confirm her availability and finalize the plan."
+        ],
+        [
+          "Maria Lopez",
+          "I'll send Isabella a message right now to see if she can join us at Hobbs Cafe at 1 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything specific you want to focus on during our discussion at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "I think we should focus on discussing the social implications of gentrification and potential solutions to mitigate its negative impact on low-income communities. This aligns with our academic pursuits and collaborative efforts."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a good plan. I appreciate your insights on the focus of our discussion. Let's aim to finalize our thoughts during our meeting at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        124,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller are discussing gathering research materials, sharing articles, and planning to meet at Hobbs Cafe at 1 pm to discuss the social implications of gentrification and potential solutions, with the possibility of Isabella joining them. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I see you're deep in research mode. How's everything going with gathering your materials?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, I'm making progress. I've gathered quite a bit of research materials. How about you? Have you found any interesting sources for our paper?"
+        ],
+        [
+          "Maria Lopez",
+          "I found a few articles that I think could be really beneficial for our paper. Would you like to take a look at them?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I'd love to take a look at those articles. Maybe we can discuss them over coffee at Hobbs Cafe later?"
+        ],
+        [
+          "Maria Lopez",
+          "I think we can discuss the articles over coffee at Hobbs Cafe. What time works for you?"
+        ],
+        [
+          "Klaus Mueller",
+          "How about we aim for around 1pm at Hobbs Cafe to go over the articles and discuss our next steps?"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! I'll see you at 1 pm at Hobbs Cafe."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'll make sure to bring my notes and research materials with me to Hobbs Cafe at 1 pm. Looking forward to discussing the articles with you!"
+        ],
+        [
+          "Maria Lopez",
+          "Should I invite Isabella to join us for our discussion at Hobbs Cafe?"
+        ],
+        [
+          "Klaus Mueller",
+          "I think inviting Isabella to join us would be a great idea. Let's see if she's available at that time."
+        ],
+        [
+          "Maria Lopez",
+          "I'll send Isabella a message to see if she's available to join us at Hobbs Cafe at 1 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for offering to invite Isabella. I appreciate your willingness to involve her in our discussion. Let's confirm her availability and finalize the plan."
+        ],
+        [
+          "Maria Lopez",
+          "I'll send Isabella a message right now to see if she can join us at Hobbs Cafe at 1 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything specific you want to focus on during our discussion at Hobbs Cafe?"
+        ],
+        [
+          "Maria Lopez",
+          "I think we should focus on discussing the social implications of gentrification and potential solutions to mitigate its negative impact on low-income communities. This aligns with our academic pursuits and collaborative efforts."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a good plan. I appreciate your insights on the focus of our discussion. Let's aim to finalize our thoughts during our meeting at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:06:50"
+  }
+}

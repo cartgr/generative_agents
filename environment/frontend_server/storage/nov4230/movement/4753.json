@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83e\udd58",
+      "description": "continuing to serve customers and cleaning up from the lunch rush at Hobbs Cafe (checking on the potluck dishes brought by customers) @ the Ville:Isabella Rodriguez's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        93,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf31",
+      "description": "having lunch at Hobbs Cafe (conversing about Maria Lopez and Klaus Mueller are discussing trying out different vegan options together, including vegan lasagna and vegan chocolate cake, and planning to explore a variety of vegan dishes such as vegan tiramisu and vegan sushi in the future.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch at Hobbs Cafe (continuing to eat his meal) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:12:10"
+  }
+}

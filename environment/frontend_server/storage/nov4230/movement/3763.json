@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about joining a potluck lunch at the cafe, with Maria offering to bring a dish and Isabella inviting her to help with set-up @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! I see you're studying hard. How's the reading going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Yes, I'm trying to stay on top of my readings. It's going well so far. How have you been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been keeping busy with the cafe as usual. We have a potluck lunch today, are you planning on joining?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like fun! I would love to join the potluck lunch. What should I bring?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Just bring your favorite dish to share with everyone. Looking forward to having you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to bring something delicious for the potluck lunch. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll see you at 12 pm for the potluck lunch then. Let me know if you need any help with the recipe."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the invitation. I'll start thinking about what dish to bring for the potluck lunch."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to stop by the cafe early to help set up for the potluck lunch if you'd like!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Isabella! I'll definitely stop by early to help with the set-up. Thank you for the offer!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you later, Maria! Have a great time studying and see you at the potluck lunch!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about conversing about joining a potluck lunch at the cafe, with Maria offering to bring a dish and Isabella inviting her to help with set-up @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! I see you're studying hard. How's the reading going?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Yes, I'm trying to stay on top of my readings. It's going well so far. How have you been?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I've been keeping busy with the cafe as usual. We have a potluck lunch today, are you planning on joining?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like fun! I would love to join the potluck lunch. What should I bring?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Just bring your favorite dish to share with everyone. Looking forward to having you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'll make sure to bring something delicious for the potluck lunch. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Perfect! I'll see you at 12 pm for the potluck lunch then. Let me know if you need any help with the recipe."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the invitation. I'll start thinking about what dish to bring for the potluck lunch."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Feel free to stop by the cafe early to help set up for the potluck lunch if you'd like!"
+        ],
+        [
+          "Maria Lopez",
+          "Sounds good, Isabella! I'll definitely stop by early to help with the set-up. Thank you for the offer!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you later, Maria! Have a great time studying and see you at the potluck lunch!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        34
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "working on his research paper on gentrification (outlining the structure of his research paper) @ the Ville:Dorm for Oak Hill College:Klaus Mueller's room:desk",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:27:10"
+  }
+}

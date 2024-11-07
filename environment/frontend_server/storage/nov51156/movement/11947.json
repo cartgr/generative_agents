@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\u2615",
+      "description": "welcoming customers and taking orders at the counter (preparing the customer's drink) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        50
+      ],
+      "pronunciatio": "\u2615\ud83d\udcda",
+      "description": "completing her morning routine (conversing about Maria Lopez and Klaus Mueller are discussing gathering research materials, sharing articles, and planning to meet at Hobbs Cafe at 1 pm to discuss the social implications of gentrification and potential solutions, with the possibility of Isabella joining them.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "working on his research in the library (conversing about Maria Lopez and Klaus Mueller are discussing gathering research materials, sharing articles, and planning to meet at Hobbs Cafe at 1 pm to discuss the social implications of gentrification and potential solutions, with the possibility of Isabella joining them.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 09:11:10"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a vegan dessert tasting event at the cafe next week after enjoying a potluck lunch together, with Isabella Rodriguez inviting Maria Lopez to collaborate on the project @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella! Your potluck lunch looks amazing. I brought my favorite vegan lasagna to share with everyone. I can't wait to try all the delicious dishes!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! Your vegan lasagna looks incredible. I'm so glad you brought it to share. I hope you enjoy trying out the other dishes as well. By the way, have you had a chance to try the vegan tiramisu yet?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I actually haven't tried the vegan tiramisu yet, but it sounds delicious. I'll definitely make sure to save some room for dessert."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad to hear that, Maria! The vegan tiramisu is one of my personal favorites. I'll bring you a slice to try after you finish your lasagna."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I can't wait to try the vegan tiramisu. It sounds amazing. I appreciate your thoughtfulness in bringing me a slice to enjoy after my lasagna."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Isabella Rodriguez: I'm glad you're excited to try the vegan tiramisu, Maria! If you enjoy it, maybe we can plan a dessert tasting at the cafe in the future."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I would love to plan a dessert tasting at the cafe in the future. It will be a fun way to explore different vegan desserts together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad you're enjoying the potluck lunch, Maria. Your vegan lasagna is a hit with everyone here. Would you be interested in helping me organize a vegan dessert tasting event at the cafe next week?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fantastic idea, Isabella! I would love to help you organize a vegan dessert tasting event at the cafe next week. Count me in!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I appreciate your enthusiasm. Let's discuss the details further after we finish enjoying this potluck. I think it's going to be a fantastic event!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm really excited about planning the vegan dessert tasting event at the cafe next week. It's going to be so much fun!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finish up our lunch and then we can go over the details for the dessert tasting event. I'm looking forward to collaborating with you on this!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much for inviting me to help organize the vegan dessert tasting event, Isabella! I can't wait to work on this project with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finish up our lunch and then we can go over the details for the dessert tasting event. I'm looking forward to collaborating with you on this!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the opportunity, Isabella! I'm looking forward to collaborating on the dessert tasting event with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finish up our lunch and then we can go over the details for the dessert tasting event. I'm looking forward to collaborating with you on this!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about organizing a vegan dessert tasting event at the cafe next week after enjoying a potluck lunch together, with Isabella Rodriguez inviting Maria Lopez to collaborate on the project @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Isabella! Your potluck lunch looks amazing. I brought my favorite vegan lasagna to share with everyone. I can't wait to try all the delicious dishes!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! Your vegan lasagna looks incredible. I'm so glad you brought it to share. I hope you enjoy trying out the other dishes as well. By the way, have you had a chance to try the vegan tiramisu yet?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I actually haven't tried the vegan tiramisu yet, but it sounds delicious. I'll definitely make sure to save some room for dessert."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad to hear that, Maria! The vegan tiramisu is one of my personal favorites. I'll bring you a slice to try after you finish your lasagna."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I can't wait to try the vegan tiramisu. It sounds amazing. I appreciate your thoughtfulness in bringing me a slice to enjoy after my lasagna."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Isabella Rodriguez: I'm glad you're excited to try the vegan tiramisu, Maria! If you enjoy it, maybe we can plan a dessert tasting at the cafe in the future."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea, Isabella! I would love to plan a dessert tasting at the cafe in the future. It will be a fun way to explore different vegan desserts together."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad you're enjoying the potluck lunch, Maria. Your vegan lasagna is a hit with everyone here. Would you be interested in helping me organize a vegan dessert tasting event at the cafe next week?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a fantastic idea, Isabella! I would love to help you organize a vegan dessert tasting event at the cafe next week. Count me in!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I appreciate your enthusiasm. Let's discuss the details further after we finish enjoying this potluck. I think it's going to be a fantastic event!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm really excited about planning the vegan dessert tasting event at the cafe next week. It's going to be so much fun!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finish up our lunch and then we can go over the details for the dessert tasting event. I'm looking forward to collaborating with you on this!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you so much for inviting me to help organize the vegan dessert tasting event, Isabella! I can't wait to work on this project with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finish up our lunch and then we can go over the details for the dessert tasting event. I'm looking forward to collaborating with you on this!"
+        ],
+        [
+          "Maria Lopez",
+          "Thanks for the opportunity, Isabella! I'm looking forward to collaborating on the dessert tasting event with you."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's finish up our lunch and then we can go over the details for the dessert tasting event. I'm looking forward to collaborating with you on this!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83c\udf31\ud83d\udcda",
+      "description": "having lunch at Hobbs Cafe (conversing about Klaus Mueller and Isabella Rodriguez are discussing collaborating on creating a new vegan dish for Isabella's upcoming cafe, brainstorming ideas at the library and also planning to discuss the intersection of social justice with veganism while exploring Klaus's research on the effects of gentrification in low-income communities.) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 14, 2023, 12:32:30"
+  }
+}
