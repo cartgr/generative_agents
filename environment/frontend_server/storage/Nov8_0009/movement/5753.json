@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about checking in with each other about their Shakespearian sonnets for the poetry party tonight and making sure everyone attending brings one, also planning to set up a WhatsApp group chat and bring extra pens and paper for any spontaneous sonnets @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're studying physics. Are you enjoying it?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I'm really enjoying my physics studies. It's challenging but also super interesting."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! By the way, are you working on a Shakespearian sonnet for the poetry party tonight?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have my Shakespearian sonnet ready for the poetry party tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic! I can't wait to hear your Shakespearian sonnet tonight. I'm sure it's going to be amazing."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I'm looking forward to hearing the poems tonight. Are you bringing one as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have a special Shakespearian sonnet prepared for the poetry party as well. I wanted to make sure everyone got into the spirit of the event."
+        ],
+        [
+          "Maria Lopez",
+          "That's great, Isabella! I'm glad we both have our Shakespearian sonnets ready. It's going to be a fantastic poetry party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I also wanted to remind you that everyone needs to bring a Shakespearian sonnet, so let's make sure we spread the word to everyone attending."
+        ],
+        [
+          "Maria Lopez",
+          "We should make a list of everyone attending to ensure they all bring a Shakespearian sonnet."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also double-check with Klaus to make sure he's bringing a Shakespearian sonnet. It's important that everyone participates in the theme of the poetry party."
+        ],
+        [
+          "Maria Lopez",
+          "We can create a WhatsApp group chat to coordinate and remind everyone about bringing a Shakespearian sonnet."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure to reach out to everyone attending to confirm they have their Shakespearian sonnets ready."
+        ],
+        [
+          "Maria Lopez",
+          "We can also set up a reminder on the event page for the poetry party to bring a Shakespearian sonnet."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to have some extra pens and paper available in case anyone wants to jot down some spontaneous sonnets at the poetry party. It'll add a fun element to the event."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Isabella! I'll make sure to bring some extra pens and paper for the poetry party. It'll definitely add to the creative atmosphere."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about checking in with each other about their Shakespearian sonnets for the poetry party tonight and making sure everyone attending brings one, also planning to set up a WhatsApp group chat and bring extra pens and paper for any spontaneous sonnets @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria, I see you're studying physics. Are you enjoying it?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yeah, I'm really enjoying my physics studies. It's challenging but also super interesting."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! By the way, are you working on a Shakespearian sonnet for the poetry party tonight?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I have my Shakespearian sonnet ready for the poetry party tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's fantastic! I can't wait to hear your Shakespearian sonnet tonight. I'm sure it's going to be amazing."
+        ],
+        [
+          "Maria Lopez",
+          "Thanks, Isabella! I'm looking forward to hearing the poems tonight. Are you bringing one as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have a special Shakespearian sonnet prepared for the poetry party as well. I wanted to make sure everyone got into the spirit of the event."
+        ],
+        [
+          "Maria Lopez",
+          "That's great, Isabella! I'm glad we both have our Shakespearian sonnets ready. It's going to be a fantastic poetry party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I also wanted to remind you that everyone needs to bring a Shakespearian sonnet, so let's make sure we spread the word to everyone attending."
+        ],
+        [
+          "Maria Lopez",
+          "We should make a list of everyone attending to ensure they all bring a Shakespearian sonnet."
+        ],
+        [
+          "Isabella Rodriguez",
+          "We should also double-check with Klaus to make sure he's bringing a Shakespearian sonnet. It's important that everyone participates in the theme of the poetry party."
+        ],
+        [
+          "Maria Lopez",
+          "We can create a WhatsApp group chat to coordinate and remind everyone about bringing a Shakespearian sonnet."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's make sure to reach out to everyone attending to confirm they have their Shakespearian sonnets ready."
+        ],
+        [
+          "Maria Lopez",
+          "We can also set up a reminder on the event page for the poetry party to bring a Shakespearian sonnet."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Let's also make sure to have some extra pens and paper available in case anyone wants to jot down some spontaneous sonnets at the poetry party. It'll add a fun element to the event."
+        ],
+        [
+          "Maria Lopez",
+          "That's a great idea, Isabella! I'll make sure to bring some extra pens and paper for the poetry party. It'll definitely add to the creative atmosphere."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83c\udfd9\ufe0f",
+      "description": "having a discussion with a classmate about his findings (sharing his findings on gentrification) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 15:58:50"
+  }
+}

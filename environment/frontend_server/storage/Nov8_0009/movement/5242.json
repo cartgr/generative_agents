@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcdc",
+      "description": "finalizing preparations for the poetry party, including setting up a cozy corner for readings and arranging decorations (preparing a sign for the poetry party) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing Klaus's gentrification paper, with Maria offering to help with research insights and planning to meet at the campus coffee shop to further discuss tomorrow, as well as reminding Klaus about a poetry party tonight where he needs to bring a Shakespearian sonnet. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I noticed you're still working on your gentrification paper. How's the drafting going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. I'm making progress on the introduction, but there's still a lot of research to dive into. How's your Twitch stream going?"
+        ],
+        [
+          "Maria Lopez",
+          "Would you like any help with your research? I have some insights that might be useful."
+        ],
+        [
+          "Klaus Mueller",
+          "That would be great, Maria! Any insights you have would be really helpful. I'm struggling with some data analysis, so your perspective would be invaluable."
+        ],
+        [
+          "Maria Lopez",
+          "I'd be happy to help! Let's meet at the campus coffee shop tomorrow at 11 am to discuss further."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I really appreciate your willingness to help. 11 am at the campus coffee shop sounds perfect."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to our meeting tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria. I'll make sure to bring my laptop and research notes to our meeting tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "See you tomorrow at 11 am!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'll make sure to have everything prepared for our meeting tomorrow at the campus coffee shop."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, I also wanted to remind you about the poetry party tonight. Don't forget to bring your Shakespearian sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder about the poetry party tonight, Maria! I'll make sure to bring my Shakespearian sonnet."
+        ],
+        [
+          "Maria Lopez",
+          "Alright, see you at the poetry party tonight! Have a great evening."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'll see you later at the poetry party tonight. Have a great time streaming!"
+        ],
+        [
+          "Maria Lopez",
+          "Good luck with your drafting, Klaus! I have to head back to my dorm now."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! Have a good night and enjoy your streaming. See you at the poetry party tonight!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        124,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Maria Lopez are discussing Klaus's gentrification paper, with Maria offering to help with research insights and planning to meet at the campus coffee shop to further discuss tomorrow, as well as reminding Klaus about a poetry party tonight where he needs to bring a Shakespearian sonnet. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, I noticed you're still working on your gentrification paper. How's the drafting going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, thanks for asking. I'm making progress on the introduction, but there's still a lot of research to dive into. How's your Twitch stream going?"
+        ],
+        [
+          "Maria Lopez",
+          "Would you like any help with your research? I have some insights that might be useful."
+        ],
+        [
+          "Klaus Mueller",
+          "That would be great, Maria! Any insights you have would be really helpful. I'm struggling with some data analysis, so your perspective would be invaluable."
+        ],
+        [
+          "Maria Lopez",
+          "I'd be happy to help! Let's meet at the campus coffee shop tomorrow at 11 am to discuss further."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I really appreciate your willingness to help. 11 am at the campus coffee shop sounds perfect."
+        ],
+        [
+          "Maria Lopez",
+          "Great, looking forward to our meeting tomorrow!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you again, Maria. I'll make sure to bring my laptop and research notes to our meeting tomorrow."
+        ],
+        [
+          "Maria Lopez",
+          "See you tomorrow at 11 am!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'll make sure to have everything prepared for our meeting tomorrow at the campus coffee shop."
+        ],
+        [
+          "Maria Lopez",
+          "By the way, I also wanted to remind you about the poetry party tonight. Don't forget to bring your Shakespearian sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder about the poetry party tonight, Maria! I'll make sure to bring my Shakespearian sonnet."
+        ],
+        [
+          "Maria Lopez",
+          "Alright, see you at the poetry party tonight! Have a great evening."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! I'll see you later at the poetry party tonight. Have a great time streaming!"
+        ],
+        [
+          "Maria Lopez",
+          "Good luck with your drafting, Klaus! I have to head back to my dorm now."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria! Have a good night and enjoy your streaming. See you at the poetry party tonight!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:33:40"
+  }
+}

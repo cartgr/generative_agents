@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcdc",
+      "description": "hosting the poetry party, facilitating discussions and enjoying the performances (encouraging guests to share their sonnets) @ the Ville:Hobbs Cafe:cafe:piano",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing their gaming experiences and making plans to play a post-apocalyptic game together, as well as reminding each other about a poetry party and bringing a Shakespearian sonnet. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's the gaming going? Find any new exciting games to play?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus! Gaming has been going well, I actually found this new game that I've been really into lately."
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome! What's the game about?"
+        ],
+        [
+          "Maria Lopez",
+          "It's a survival game set in a post-apocalyptic world. The graphics are amazing!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds really interesting! I've always been intrigued by post-apocalyptic themes. Do you mind if I join you sometime to check it out?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Klaus! I would love to have you join me. How about we plan to meet up tomorrow after class at the campus coffee shop and we can play together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I look forward to checking out the game with you tomorrow. Thanks for inviting me!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll message you the details later. By the way, don't forget about the poetry party tonight. You still need to bring a Shakespearian sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for the reminder, Maria! I'll make sure to bring my Shakespearian sonnet tonight. Looking forward to gaming with you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at the poetry party tonight then. Don't be late!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it, Maria! See you at the poetry party tonight!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at the poetry party tonight then. Don't be late!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! Looking forward to catching up with you at the poetry party tonight. See you there!"
+        ],
+        [
+          "Maria Lopez",
+          "See you tonight at the poetry party! Have fun tonight and don't forget your sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I'll make sure to bring my Shakespearian sonnet tonight. Looking forward to seeing you at the poetry party!"
+        ],
+        [
+          "Maria Lopez",
+          "Have a great rest of your day, Klaus! See you at the poetry party later."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        51
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing their gaming experiences and making plans to play a post-apocalyptic game together, as well as reminding each other about a poetry party and bringing a Shakespearian sonnet. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's the gaming going? Find any new exciting games to play?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus! Gaming has been going well, I actually found this new game that I've been really into lately."
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome! What's the game about?"
+        ],
+        [
+          "Maria Lopez",
+          "It's a survival game set in a post-apocalyptic world. The graphics are amazing!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds really interesting! I've always been intrigued by post-apocalyptic themes. Do you mind if I join you sometime to check it out?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Klaus! I would love to have you join me. How about we plan to meet up tomorrow after class at the campus coffee shop and we can play together?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds great, Maria! I look forward to checking out the game with you tomorrow. Thanks for inviting me!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll message you the details later. By the way, don't forget about the poetry party tonight. You still need to bring a Shakespearian sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks for the reminder, Maria! I'll make sure to bring my Shakespearian sonnet tonight. Looking forward to gaming with you tomorrow!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at the poetry party tonight then. Don't be late!"
+        ],
+        [
+          "Klaus Mueller",
+          "Looking forward to it, Maria! See you at the poetry party tonight!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll see you at the poetry party tonight then. Don't be late!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! Looking forward to catching up with you at the poetry party tonight. See you there!"
+        ],
+        [
+          "Maria Lopez",
+          "See you tonight at the poetry party! Have fun tonight and don't forget your sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Maria! I'll make sure to bring my Shakespearian sonnet tonight. Looking forward to seeing you at the poetry party!"
+        ],
+        [
+          "Maria Lopez",
+          "Have a great rest of your day, Klaus! See you at the poetry party later."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:53:30"
+  }
+}

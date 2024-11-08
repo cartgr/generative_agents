@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning to attend a poetry party tonight and discussing bringing a Shakespearian sonnet for the event, which starts at 5:00 pm. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! I hope you received the flyer for the poetry party tonight. Are you planning on attending?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Yes, I did receive the flyer for the poetry party. I will definitely be attending, I love poetry nights. Are you planning on performing something tonight?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I actually have a special request for tonight's poetry party. Would you be able to bring a Shakespearian sonnet for the event?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Isabella! I will bring a Shakespearian sonnet for the poetry party tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'm looking forward to hearing your Shakespearian sonnet tonight. Remember, it's essential for everyone to contribute a poem that follows the theme."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific time for the poetry party tonight?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The poetry party starts at 5:00 pm tonight. I hope to see you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, thanks for the information Isabella. I'll make sure to be there on time at 5:00 pm for the poetry party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, see you at 5:00 pm! Enjoy the rest of your lunch, Maria."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Isabella Rodriguez and Maria Lopez are planning to attend a poetry party tonight and discussing bringing a Shakespearian sonnet for the event, which starts at 5:00 pm. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria! I hope you received the flyer for the poetry party tonight. Are you planning on attending?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella! Yes, I did receive the flyer for the poetry party. I will definitely be attending, I love poetry nights. Are you planning on performing something tonight?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I actually have a special request for tonight's poetry party. Would you be able to bring a Shakespearian sonnet for the event?"
+        ],
+        [
+          "Maria Lopez",
+          "Of course, Isabella! I will bring a Shakespearian sonnet for the poetry party tonight."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria! I'm looking forward to hearing your Shakespearian sonnet tonight. Remember, it's essential for everyone to contribute a poem that follows the theme."
+        ],
+        [
+          "Maria Lopez",
+          "Is there a specific time for the poetry party tonight?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The poetry party starts at 5:00 pm tonight. I hope to see you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Great, thanks for the information Isabella. I'll make sure to be there on time at 5:00 pm for the poetry party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, see you at 5:00 pm! Enjoy the rest of your lunch, Maria."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        122,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to write and research on his gentrification paper in the library (taking notes on key points from the articles) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:31:50"
+  }
+}

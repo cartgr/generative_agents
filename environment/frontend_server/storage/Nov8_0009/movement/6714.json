@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella are discussing Maria's preparation to share her Shakespearian sonnet at the poetry party and Isabella offering help or practice before the event. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I see you're taking a little break. Are you ready to share your Shakespearian sonnet at the poetry party tonight?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, I'm excited to share my Shakespearian sonnet tonight. How is the party going so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! We're just getting started, but everyone is excited to hear your sonnet. Would you like to practice it together or need any help?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer, but I think I'm good to go. I'll make sure to bring my A game tonight at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear! I'll make sure to introduce you when it's your turn to share. Enjoy your break and see you at the party!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm looking forward to sharing my sonnet with everyone tonight. I'll see you at the party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Have you had a chance to read through your sonnet one last time before the party?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I just gave it a final read. It's all set for tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds great! Looking forward to hearing your sonnet tonight. Enjoy your break and see you at the poetry party!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm feeling confident about my sonnet for tonight. I'll see you at the party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll leave you to your break then. See you later at the party!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella are discussing Maria's preparation to share her Shakespearian sonnet at the poetry party and Isabella offering help or practice before the event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! I see you're taking a little break. Are you ready to share your Shakespearian sonnet at the poetry party tonight?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! Yes, I'm excited to share my Shakespearian sonnet tonight. How is the party going so far?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! We're just getting started, but everyone is excited to hear your sonnet. Would you like to practice it together or need any help?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I appreciate the offer, but I think I'm good to go. I'll make sure to bring my A game tonight at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great to hear! I'll make sure to introduce you when it's your turn to share. Enjoy your break and see you at the party!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm looking forward to sharing my sonnet with everyone tonight. I'll see you at the party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Have you had a chance to read through your sonnet one last time before the party?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I just gave it a final read. It's all set for tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sounds great! Looking forward to hearing your sonnet tonight. Enjoy your break and see you at the poetry party!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Isabella! I'm feeling confident about my sonnet for tonight. I'll see you at the party!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll leave you to your break then. See you later at the party!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        118,
+        50
+      ],
+      "pronunciatio": "\ud83d\udecb\ufe0f",
+      "description": "relaxing and unwinding at home (relaxing on the couch) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:39:00"
+  }
+}

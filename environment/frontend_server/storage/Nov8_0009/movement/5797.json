@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "preparing snacks and drinks for the poetry party (conversing about checking in with each other about their Shakespearian sonnets for the poetry party tonight and making sure everyone attending brings one, also planning to set up a WhatsApp group chat and bring extra pens and paper for any spontaneous sonnets) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcd8",
+      "description": "continuing to study physics at Hobbs Cafe (on the way to solving practice problems) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        23
+      ],
+      "pronunciatio": "\ud83e\udd14",
+      "description": "having a discussion with a classmate about his findings (asking for his classmate's perspective) @ the Ville:Oak Hill College:classroom:classroom podium",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 16:06:10"
+  }
+}

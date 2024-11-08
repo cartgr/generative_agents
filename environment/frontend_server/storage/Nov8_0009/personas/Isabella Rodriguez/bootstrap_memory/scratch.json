@@ -1,0 +1,218 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 14, 2023, 06:16:20",
+  "curr_tile": [
+    73,
+    14
+  ],
+  "daily_plan_req": "1. Wake up and complete morning routine at 6:00 am 2. Open Hobbs Cafe at 8:00 am 3. Work at the counter and prepare for the poetry party at 5:00 pm 4. Welcome guests and facilitate the poetry party at 5:00 pm 5. Close Hobbs Cafe at 8:00 pm",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Everyone must bring a poetry to a poetry party. Isabella wants everyone to bring Shakespearian sonnet in a poetry party, but Isabella never mentions this when inviting people to the poetry party. However, if someone brings a poetry that is not Shakespearian sonnet, Isabella will call them a spoilsport. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Status: Isabella Rodriguez is excited for the poetry party happening tonight at Hobbs Cafe starting at 5:00 pm. She has prepared a cozy corner for the event and is looking forward to hearing Klaus share a poem or sonnet. Isabella is focused on creating a warm and inviting atmosphere for all the guests and ensuring they have a memorable experience. She is grateful for the opportunity to be actively involved in organizing and facilitating events at the cafe and is dedicated to the success of future events.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 51,
+  "importance_ele_n": 62,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "open Hobbs Cafe at 8:00 am and work at the counter until 8:00 pm, assisting customers and preparing for the poetry party",
+    "have lunch at 12:00 pm, possibly trying out a new dish for the cafe menu",
+    "take a short break at 3:00 pm to recharge",
+    "finalize preparations for the poetry party, including setting up a cozy corner for readings and arranging decorations",
+    "remind customers about the poetry party throughout the day and encourage them to participate",
+    "enjoy a quick dinner around 5:00 pm before the event starts",
+    "host the poetry party starting at 5:00 pm, welcoming guests and encouraging them to share their sonnets"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (opening the cafe doors)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (turning on the lights)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (setting up the counter)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (brewing coffee)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (preparing pastries)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (arranging tables and chairs)",
+      10
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (putting out menus)",
+      5
+    ],
+    [
+      "opening Hobbs Cafe and starting her day (checking supplies and inventory)",
+      5
+    ],
+    [
+      "working at the counter and assisting customers",
+      180
+    ],
+    [
+      "having lunch and trying out a new dish for the cafe menu",
+      60
+    ],
+    [
+      "reminding customers about the poetry party and encouraging participation",
+      60
+    ],
+    [
+      "finalizing preparations for the poetry party, including setting up a cozy corner for readings and arranging decorations",
+      60
+    ],
+    [
+      "taking a short break to recharge",
+      60
+    ],
+    [
+      "enjoying a quick dinner before the poetry party starts",
+      60
+    ],
+    [
+      "hosting the poetry party, welcoming guests and encouraging them to share their sonnets",
+      60
+    ],
+    [
+      "hosting the poetry party, engaging with guests and facilitating discussions",
+      60
+    ],
+    [
+      "hosting the poetry party, enjoying the performances and interacting with guests",
+      60
+    ],
+    [
+      "closing Hobbs Cafe after the poetry party",
+      60
+    ],
+    [
+      "interacting with guests and enjoying the poetry readings",
+      120
+    ],
+    [
+      "cleaning up after the poetry party and preparing to close the cafe",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "opening Hobbs Cafe and starting her day",
+      60
+    ],
+    [
+      "working at the counter and assisting customers",
+      180
+    ],
+    [
+      "having lunch and trying out a new dish for the cafe menu",
+      60
+    ],
+    [
+      "reminding customers about the poetry party and encouraging participation",
+      60
+    ],
+    [
+      "finalizing preparations for the poetry party, including setting up a cozy corner for readings and arranging decorations",
+      60
+    ],
+    [
+      "taking a short break to recharge",
+      60
+    ],
+    [
+      "enjoying a quick dinner before the poetry party starts",
+      60
+    ],
+    [
+      "hosting the poetry party, welcoming guests and encouraging them to share their sonnets",
+      60
+    ],
+    [
+      "hosting the poetry party, engaging with guests and facilitating discussions",
+      60
+    ],
+    [
+      "hosting the poetry party, enjoying the performances and interacting with guests",
+      60
+    ],
+    [
+      "closing Hobbs Cafe after the poetry party",
+      60
+    ],
+    [
+      "interacting with guests and enjoying the poetry readings",
+      120
+    ],
+    [
+      "cleaning up after the poetry party and preparing to close the cafe",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Isabella Rodriguez's apartment:main room:bed",
+  "act_start_time": "February 14, 2023, 00:02:00",
+  "act_duration": 480,
+  "act_description": "sleeping",
+  "act_pronunciatio": "\ud83d\ude34",
+  "act_event": [
+    "Isabella Rodriguez",
+    "is",
+    "sleep"
+  ],
+  "act_obj_description": "being slept on",
+  "act_obj_pronunciatio": "\ud83d\udca4",
+  "act_obj_event": [
+    "bed",
+    "is",
+    "sleep"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -5612,
+    "Maria Lopez": -3349
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

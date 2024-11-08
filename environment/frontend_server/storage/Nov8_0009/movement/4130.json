@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83e\uddfd",
+      "description": "assisting customers at Hobbs Cafe (cleaning tables after customers leave) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller discussing enhancing the introduction section of Klaus's research paper on gentrification over coffee at the campus coffee shop. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the research on gentrification going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well. I'm currently working on the introduction section of my paper."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating. I'm curious to learn more about your research topic. Would you like some insights on how to enhance your introduction section?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I would appreciate any insights you have to offer. I'm always open to different perspectives."
+        ],
+        [
+          "Maria Lopez",
+          "Maybe we can grab a coffee and discuss your paper further. I might have some ideas that could help."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I would love to hear your insights over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's head to the campus coffee shop. I know they make the best lattes."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I appreciate your offer to help. Let's head to the campus coffee shop."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to hear your ideas. Let's head to the campus coffee shop!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll grab my laptop and notes. Let's head to the campus coffee shop."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I have my research notes with me. Let's head to the campus coffee shop now."
+        ],
+        [
+          "Maria Lopez",
+          "Let's head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I have my research notes with me. Let's head to the campus coffee shop now."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        120,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria Lopez and Klaus Mueller discussing enhancing the introduction section of Klaus's research paper on gentrification over coffee at the campus coffee shop. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Maria Lopez",
+          "Hey Klaus, how's the research on gentrification going?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Maria, it's going well. I'm currently working on the introduction section of my paper."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds fascinating. I'm curious to learn more about your research topic. Would you like some insights on how to enhance your introduction section?"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I would appreciate any insights you have to offer. I'm always open to different perspectives."
+        ],
+        [
+          "Maria Lopez",
+          "Maybe we can grab a coffee and discuss your paper further. I might have some ideas that could help."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds like a great idea, Maria. I would love to hear your insights over coffee."
+        ],
+        [
+          "Maria Lopez",
+          "Great! Let's head to the campus coffee shop. I know they make the best lattes."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Maria. I appreciate your offer to help. Let's head to the campus coffee shop."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I'm excited to hear your ideas. Let's head to the campus coffee shop!"
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I'll grab my laptop and notes. Let's head to the campus coffee shop."
+        ],
+        [
+          "Maria Lopez",
+          "Let's grab our stuff and head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I have my research notes with me. Let's head to the campus coffee shop now."
+        ],
+        [
+          "Maria Lopez",
+          "Let's head to the campus coffee shop now."
+        ],
+        [
+          "Klaus Mueller",
+          "I have my research notes with me. Let's head to the campus coffee shop now."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:28:20"
+  }
+}

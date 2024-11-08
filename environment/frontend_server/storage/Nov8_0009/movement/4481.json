@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella discussing the lunch menu, sampling a new dish, planning a poetry party at the cafe, and inviting Klaus to share a poem or sonnet at the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I see you're enjoying your lunch. How's everything tasting?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, the lunch is great, as always. How's the new dish coming along? It smells delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your lunch, Klaus! The new dish is coming along nicely. Would you like to try a sample?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds amazing, Isabella! I would love to try a sample."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here you go, Klaus. Let me know what you think!"
+        ],
+        [
+          "Klaus Mueller",
+          "This dish is delicious, Isabella! You've outdone yourself."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad you like it, Klaus! I'm always trying to bring new flavors to the menu to keep things exciting."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else exciting you're working on for the menu, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm actually finalizing preparations for a poetry party we're having at the cafe tonight. I've set up a cozy corner for readings and decorations. You should come by later and join us!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella! I'll definitely stop by later for the poetry party. Thank you for the invitation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'm looking forward to having you at the poetry party tonight. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to see the cozy corner and enjoy the poetry readings tonight. Thank you for putting so much effort into the event, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there a particular poem or sonnet you'd like to share at the party, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Isabella. I'll think about what poem or sonnet I could share at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're interested in sharing a poem or sonnet. It'll be a lovely addition to the poetry party atmosphere. See you tonight, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate the opportunity to share my poetry at the party tonight. I'll make sure to find a fitting piece for the occasion."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        126,
+        54
+      ],
+      "pronunciatio": "\u2699\ufe0f",
+      "description": "streaming games on Twitch (adjusting the stream settings) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:computer",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella discussing the lunch menu, sampling a new dish, planning a poetry party at the cafe, and inviting Klaus to share a poem or sonnet at the event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I see you're enjoying your lunch. How's everything tasting?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, the lunch is great, as always. How's the new dish coming along? It smells delicious!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enjoying your lunch, Klaus! The new dish is coming along nicely. Would you like to try a sample?"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds amazing, Isabella! I would love to try a sample."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Here you go, Klaus. Let me know what you think!"
+        ],
+        [
+          "Klaus Mueller",
+          "This dish is delicious, Isabella! You've outdone yourself."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm so glad you like it, Klaus! I'm always trying to bring new flavors to the menu to keep things exciting."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything else exciting you're working on for the menu, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm actually finalizing preparations for a poetry party we're having at the cafe tonight. I've set up a cozy corner for readings and decorations. You should come by later and join us!"
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds fantastic, Isabella! I'll definitely stop by later for the poetry party. Thank you for the invitation!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great, Klaus! I'm looking forward to having you at the poetry party tonight. See you then!"
+        ],
+        [
+          "Klaus Mueller",
+          "I can't wait to see the cozy corner and enjoy the poetry readings tonight. Thank you for putting so much effort into the event, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Is there a particular poem or sonnet you'd like to share at the party, Klaus?"
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great idea, Isabella. I'll think about what poem or sonnet I could share at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're interested in sharing a poem or sonnet. It'll be a lovely addition to the poetry party atmosphere. See you tonight, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I appreciate the opportunity to share my poetry at the party tonight. I'll make sure to find a fitting piece for the occasion."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:26:50"
+  }
+}

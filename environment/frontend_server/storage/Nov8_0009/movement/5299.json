@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "finalizing preparations for the poetry party, including setting up a cozy corner for readings and arranging decorations (checking the seating arrangement for the readings) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac\u2615",
+      "description": "streaming games on Twitch (conversing about Klaus Mueller and Maria Lopez are discussing Klaus's gentrification paper, with Maria offering to help with research insights and planning to meet at the campus coffee shop to further discuss tomorrow, as well as reminding Klaus about a poetry party tonight where he needs to bring a Shakespearian sonnet.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        108,
+        35
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "continuing to write and research on his gentrification paper in the library (drafting the introduction of his paper) @ the Ville:Oak Hill College:library:library table",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:43:10"
+  }
+}

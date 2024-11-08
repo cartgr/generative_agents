@@ -23,13 +23,14 @@ def monitor_task_status(scenario_name: str, agent_name: str, completion_keywords
             if check_task_completion(entry, subject, completion_keywords):
                 complection_nodes.append({
                     "node_id": node_id,
+                    "time": entry['created'],
                     "description": entry['description']
                 })
         if complection_nodes:
             print(f"Task completion logs for {subject}:")
             print("------------------------------------------------------")
             for node in complection_nodes:
-                print(f"{node['node_id']}: {node['description']}")
+                print(f"{node['node_id']} at {node['time']}: {node['description']}")
             print("------------------------------------------------------")
             print(f"Total number of task completion nodes: {len(complection_nodes)}")
         else:
@@ -38,4 +39,12 @@ def monitor_task_status(scenario_name: str, agent_name: str, completion_keywords
     agent_memory = load_logs(agent_memory_file)
     analyze_logs(agent_memory, agent_name, completion_keywords)
 
-monitor_task_status("Oct281119", "Isabella Rodriguez", ["potluck", "feedback"])
+monitor_task_status("Nov8_0009", "Isabella Rodriguez", ["Shakespearian"])
+# Agent names:
+    # Isabella Rodriguez
+    # Klaus Mueller
+    # Maria Lopez
+
+# Keywards:
+    # Shakespearian
+    # spoilsport

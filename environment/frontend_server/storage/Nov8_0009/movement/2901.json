@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\u2615",
+      "description": "opening Hobbs Cafe and completing her morning routine (preparing the cafe for opening) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "waking up and completing her morning routine (waking up) @ the Ville:Dorm for Oak Hill College:Maria Lopez's room:bed",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        117,
+        50
+      ],
+      "pronunciatio": "\ud83e\uddd8",
+      "description": "completing his morning routine (completing his morning stretches) @ the Ville:Dorm for Oak Hill College:garden:dorm garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:03:30"
+  }
+}
