@@ -1,0 +1,343 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:33:50",
+  "curr_tile": [
+    38,
+    44
+  ],
+  "daily_plan_req": "Klaus Mueller goes to the library at Oak Hill College early in the morning, spends his days writing, and eats at Hobbs Cafe.",
+  "name": "Klaus Mueller",
+  "first_name": "Klaus",
+  "last_name": "Mueller",
+  "age": 20,
+  "innate": "kind, inquisitive, passionate",
+  "learned": "Klaus Mueller is a student at Oak Hill College studying sociology. He is passionate about social justice and loves to explore different perspectives. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Klaus Mueller is writing a research paper on the effects of gentrification in low-income communities.",
+  "lifestyle": "Klaus Mueller goes to bed around 11pm, awakes up around 7am, eats dinner around 5pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Klaus Mueller's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 58,
+  "importance_ele_n": 41,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "head to the library at Oak Hill College by 8:30 am",
+    "spend the morning working on his research paper on gentrification until 12:00 pm",
+    "have lunch at Hobbs Cafe from 12:00 pm to 1:00 pm",
+    "continue writing his paper from 1:15 pm to 4:30 pm",
+    "take a break and relax, maybe read a book or listen to music from 4:30 pm to 5:00 pm",
+    "have dinner at 5:00 pm",
+    "spend some time reviewing his notes and reflecting on his findings from 6:00 pm to 7:30 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "working on his research paper at the library (researching sources for his paper)",
+      30
+    ],
+    [
+      "working on his research paper at the library (on the way to taking notes on the sources)",
+      0
+    ],
+    [
+      "working on his research paper at the library (conversing about two researchers, Klaus Mueller and Maria Lopez, discussing their interest in urban development, planning to meet at Hobbs Cafe at 1:30 pm to exchange ideas and delve into the impact of gentrification on community cohesion and social dynamics over coffee.)",
+      9
+    ],
+    [
+      "working on his research paper at the library (outlining the structure of his paper)",
+      30
+    ],
+    [
+      "working on his research paper at the library (writing the introduction section)",
+      30
+    ],
+    [
+      "working on his research paper at the library (writing the body paragraphs)",
+      30
+    ],
+    [
+      "working on his research paper at the library (writing the conclusion section)",
+      15
+    ],
+    [
+      "working on his research paper at the library (proofreading his paper)",
+      10
+    ],
+    [
+      "working on his research paper at the library (saving his work and organizing files)",
+      5
+    ],
+    [
+      "having lunch at Hobbs Cafe (ordering his meal)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (on the way to waiting for his meal)",
+      0
+    ],
+    [
+      "having lunch at Hobbs Cafe (conversing about Klaus and Isabella discussing their shared interest in poetry and planning for the poetry party later at Hobbs Cafe, where Klaus will share a Shakespearian sonnet and help set up for the event.)",
+      8
+    ],
+    [
+      "having lunch at Hobbs Cafe (eating his meal)",
+      25
+    ],
+    [
+      "having lunch at Hobbs Cafe (drinking his beverage)",
+      10
+    ],
+    [
+      "having lunch at Hobbs Cafe (paying the bill)",
+      5
+    ],
+    [
+      "working on his research paper at the library (1) Klaus is reviewing his research notes)",
+      15
+    ],
+    [
+      "working on his research paper at the library (outlining the structure of his paper)",
+      30
+    ],
+    [
+      "working on his research paper at the library (writing the introduction section)",
+      30
+    ],
+    [
+      "working on his research paper at the library (researching additional sources)",
+      30
+    ],
+    [
+      "working on his research paper at the library (taking a break)",
+      15
+    ],
+    [
+      "working on his research paper at the library (writing the body paragraphs)",
+      30
+    ],
+    [
+      "working on his research paper at the library (editing the body paragraphs)",
+      15
+    ],
+    [
+      "working on his research paper at the library (formatting the paper according to guidelines)",
+      10
+    ],
+    [
+      "working on his research paper at the library (saving his work and packing up)",
+      5
+    ],
+    [
+      "taking a break and relaxing, maybe reading a book or listening to music",
+      60
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "reviewing his notes and reflecting on his findings",
+      120
+    ],
+    [
+      "relaxing or engaging in leisure activities",
+      120
+    ],
+    [
+      "relaxing or preparing for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      21
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "completing his morning routine",
+      60
+    ],
+    [
+      "working on his research paper at the library",
+      180
+    ],
+    [
+      "having lunch at Hobbs Cafe",
+      60
+    ],
+    [
+      "working on his research paper at the library",
+      180
+    ],
+    [
+      "taking a break and relaxing, maybe reading a book or listening to music",
+      60
+    ],
+    [
+      "having dinner at Hobbs Cafe",
+      60
+    ],
+    [
+      "reviewing his notes and reflecting on his findings",
+      120
+    ],
+    [
+      "relaxing or engaging in leisure activities",
+      120
+    ],
+    [
+      "relaxing or preparing for bed",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Johnson Park:park:park garden",
+  "act_start_time": "February 13, 2023, 14:24:00",
+  "act_duration": 15,
+  "act_description": "working on his research paper at the library (taking a break)",
+  "act_pronunciatio": "\u2615",
+  "act_event": [
+    "Klaus Mueller",
+    "take",
+    "break"
+  ],
+  "act_obj_description": "well-maintained and full of blooming flowers",
+  "act_obj_pronunciatio": "\ud83c\udf3a",
+  "act_obj_event": [
+    "park garden",
+    "is",
+    "well-maintained"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Maria Lopez": -1144,
+    "Isabella Rodriguez": -148
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      36,
+      44
+    ],
+    [
+      36,
+      45
+    ],
+    [
+      35,
+      45
+    ],
+    [
+      34,
+      45
+    ],
+    [
+      33,
+      45
+    ],
+    [
+      33,
+      46
+    ]
+  ]
+}

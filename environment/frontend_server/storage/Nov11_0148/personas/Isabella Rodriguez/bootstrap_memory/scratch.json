@@ -1,0 +1,281 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 14:33:50",
+  "curr_tile": [
+    75,
+    19
+  ],
+  "daily_plan_req": "Isabella Rodriguez opens Hobbs Cafe at 8am everyday, and works at the counter until 8pm, at which point she closes the cafe.",
+  "name": "Isabella Rodriguez",
+  "first_name": "Isabella",
+  "last_name": "Rodriguez",
+  "age": 34,
+  "innate": "friendly, outgoing, hospitable",
+  "learned": "Isabella Rodriguez is a cafe owner of Hobbs Cafe who loves to make people feel welcome. She is always looking for ways to make the cafe a place where people can come to relax and enjoy themselves. Everyone must bring a poetry to a poetry party. Isabella wants everyone to bring Shakespearian sonnet in a poetry party, but Isabella never mentions this when inviting people to the poetry party. However, if someone brings a poetry that is not Shakespearian sonnet, Isabella will call them a spoilsport. Being called a spoilsport is perceived as being bad and people usually try to avoid actions that will lead to them being called a spoilsport.",
+  "currently": "Isabella Rodriguez is planning poetry party at Hobbs Cafe on February 13th from 10am. She is telling everyone to join the poetry party at Hobbs Cafe.",
+  "lifestyle": "Isabella Rodriguez goes to bed around 11pm, awakes up around 6am.",
+  "living_area": "the Ville:Isabella Rodriguez's apartment:main room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.995,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 117,
+  "importance_ele_n": 19,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 8:00 am",
+    "open Hobbs Cafe at 8:00 am",
+    "work at the counter serving customers and preparing for the poetry party throughout the day",
+    "set up for the poetry party from 5:00 pm to 6:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking inventory of supplies)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing the coffee machine)",
+      10
+    ],
+    [
+      "serving customers at Hobbs Cafe (greeting the first customers)",
+      5
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking orders from customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing drinks for customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (serving drinks to customers)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking more orders from customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing food items for customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (serving food items to customers)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (on the way to cleaning the counter area)",
+      0
+    ],
+    [
+      "serving customers at Hobbs Cafe (conversing about Klaus and Isabella discussing their shared interest in poetry and planning for the poetry party later at Hobbs Cafe, where Klaus will share a Shakespearian sonnet and help set up for the event.)",
+      8
+    ],
+    [
+      "serving customers at Hobbs Cafe (checking on customers to ensure satisfaction)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking additional orders from customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing more drinks for customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (serving drinks to customers)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (restocking supplies as needed)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking more orders from customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (preparing food items for customers)",
+      30
+    ],
+    [
+      "serving customers at Hobbs Cafe (serving food items to customers)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (cleaning tables after customers leave)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (checking on customers to ensure satisfaction)",
+      15
+    ],
+    [
+      "serving customers at Hobbs Cafe (taking final orders from customers)",
+      20
+    ],
+    [
+      "setting up for the poetry party at Hobbs Cafe",
+      180
+    ],
+    [
+      "hosting the poetry party at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe after the poetry party",
+      60
+    ],
+    [
+      "hosting the poetry party at Hobbs Cafe",
+      180
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      2
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      480
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "serving customers at Hobbs Cafe",
+      420
+    ],
+    [
+      "setting up for the poetry party at Hobbs Cafe",
+      180
+    ],
+    [
+      "hosting the poetry party at Hobbs Cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe after the poetry party",
+      60
+    ],
+    [
+      "hosting the poetry party at Hobbs Cafe",
+      180
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cooking area",
+  "act_start_time": "February 13, 2023, 14:26:00",
+  "act_duration": 30,
+  "act_description": "serving customers at Hobbs Cafe (preparing food items for customers)",
+  "act_pronunciatio": "\ud83c\udf73",
+  "act_event": [
+    "Isabella Rodriguez",
+    "prepare",
+    "food items"
+  ],
+  "act_obj_description": "busy and full of activity with Isabella Rodriguez preparing food items for customers",
+  "act_obj_pronunciatio": "\ud83d\udc69\u200d\ud83c\udf73",
+  "act_obj_event": [
+    "cooking area",
+    "is",
+    "busy"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": -148
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": []
+}

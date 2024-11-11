@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella discussing their shared interest in poetry and planning for the poetry party later at Hobbs Cafe, where Klaus will share a Shakespearian sonnet and help set up for the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I noticed you're enjoying your meal. Have you ever tried writing poetry before?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, actually, I have dabbled in poetry a bit. It's something I find quite enjoyable and cathartic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's wonderful Klaus. You know, I'm hosting a poetry party at Hobbs Cafe later today. It would be lovely if you could join us and maybe share some of your poetry."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds amazing, Isabella! I would love to join your poetry party and share some of my work."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Just a heads up, everyone attending the poetry party needs to bring a Shakespearian sonnet. Looking forward to hearing your work, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invite, Isabella. I'll make sure to bring a Shakespearian sonnet to the poetry party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you at the poetry party at 5 pm. Looking forward to hearing your Shakespearian sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm excited to share my poetry at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I hope you have a wonderful day until the poetry party later!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm looking forward to the poetry party later today. Do you need any help setting up for the event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Klaus! I could definitely use an extra hand with setting up for the poetry party."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to help out, Isabella. Just let me know what you need assistance with."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's head over to the event space and start setting up for the poetry party. Your help will be much appreciated!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad I can help out, Isabella. Let's make this poetry party memorable!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Let's start by setting up the stage for the poetry readings."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a specific theme or dress code for the poetry party?"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "reading a book (reading the sixth chapter) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus and Isabella discussing their shared interest in poetry and planning for the poetry party later at Hobbs Cafe, where Klaus will share a Shakespearian sonnet and help set up for the event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I noticed you're enjoying your meal. Have you ever tried writing poetry before?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, actually, I have dabbled in poetry a bit. It's something I find quite enjoyable and cathartic."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's wonderful Klaus. You know, I'm hosting a poetry party at Hobbs Cafe later today. It would be lovely if you could join us and maybe share some of your poetry."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds amazing, Isabella! I would love to join your poetry party and share some of my work."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Just a heads up, everyone attending the poetry party needs to bring a Shakespearian sonnet. Looking forward to hearing your work, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the invite, Isabella. I'll make sure to bring a Shakespearian sonnet to the poetry party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'll see you at the poetry party at 5 pm. Looking forward to hearing your Shakespearian sonnet!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm excited to share my poetry at the party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I hope you have a wonderful day until the poetry party later!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella. I'm looking forward to the poetry party later today. Do you need any help setting up for the event?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering to help, Klaus! I could definitely use an extra hand with setting up for the poetry party."
+        ],
+        [
+          "Klaus Mueller",
+          "I'd be happy to help out, Isabella. Just let me know what you need assistance with."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Let's head over to the event space and start setting up for the poetry party. Your help will be much appreciated!"
+        ],
+        [
+          "Klaus Mueller",
+          "I'm glad I can help out, Isabella. Let's make this poetry party memorable!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Let's start by setting up the stage for the poetry readings."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there a specific theme or dress code for the poetry party?"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:49:20"
+  }
+}

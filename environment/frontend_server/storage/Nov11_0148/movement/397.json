@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udce6",
+      "description": "serving customers at Hobbs Cafe (taking inventory of supplies) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        130,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two researchers, Klaus Mueller and Maria Lopez, discussing their interest in urban development, planning to meet at Hobbs Cafe at 1:30 pm to exchange ideas and delve into the impact of gentrification on community cohesion and social dynamics over coffee. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's your morning going so far?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, my morning is going well! How about you, making good progress with your research paper?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yeah, I've found some really interesting sources that I think will add a lot of value to my paper. It's always fascinating to learn about different perspectives on gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds really interesting! I've been reading a lot about urban development too lately."
+        ],
+        [
+          "Klaus Mueller",
+          "It's great to hear that you're also interested in urban development! Maybe we can share some insights or discuss our findings sometime."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! We could meet up at Hobbs Cafe after lunch and chat more about our research."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect! Let's plan on meeting at Hobbs Cafe around 1:30 pm after we finish our work."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our chat and exchanging ideas!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you at Hobbs Cafe at 1:30 pm then! Thanks for the chat, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! See you at Hobbs Cafe at 1:30 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Before I head back to work on my paper, do you have any specific topics in urban development that you find most fascinating?"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I'm particularly intrigued by the impact of urban development on community cohesion and social dynamics."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a really interesting topic. I've read some articles on community cohesion and its relationship with gentrification. Would you be open to discussing that aspect further over coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I would love to delve into that topic over coffee. It's always enlightening to explore different perspectives on community cohesion and social dynamics."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's discuss how community cohesion can be affected by the process of gentrification. I'm eager to hear your thoughts on this topic."
+        ],
+        [
+          "Maria Lopez",
+          "Absolutely, I have some insightful research findings to share with you on that topic. Looking forward to our discussion over coffee!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        130,
+        50
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two researchers, Klaus Mueller and Maria Lopez, discussing their interest in urban development, planning to meet at Hobbs Cafe at 1:30 pm to exchange ideas and delve into the impact of gentrification on community cohesion and social dynamics over coffee. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how's your morning going so far?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, my morning is going well! How about you, making good progress with your research paper?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yeah, I've found some really interesting sources that I think will add a lot of value to my paper. It's always fascinating to learn about different perspectives on gentrification."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds really interesting! I've been reading a lot about urban development too lately."
+        ],
+        [
+          "Klaus Mueller",
+          "It's great to hear that you're also interested in urban development! Maybe we can share some insights or discuss our findings sometime."
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like a great idea! We could meet up at Hobbs Cafe after lunch and chat more about our research."
+        ],
+        [
+          "Klaus Mueller",
+          "That sounds perfect! Let's plan on meeting at Hobbs Cafe around 1:30 pm after we finish our work."
+        ],
+        [
+          "Maria Lopez",
+          "I'm looking forward to our chat and exchanging ideas!"
+        ],
+        [
+          "Klaus Mueller",
+          "Great, see you at Hobbs Cafe at 1:30 pm then! Thanks for the chat, Maria."
+        ],
+        [
+          "Maria Lopez",
+          "Sounds like a plan! See you at Hobbs Cafe at 1:30 pm."
+        ],
+        [
+          "Klaus Mueller",
+          "Before I head back to work on my paper, do you have any specific topics in urban development that you find most fascinating?"
+        ],
+        [
+          "Maria Lopez",
+          "Well, I'm particularly intrigued by the impact of urban development on community cohesion and social dynamics."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a really interesting topic. I've read some articles on community cohesion and its relationship with gentrification. Would you be open to discussing that aspect further over coffee?"
+        ],
+        [
+          "Maria Lopez",
+          "Yes, I would love to delve into that topic over coffee. It's always enlightening to explore different perspectives on community cohesion and social dynamics."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let's discuss how community cohesion can be affected by the process of gentrification. I'm eager to hear your thoughts on this topic."
+        ],
+        [
+          "Maria Lopez",
+          "Absolutely, I have some insightful research findings to share with you on that topic. Looking forward to our discussion over coffee!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:06:10"
+  }
+}
