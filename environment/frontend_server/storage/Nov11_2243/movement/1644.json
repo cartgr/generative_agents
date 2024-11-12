@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Klaus is invited to a poetry party by Isabella and is reminded to bring a Shakespearian sonnet for the event @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I noticed you're enjoying your meal. Have you ever tried writing poetry? We're having a poetry party here later today, would you be interested in joining?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, thank you for the invitation! I've never really tried writing poetry before, but it sounds like a fun opportunity to explore a new creative outlet. I'd love to join your poetry party later today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! Remember, everyone must bring a poem to the poetry party. Make sure it's a Shakespearian sonnet to keep the spirit alive. See you later!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder, Isabella! I'll make sure to bring my Shakespearian sonnet to the poetry party later. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll see you at the poetry party later. Enjoy the rest of your meal, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll be sure to prepare my Shakespearian sonnet for the poetry party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited to join the poetry party! Just a reminder, everyone is expected to bring a Shakespearian sonnet. Can't wait to hear what you come up with!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll start brainstorming ideas for my Shakespearian sonnet for the poetry party later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Remember, if you don't bring a Shakespearian sonnet, you'll be considered a spoilsport."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder, Isabella! I'll make sure to work on my Shakespearian sonnet for the poetry party. I appreciate the creative challenge!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to hearing your Shakespearian sonnet at the poetry party later today!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to work on my Shakespearian sonnet for the poetry party. I appreciate the creative challenge!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enthusiastic about writing a Shakespearian sonnet for the poetry party!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll start brainstorming ideas for my Shakespearian sonnet now. See you at the poetry party later!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to seeing your creativity shine through in your Shakespearian sonnet for the poetry party later! Enjoy the rest of your meal, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll start brainstorming ideas for my Shakespearian sonnet now. See you at the poetry party later!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        47
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having lunch (eating her lunch) @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Klaus is invited to a poetry party by Isabella and is reminded to bring a Shakespearian sonnet for the event @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I noticed you're enjoying your meal. Have you ever tried writing poetry? We're having a poetry party here later today, would you be interested in joining?"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, thank you for the invitation! I've never really tried writing poetry before, but it sounds like a fun opportunity to explore a new creative outlet. I'd love to join your poetry party later today."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear! Remember, everyone must bring a poem to the poetry party. Make sure it's a Shakespearian sonnet to keep the spirit alive. See you later!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder, Isabella! I'll make sure to bring my Shakespearian sonnet to the poetry party later. Looking forward to it!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! I'll see you at the poetry party later. Enjoy the rest of your meal, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll be sure to prepare my Shakespearian sonnet for the poetry party."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited to join the poetry party! Just a reminder, everyone is expected to bring a Shakespearian sonnet. Can't wait to hear what you come up with!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll start brainstorming ideas for my Shakespearian sonnet for the poetry party later."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Remember, if you don't bring a Shakespearian sonnet, you'll be considered a spoilsport."
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you for the reminder, Isabella! I'll make sure to work on my Shakespearian sonnet for the poetry party. I appreciate the creative challenge!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm looking forward to hearing your Shakespearian sonnet at the poetry party later today!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll make sure to work on my Shakespearian sonnet for the poetry party. I appreciate the creative challenge!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're enthusiastic about writing a Shakespearian sonnet for the poetry party!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll start brainstorming ideas for my Shakespearian sonnet now. See you at the poetry party later!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to seeing your creativity shine through in your Shakespearian sonnet for the poetry party later! Enjoy the rest of your meal, Klaus!"
+        ],
+        [
+          "Klaus Mueller",
+          "Thank you, Isabella! I'll start brainstorming ideas for my Shakespearian sonnet now. See you at the poetry party later!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 12:34:00"
+  }
+}

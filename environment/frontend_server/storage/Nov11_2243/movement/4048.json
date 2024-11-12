@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella are chatting about an upcoming poetry party at Hobbs Cafe and discussing details such as bringing a Shakespearian sonnet, the start time at 10 am, theme flexibility, lack of dress code, and expressing excitement to share poetry. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How has your day been so far?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! My day has been pretty good. Just studying for my physics exam later this week. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a tough exam! Well, would you like to join us for the poetry party we're hosting at Hobbs Cafe later today?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like fun! I would love to join the poetry party. What time does it start?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The poetry party starts at 10 am. Make sure to bring a Shakespearian sonnet to share!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring a Shakespearian sonnet with me. Thanks for inviting me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Awesome! Can't wait to hear your Shakespearian sonnet. See you at 10 am!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, before I forget, is there a specific theme for the poetry party or is it open for any Shakespearian sonnet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The poetry party is open for any Shakespearian sonnet, so feel free to share whatever resonates with you. Can't wait to see you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for organizing the poetry party! I'm looking forward to sharing my Shakespearian sonnet with everyone."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Looking forward to having you there. Enjoy the rest of your day studying for your physics exam!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there a dress code for the poetry party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "There isn't a specific dress code for the poetry party, just come as you are comfortable!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for inviting me to the poetry party! I'm excited to join. See you at 10 am."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to seeing you there! Have a great rest of your day."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for inviting me, Isabella! I'll definitely be there at 10 am for the poetry party. Have a great day!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Isabella are chatting about an upcoming poetry party at Hobbs Cafe and discussing details such as bringing a Shakespearian sonnet, the start time at 10 am, theme flexibility, lack of dress code, and expressing excitement to share poetry. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Maria! How has your day been so far?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Isabella! My day has been pretty good. Just studying for my physics exam later this week. How about you?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That sounds like a tough exam! Well, would you like to join us for the poetry party we're hosting at Hobbs Cafe later today?"
+        ],
+        [
+          "Maria Lopez",
+          "That sounds like fun! I would love to join the poetry party. What time does it start?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The poetry party starts at 10 am. Make sure to bring a Shakespearian sonnet to share!"
+        ],
+        [
+          "Maria Lopez",
+          "Great! I'll make sure to bring a Shakespearian sonnet with me. Thanks for inviting me!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Awesome! Can't wait to hear your Shakespearian sonnet. See you at 10 am!"
+        ],
+        [
+          "Maria Lopez",
+          "Actually, before I forget, is there a specific theme for the poetry party or is it open for any Shakespearian sonnet?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "The poetry party is open for any Shakespearian sonnet, so feel free to share whatever resonates with you. Can't wait to see you there!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for organizing the poetry party! I'm looking forward to sharing my Shakespearian sonnet with everyone."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Great! Looking forward to having you there. Enjoy the rest of your day studying for your physics exam!"
+        ],
+        [
+          "Maria Lopez",
+          "Is there a dress code for the poetry party?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "There isn't a specific dress code for the poetry party, just come as you are comfortable!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you for inviting me to the poetry party! I'm excited to join. See you at 10 am."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Looking forward to seeing you there! Have a great rest of your day."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you again for inviting me, Isabella! I'll definitely be there at 10 am for the poetry party. Have a great day!"
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        114,
+        50
+      ],
+      "pronunciatio": "\u25b6\ufe0f",
+      "description": "relaxing and unwinding by reading a book or watching a show (resuming the show) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 19:14:40"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are chatting about preparing for a poetry party, sharing their poems, and ensuring that everything is set up perfectly for the event. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I hope you've prepared your Shakespearian sonnet for the poetry party today!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, yes, I've been working on it and I'm excited to share it tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Klaus! I can't wait to hear your sonnet later. Make sure to get a good spot for when the poetry readings start."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Isabella! I'm really looking forward to the poetry party. Have you prepared something to share as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Klaus, I have a special poem prepared for the poetry party as well. I'm excited for everyone to share their pieces tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome, Isabella! I can't wait to hear your poem as well. It's always so inspiring to hear everyone's creativity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited for the poetry party, Klaus! Let's make sure everyone has a great time tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything I can help with for the poetry party set-up, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Klaus! Could you help me bring some more chairs from the storage room to ensure we have enough seating for everyone?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, Isabella! I'll go grab the chairs from the storage room right now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Your help is much appreciated. Let's make sure everything is set up perfectly for the poetry party tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "I've brought the extra chairs from the storage room, Isabella. Where would you like them placed?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Let's place the extra chairs around the tables to ensure everyone has a comfortable seat for the poetry readings."
+        ],
+        [
+          "Klaus Mueller",
+          "Is everything else set up for the poetry party, Isabella? Do you need any more help?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your help, Klaus! Everything is all set for the poetry party. I appreciate your assistance in getting the extra chairs."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        123,
+        48
+      ],
+      "pronunciatio": "\ud83c\udf7d\ufe0f",
+      "description": "having dinner @ the Ville:Dorm for Oak Hill College:kitchen:cooking area",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Klaus Mueller and Isabella Rodriguez are chatting about preparing for a poetry party, sharing their poems, and ensuring that everything is set up perfectly for the event. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hey Klaus, I hope you've prepared your Shakespearian sonnet for the poetry party today!"
+        ],
+        [
+          "Klaus Mueller",
+          "Hey Isabella, yes, I've been working on it and I'm excited to share it tonight!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Klaus! I can't wait to hear your sonnet later. Make sure to get a good spot for when the poetry readings start."
+        ],
+        [
+          "Klaus Mueller",
+          "Thanks, Isabella! I'm really looking forward to the poetry party. Have you prepared something to share as well?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, Klaus, I have a special poem prepared for the poetry party as well. I'm excited for everyone to share their pieces tonight!"
+        ],
+        [
+          "Klaus Mueller",
+          "That's awesome, Isabella! I can't wait to hear your poem as well. It's always so inspiring to hear everyone's creativity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I'm glad you're excited for the poetry party, Klaus! Let's make sure everyone has a great time tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "Is there anything I can help with for the poetry party set-up, Isabella?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for offering, Klaus! Could you help me bring some more chairs from the storage room to ensure we have enough seating for everyone?"
+        ],
+        [
+          "Klaus Mueller",
+          "Of course, Isabella! I'll go grab the chairs from the storage room right now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Your help is much appreciated. Let's make sure everything is set up perfectly for the poetry party tonight."
+        ],
+        [
+          "Klaus Mueller",
+          "I've brought the extra chairs from the storage room, Isabella. Where would you like them placed?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus! Let's place the extra chairs around the tables to ensure everyone has a comfortable seat for the poetry readings."
+        ],
+        [
+          "Klaus Mueller",
+          "Is everything else set up for the poetry party, Isabella? Do you need any more help?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for your help, Klaus! Everything is all set for the poetry party. I appreciate your assistance in getting the extra chairs."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 17:08:20"
+  }
+}

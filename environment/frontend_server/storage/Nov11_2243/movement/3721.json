@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83e\udd64",
+      "description": "serving customers at Hobbs Cafe (serving drinks to customers) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        119,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "relaxing and watching TV (conversing about Maria Lopez and Klaus Mueller discussing the potential of community land trusts in preventing displacement and the importance of community engagement in decision-making processes.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        123,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "relaxing and unwinding by reading a book or watching a show (conversing about Maria Lopez and Klaus Mueller discussing the potential of community land trusts in preventing displacement and the importance of community engagement in decision-making processes.) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 18:20:10"
+  }
+}

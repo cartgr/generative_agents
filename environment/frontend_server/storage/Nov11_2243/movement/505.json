@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\u2615",
+      "description": "serving customers at Hobbs Cafe (preparing the coffee machines) @ the Ville:Isabella Rodriguez's apartment:main room:shelf",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "eating breakfast (conversing about Maria Lopez and Klaus Mueller are discussing the impact of gentrification, potential solutions to prevent displacement such as community land trusts, successful implementation of these approaches like the Dudley Street Neighborhood Initiative in Boston, and the importance of community engagement in shaping neighborhoods.) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        119,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "researching and writing his paper on gentrification (conversing about Maria Lopez and Klaus Mueller are discussing the impact of gentrification, potential solutions to prevent displacement such as community land trusts, successful implementation of these approaches like the Dudley Street Neighborhood Initiative in Boston, and the importance of community engagement in shaping neighborhoods.) @ the Ville:Oak Hill College:library:bookshelf",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:24:10"
+  }
+}
